@@ -11,7 +11,7 @@ const devMode = process.env.NODE_ENV !== "production";
 module.exports = {
   mode: 'development',
   entry: './src/index.js',
-  devtool: 'inline-source-map',
+  devtool: devMode ? 'source-map' : 'none',
   devServer: {
     static: '.',
     client: {
