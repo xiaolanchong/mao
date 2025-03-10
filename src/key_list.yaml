@@ -1,0 +1,2159 @@
+- key:
+    sym:
+      - char:
+          rad: ⼂
+    name: ПЧЕЛКА
+    images: bee.png
+    text: В зависимости от создаваемой мнемосценки ее можно заменять на другие мелкие
+      предметы.
+    examples: 义 忍
+- key:
+    sym:
+      - char:
+          rad: ⼧
+    name: БЕРЕТ
+    images: beret.png
+    text: такой носят на голове
+    examples: 宗 寢
+- key:
+    sym:
+      - char:
+          rad_img: turk-sabre-rad.png
+    name: САБЛЯ ТУРЕЦКАЯ
+    images: turk_sabre.png
+    text: изогнутый вариант цифры 十
+    examples: 贼 绒
+- key:
+    sym:
+      - char:
+          rad: ⼁
+    name: КОЛ
+    images: spike.png
+    text: шест, штырь и все из этой серии.
+    examples: 临 蓝
+- key:
+    sym:
+      - char:
+          rad: ⼄
+      - char:
+          rad: 乚
+    name: ПЕЛИКАН
+    images: pelican.png
+    text: справо другой вариант радикала. Кодируем как "безголовый пеликан" или "рыболовный
+      крючок".
+    examples: 乞 乱
+- key:
+    sym:
+      - char:
+          rad: 人
+      - char:
+          rad: 𠆢
+      - char:
+          rad: 亻
+    name: ЧЕЛОВЕК
+    images: man.png
+    text: справа другие варианты написания. Крайний вариант можно кодировать как "худой
+      человек"
+    examples: 囚 债 余
+- key:
+    sym:
+      - char:
+          rad: 亠
+    name: КРЫШКА ОТ КАСТРЮЛИ
+    images: lid.png
+    text: ''
+    examples: 亮 抗
+- key:
+    sym:
+      - char:
+          rad: 丿
+    name: ЛОМИК-ФОМКА
+    images: crowbar.png
+    text: таким вскрывают закрытые двери
+    examples: 价
+- key:
+    sym:
+      - char:
+          rad: 一
+    name: КОПЬЕ
+    images: spear.png
+    text: также это китайская цифра 1
+    examples: 丛 但
+- key:
+    sym:
+      - char:
+          rad: 冖
+    name: СКАМЕЙКА
+    images: bench.png
+    text: ''
+    examples: 冗 军
+- key:
+    sym:
+      - char:
+          rad: 厂
+    name: КРОКОДИЛЬЧИК СЛЕПОЙ
+    images: blind_crocodile.png
+    text: потому что еще маленький.
+    examples: 压 厢
+- key:
+    sym:
+      - char:
+          rad: 广
+    name: КРОКОДИЛ
+    images: crocodile.png
+    text: конечно, крокодил Гена
+    examples: 店 廓
+- key:
+    sym:
+      - char:
+          rad: ⽧
+    name: КРОКОДИЛ С КРЫЛЫШКАМИ
+    images: winged_crocodile.png
+    text: нелепейшее создание
+    examples: 疗 疾
+- key:
+    sym:
+      - char:
+          rad: ⼹
+    name: КОМАР
+    images: mosquito.png
+    text: ''
+    examples: 当 寻
+- key:
+    sym:
+      - char:
+          rad: 彑
+    name: ЛЫЖНИК
+    images: skier-2.png
+    text: это другое написание радикала "комар"
+    examples: 彔
+- key:
+    sym:
+      - char:
+          rad: ⼯
+    name: ГАНТЕЛЯ
+    images: dumbbell.png
+    text: ''
+    examples: 红 经
+- key:
+    sym:
+      - char:
+          rad: 勹
+      - char:
+          rad: 𠃌
+    name: БУРАТИНО
+    images: buratino.png
+    text: слишком любопытный для такого роста :) Справа безголовый буратино.
+    examples: 包 询 局
+- key:
+    sym:
+      - char:
+          rad: 刂
+    name: МЕЧ
+    images: sword.png
+    text: ''
+    examples: 剂 前
+- key:
+    sym:
+      - char:
+          rad: 刀
+      - char:
+          rad: 乃
+    name: АВТОМАТ "ШМАЙСЕР"
+    images: schmeisser.png
+    text: это другое написание радикала МЕЧ, в иероглифах встречаются оба варианта.
+      А так как они визуально непохожи, пришлось их разделить. Справа - "поломанный
+      автомат".
+    examples: 切 仞 秀
+- key:
+    sym:
+      - char:
+          rad: 力
+    name: АВТОМАТ КАЛАШНИКОВА
+    images: kalashnikov.png
+    text: с прицелом
+    examples: 劳 勉
+- key:
+    sym:
+      - char:
+          rad: 丁
+    name: КАЙЛО
+    images: pickaxe.png
+    text: или кирка, ледоруб.
+    examples: 厅
+- key:
+    sym:
+      - char:
+          rad: 阝
+    name: УДОЧКА
+    images: fishing_rod.png
+    text: ''
+    examples: 陔
+- key:
+    sym:
+      - char:
+          rad: 了
+    name: КОСА
+    images: scythe.png
+    text: ''
+    examples: 疗
+- key:
+    sym:
+      - char:
+          rad: 子
+    name: ЕГИПЕТСКИЙ ПОСОХ
+    images: ankh.png
+    text: или крест-анх, странная такая штука, непонятная
+    examples: 孰 學
+- key:
+    sym:
+      - char:
+          rad: ⼌
+    name: ТУРНИК
+    images: chinup_bars.png
+    text: в сценках можно заменять столом, где удобнее.
+    examples: 冈
+- key:
+    sym:
+      - char:
+          rad: ⼉
+    name: ПОЛОМАННАЯ НОЖКА
+    images: broken_leg.png
+    text: волочется сзади, жалко до слез:)
+    examples: 允 兇
+- key:
+    sym:
+      - char:
+          rad: ⼐
+    name: КАСТРЮЛЯ
+    images: metal_pot.png
+    text: в зависимости от мнемосцены это может быть любая емкость кружка, стакан
+      и т.д.
+    examples: 凼 函
+- key:
+    sym:
+      - char:
+          rad: 尸
+    name: ТОПОР
+    images: axe.png
+    text: ''
+    examples: 屆 屠
+- key:
+    sym:
+      - char:
+          rad: 户
+      - char:
+          rad: 戶
+    name: ЭЛЕКТРИЧЕСКИЙ ТОПОР
+    images: axe_electric.png
+    text: 'полный бред :) Когда к простому радикалу добавляется какой-то штрих, черточка
+      и чтобы не придумывать в этом случае отдельный мнемоключик, мы просто "апгрейдим"
+      старый мнемоключ. Смотрите варианты с "казаком": "казак с саблей", "казак с
+      ружьем" и т.д.'
+    examples: 戾 戺
+- key:
+    sym:
+      - char:
+          rad: ⼊
+    name: ВИГВАМ
+    images: wigwam.png
+    text: здесь живут индейцы, типа палатки
+    examples: 內 兩
+- key:
+    sym:
+      - char:
+          rad: ⼙
+    name: ТЕСАК
+    images: kitchen_axe.png
+    text: ''
+    examples: 却 卻
+- key:
+    sym:
+      - char:
+          rad: 㔾
+    name: ЗМЕЯ
+    images: curling_snake.png
+    text: это другое написание радикала ТЕСАК
+    examples: 危 卺
+- key:
+    sym:
+      - char:
+          rad: 匕
+    name: МАТРОСИК
+    images: sailor.png
+    text: танцующий танец "Яблочко"
+    examples: 此 化
+- key:
+    sym:
+      - char:
+          rad: 比
+    name: МАТРОСИКИ
+    images: two_sailors.png
+    text: ''
+    examples: 毘 毙
+- key:
+    sym:
+      - char:
+          rad: ⼞
+    name: ОГРАДА
+    images: fence.png
+    text: можно забор, изгородь
+    examples: 圂 圌
+- key:
+    sym:
+      - char:
+          rad: 口
+    name: РОТ
+    images: mouth.png
+    text: отличается от предыдущего размером. В мнемосценках можно заменять любыми
+      квадратными предметами, коробки, кубы и т.д.
+    examples: 咍 呜 咒
+- key:
+    sym:
+      - char:
+          rad: 斤
+    name: ГИББОН
+    images: monkey.png
+    text: макака, обезьяна, в общем
+    examples: 新 斧
+- key:
+    sym:
+      - char:
+          rad: 厶
+    name: КУЛЕК КОНФЕТ
+    images: sack.png
+    text: частый элемент иероглифов. Можно заменять на мешок или пакет, неважно с
+      чем.
+    examples: 能
+- key:
+    sym:
+      - char:
+          rad: 大
+    name: ВЕЛИКАН
+    images: giant.png
+    text: ''
+    examples: 夭 夼
+- key:
+    sym:
+      - char:
+          rad: ⼸
+    name: КНУТ
+    images: whip.png
+    text: или хлыст, плетка
+    examples: 弭 弩
+- key:
+    sym:
+      - char:
+          rad: ⼲
+    name: ОТБОЙНЫЙ МОЛОТОК
+    images: jackhammer.png
+    text: ''
+    examples: 幵 平
+- key:
+    sym:
+      - char:
+          rad: ⼟
+    name: РОСТОК ИЗ ЗЕМЛИ
+    images: sprout.png
+    text: ''
+    examples: 坭 坐
+- key:
+    sym:
+      - char:
+          rad: 士
+    name: БОМБАРДИРОВЩИК
+    images: bomber.png
+    text: сравните с ⼟
+    examples: 壶 壯
+- key:
+    sym:
+      - char:
+          rad: 冫
+    name: ТЕННИСНАЯ РАКЕТКА
+    images: racket.png
+    text: ''
+    examples: 冶 凐
+- key:
+    sym:
+      - char:
+          rad: 水
+      - char:
+          rad: 氵
+    name: ВОДА
+    images: water_drops.png
+    text: вариант справа лучше представлять как капли, брызги воды.
+    examples: 沲 汆 汯 彔
+- key:
+    sym:
+      - char:
+          rad: 犬
+      - char:
+          rad: 犭
+    name: СОБАЧКА
+    images: dog.png
+    text: вариант справа можно представлять в виде танцующей собачки Каштанки.
+    examples: 突 狈
+- key:
+    sym:
+      - char:
+          rad: 乂
+    name: КОСТИ
+    images: bones.png
+    text: в некоторых иероглифах можно кодировать как "нет, отсутствие"
+    examples: 凶
+- key:
+    sym:
+      - char:
+          rad: 父
+    name: ОТЕЦ
+    images: father.png
+    text: с розгами
+    examples: 爸 爺
+- key:
+    sym:
+      - char:
+          rad: 甘
+    name: ГИЛЬОТИНА
+    images: guillotine.png
+    text: такой штукой отрубали головы
+    examples: 甙 甝
+- key:
+    sym:
+      - char:
+          rad: 廿
+    name: ПАЛАНКИН
+    images: palanquin.png
+    text: в таком носили очень важных персон
+    examples: 度
+- key:
+    sym:
+      - char:
+          rad: 几
+    name: ГУСЕНИЦА
+    images: caterpillar.png
+    text: ''
+    examples: 凯 凭 凰
+- key:
+    sym:
+      - char:
+          rad: 小
+    name: МАЛЕНЬКИЙ САМОЛЕТИК
+    images: small_aircraft.png
+    text: нет, в самом деле, очень маленький самолетик
+    examples: 尒 尔
+- key:
+    sym:
+      - char:
+          rad: 言
+      - char:
+          rad: 言
+    name: КАСТРЮЛЯ С БЛИНАМИ
+    images: pancake_pot.png
+    text: некуда было сложить блины, а почему бы не положить их в кастрюлю :) Справа
+      другое написание радикала. Этот радикал - традиционное написание радикала "маньяк"
+    examples: 詬 計
+- key:
+    sym:
+      - char:
+          rad: 寸
+    name: ПОДЪЕМНЫЙ КРАН С КРЮКОМ
+    images: crane.png
+    text: ''
+    examples: 尉 封 寺
+- key:
+    sym:
+      - char:
+          rad: 巾
+    name: ФЛАГ-ШТАНДАРТ
+    images: roman_flag.png
+    text: наверное, такой был у римлян
+    examples: 帛 幏
+- key:
+    sym:
+      - char:
+          rad: 方
+    name: ФУТБОЛИСТ
+    images: footballer.png
+    text: ''
+    examples: 旚 旁
+- key:
+    sym:
+      - char:
+          rad: 殳
+    name: НАПОЛЕОН
+    images: napoleon.png
+    text: тот самый толстенький и маленький
+    examples: 殶 殽
+- key:
+    sym:
+      - char:
+          rad: ⼰
+      - char:
+          rad: 已
+    name: МОРСКОЙ КОНЕК
+    images: seahorse.png
+    text: справа еще одно написание радикала. Отличаются между собой маленьким штришком.
+      В мнемосценках можно кодировать как морская лошадь и морской конь
+    examples: 巹 起
+- key:
+    sym:
+      - char:
+          rad: 巳
+    name: ВОДОЛАЗ
+    images: diver.png
+    text: это другое написание радикала "морской конек" а так они взаимозаменяемы
+    examples: 匏
+- key:
+    sym:
+      - char:
+          rad: 巴
+    name: ОЧКАРИК
+    images: foureyes.png
+    text: ''
+    examples: 爬
+- key:
+    sym:
+      - char:
+          rad: 文
+    name: СТРОИТЕЛЬ
+    images: builder.png
+    text: так уж сложилось - таджик
+    examples: 济 这
+- key:
+    sym:
+      - char:
+          rad: 夂
+    name: СТРАУС ЭМУ
+    images: ostrich_emu.png
+    text: запомните, что страус без хвоста.
+    examples: 处 备
+- key:
+    sym:
+      - char:
+          rad: 支
+    name: КАЗАК
+    images: cossack.png
+    text: в шароварах
+    examples: 攲 攳
+- key:
+    sym:
+      - char:
+          rad: 攵
+    name: ХВОСТАТАЯ ЦАПЛЯ
+    images: heron.png
+    text: Это другое написание радикала "казак с ружьем"
+    examples: 攻 故 敿
+- key:
+    sym:
+      - char:
+          rad: 攴
+    name: КАЗАК С РУЖЬЕМ
+    images: cossack_with_gun.png
+    text: ''
+    examples: 敁 敊
+- key:
+    sym:
+      - char:
+          rad: 皮
+    name: КАЗАК С САБЛЕЙ
+    images: cossack_with_sabre.png
+    text: ''
+    examples: 皯 皰
+- key:
+    sym:
+      - char:
+          rad: 夕
+    name: КЕНГУРУ
+    images: kangaroo.png
+    text: ''
+    examples: 多 夗
+- key:
+    sym:
+      - char:
+          rad: 歹
+    name: КЕНГУРУ С КОПЬЕМ
+    images: kangaroo_with_spear.png
+    text: ''
+    examples: 死 殡
+- key:
+    sym:
+      - char:
+          rad: 变
+    name: КАЗАЧИЙ АТАМАН
+    images: cossack_ataman.png
+    text: в погонах, кителе и шароварах
+    examples: 变
+- key:
+    sym:
+      - char:
+          rad: 又
+    name: ПУЗО
+    images: belly.png
+    text: ''
+    examples: 反 取
+- key:
+    sym:
+      - char:
+          rad: 爪
+    name: ДЖИНСЫ
+    images: jeans.png
+    text: Полная форма 爫
+    examples: 爬 抓
+- key:
+    sym:
+      - char:
+          rad: 瓜
+    name: ХВОСТ ЧЕРТА
+    images: devil_tail.png
+    text: ''
+    examples: 瓢 瓟
+- key:
+    sym:
+      - char:
+          rad: 女
+    name: ДЕВУШКА
+    images: girl.png
+    text: закрепите за этим радикалом конкретный образ, можете представить свою знакомую
+      подружку Машу, Олю, Свету... За счет этого мнемосценки лучше запомнятся.
+    examples: 姻 媐
+- key:
+    sym:
+      - char:
+          rad: 礻
+      - char:
+          rad: 示
+    name: ТОП-МОДЕЛЬ
+    images: fashion_model.png
+    text: справа тот же радикал в другом написание, кодируйте его как "толстуха" :)
+    examples: 祂 祠 祟 禢
+- key:
+    sym:
+      - char:
+          rad: 石
+    name: САМОКАТ
+    images: scooter.png
+    text: вижу, что на картинке велосипед, но как-то приклеился за этим радикалом
+      именно самокат
+    examples: 硈 磨
+- key:
+    sym:
+      - char:
+          rad: 日
+    name: СОЛНЦЕ
+    images: sun.png
+    text: просто нужно так запомнить, хотя визуально нисколечко не похоже :)
+    examples: 昝 显 晗
+- key:
+    sym:
+      - char:
+          rad: 白
+    name: ХОЛОДИЛЬНИК
+    images: refrigirator.png
+    text: белый такой, двухкамерный
+    examples: 百 皓 皙
+- key:
+    sym:
+      - char:
+          rad: 占
+    name: ТАНК
+    images: tank.png
+    text: ''
+    examples: 店 呫
+- key:
+    sym:
+      - char:
+          rad: 古
+    name: МОГИЛКА
+    images: grave.png
+    text: ''
+    examples: 苦 故
+- key:
+    sym:
+      - char:
+          rad: 舌
+    name: ЯЗЫК
+    images: tongue.png
+    text: немножко скошенный набок
+    examples: 舐 舍
+- key:
+    sym:
+      - char:
+          rad: 瓦
+    name: СУДЬЯ
+    images: judge.png
+    text: в шапочке и парике
+    examples: 瓵 瓮
+- key:
+    sym:
+      - char:
+          rad: 弋
+    name: ВРАТАРЬ
+    images: goalkeeper.png
+    text: ''
+    examples: 试
+- key:
+    sym:
+      - char:
+          rad: 斗
+    name: ВРАТАРЬ-МУТАНТ
+    images: goalkeeper_mutant.png
+    text: это потому что у него две головы
+    examples: 斝 料
+- key:
+    sym:
+      - char:
+          rad: 木
+    name: ДЕРЕВО
+    images: tree.png
+    text: ''
+    examples: 栓 果 李
+- key:
+    sym:
+      - char:
+          rad: 毛
+    name: ПЕРО
+    images: feather.png
+    text: ''
+    examples: 毡 毞 毾
+- key:
+    sym:
+      - char:
+          rad: 车
+      - char:
+          rad: 車
+    name: ТЕЛЕГА
+    images: cart.png
+    text: справа традиционное написание радикала, кодируем как "старая телега". Также
+      можно кодировать как "машина"
+    examples: 轨 轼 輻 軍
+- key:
+    sym:
+      - char:
+          rad: 彳
+    name: ПЮПИТР
+    images: music_stand.png
+    text: подставка для нот у музыкантов
+    examples: 彷 徥
+- key:
+    sym:
+      - char:
+          rad: 行
+    name: КОНСЕРВАТОРИЯ
+    images: conservatory.png
+    text: это там, где много пюпитров
+    examples: 衍 衖
+- key:
+    sym:
+      - char:
+          rad: 才
+    name: БЭТМЕН
+    images: batman.png
+    text: крутой такой супергерой
+    examples: 闭
+- key:
+    sym:
+      - char:
+          rad: 央
+      - char:
+          rad: 夬
+    name: ШТАНГИСТ
+    images: weightlifter.png
+    text: справа "однорукий штангист"
+    examples: 英 快
+- key:
+    sym:
+      - char:
+          rad: 豆
+    name: СТАКАНЧИК
+    images: folding_cup.png
+    text: такой пластмассовый складной
+    examples: 豉 豊
+- key:
+    sym:
+      - char:
+          rad: 门
+    name: ДВЕРЬ
+    images: door.png
+    text: а в верхнем углу это звонок
+    examples: 闭 间
+- key:
+    sym:
+      - char:
+          rad: 門
+    name: ДВЕРЬ В САЛУН
+    images: saloon_door.png
+    text: Салун - это ковбойский бар. Предыдущий радикал в традиционном написании.
+      В составе других иероглифов встречаются оба, поэтому пришлось их разделить
+    examples: 閟 閵
+- key:
+    sym:
+      - char:
+          rad: 网
+      - char:
+          rad: 罒
+    name: СЕТКА ТЕННИСНАЯ
+    images: tennis_net.png
+    text: справа другое написание радикала, кодируется, например, как сетка для настольного
+      тенниса.
+    examples: 罗 罷
+- key:
+    sym:
+      - char:
+          rad: 尢
+      - char:
+          rad: 无
+    name: СТАРЫЙ МОНАХ
+    images: old_monk.png
+    text: у него ножка волочется, поэтому и старый:) Второй вариант - это "старый
+      монах с копьем"
+    examples: 尪 抚
+- key:
+    sym:
+      - char:
+          rad: 月
+    name: ЛУНОЛИКАЯ НЕФЕРТИТИ
+    images: nefertiti.png
+    text: с короной, это в Египте была царица такая
+    examples: 期 望
+- key:
+    sym:
+      - char:
+          rad: 穴
+      - char:
+          rad_img: cave-radical.png
+    name: БАБА С КОРОМЫСЛОМ
+    images: woman_with_shoulderyoke.png
+    text: справа другое написание
+    examples: 窋 空 穷 穵
+- key:
+    sym:
+      - char:
+          rad: 皿
+    name: БАТАРЕЯ
+    images: radiator.png
+    text: радиаторная, чугунная, которая обогревает зимой
+    examples: 盔 盤 盖
+- key:
+    sym:
+      - char:
+          rad: 血
+    name: ТОРТ
+    images: cake.png
+    text: со свечкой
+    examples: 衁 衈
+- key:
+    sym:
+      - char:
+          rad: 气
+    name: МОТОЦИКЛИСТ
+    images: motorcyclist.png
+    text: ''
+    examples: 汽 氣
+- key:
+    sym:
+      - char:
+          rad: 米
+    name: РИС
+    images: rice.png
+    text: еще зеленые колосья
+    examples: 籵 粢 类
+- key:
+    sym:
+      - char:
+          rad: 廾
+    name: НОЖНИЦЫ
+    images: scissors.png
+    text: визуально мало общего, зато радикал похож на букву "Н" - ножницы
+    examples: 馵
+- key:
+    sym:
+      - char:
+          rad: 开
+    name: ЯПОНСКИЕ ВОРОТА
+    images: torii.png
+    text: тории, стоят перед синто святилищем
+    examples: 形
+- key:
+    sym:
+      - char:
+          rad: 爿
+      - char:
+          rad: 丬
+    name: ЗУБРИЛА
+    images: grind.png
+    text: ботан, справа другое написание радикала
+    examples: 牄 将
+- key:
+    sym:
+      - char:
+          rad: 片
+    name: КАРАТИСТ
+    images: karateka.png
+    text: ''
+    examples: 牊 版
+- key:
+    sym:
+      - char:
+          rad: 立
+    name: АТЛЕТ
+    images: athlete.png
+    text: сидит на шпагате
+    examples: 竑 竟 竖
+- key:
+    sym:
+      - char:
+          rad: 风
+      - char:
+          rad: 風
+    name: ХОККЕЙНЫЕ ВОРОТА
+    images: hockey_goal.png
+    text: справа традиционное написание радикала.
+    examples: 飑 颱 飀 飙
+- key:
+    sym:
+      - char:
+          rad: 耳
+    name: УХО
+    images: ear.png
+    text: ''
+    examples: 聐 聂 耷
+- key:
+    sym:
+      - char:
+          rad: 衣
+      - char:
+          rad: 衤
+    name: КИМОНО
+    images: kimono.png
+    text: справа  другое написание радикала, встречаются часто оба. Можно одно кодировать
+      как женское кимоно, другое как мужское. Также радикал справа можно кодировать
+      как "трансвестит", похож на радикал "топ-модель", только со штучкой:)
+    examples: 衵 裂 裞 袁 表
+- key:
+    sym:
+      - char:
+          rad: 氏
+    name: МАФИОЗИ
+    images: gangster.png
+    text: с автоматом
+    examples: 氐 婚
+- key:
+    sym:
+      - char:
+          rad: 京
+    name: МУДРЫЙ КИТАЙСКИЙ СТАРИЧОК
+    images: wiseman.png
+    text: с усами Фу Манчу и козлиной бородкой
+    examples: 影 惊
+- key:
+    sym:
+      - char:
+          rad: 马
+      - char:
+          rad: 馬
+    name: ЛОШАДЬ
+    images: horse.png
+    text: можно запомнить по очертаниям парящей лошади. Справа традиционное написание
+      радикала. Кодировать как "старая лошадь"
+    examples: 驭 骆 騃 駑 馵
+- key:
+    sym:
+      - char:
+          rad: 鸟
+      - char:
+          rad: 鳥
+    name: ПТИЦА
+    images: bird.png
+    text: справа традиционное написание радикала. Кодировать как "старая птица"
+    examples: 鸡 鸳 鳭 鴄
+- key:
+    sym:
+      - char:
+          rad: 谷
+    name: КРОТ
+    images: mole.png
+    text: задравший мордочку
+    examples: 容
+- key:
+    sym:
+      - char:
+          rad: 也
+    name: РЫБАК
+    images: fisher.png
+    text: рыбак с поломанной удочкой или с удочкой на рогатине
+    examples: 地
+- key:
+    sym:
+      - char:
+          rad: 革
+    name: ЧЕРТИК
+    images: imp.png
+    text: в шпагате
+    examples: 靸 鞮 鞶
+- key:
+    sym:
+      - char:
+          rad: 黄
+    name: КРЕСТОНОСЕЦ
+    images: crusader.png
+    text: ''
+    examples: 黈 黉
+- key:
+    sym:
+      - char:
+          rad: 足
+      - char:
+          rad: ⻊
+    name: ДЕД МАЗАЙ
+    images: mazai.png
+    text: справа другое написание радикала
+    examples: 促 踐
+- key:
+    sym:
+      - char:
+          rad: 疋
+      - char:
+          rad: 𤴔
+    name: ЖЕНА МАЗАЯ
+    images: mazai_wife.png
+    text: справа другое написание радикала
+    examples: 疐 疏
+- key:
+    sym:
+      - char:
+          rad: 心
+      - char:
+          rad: 忄
+    name: СЕРДЦЕ
+    images: heart.png
+    text: справа другое написание. В мнемофразах кодировать как "маленькое сердце".
+    examples: 思 怕 愛 总 悝
+- key:
+    sym:
+      - char:
+          rad: 手
+      - char:
+          rad: 扌
+    name: РУКА
+    images: hand.png
+    text: справа другое написание радикала, кодируем как рука без пальца
+    examples: 扬 挐 揫 打
+- key:
+    sym:
+      - char:
+          rad: 而
+    name: МИНА
+    images: landmine.png
+    text: ''
+    examples: 耑 耐
+- key:
+    sym:
+      - char:
+          rad: 面
+    name: СУПЕР ДИНАМИТ
+    images: superdynamite.png
+    text: динамит и взрыватель в одном флаконе, стрелка уеб.метра присутствует
+    examples: 靦 靥
+- key:
+    sym:
+      - char:
+          rad: 飞
+      - char:
+          rad: 飛
+    name: КОЛИБРИ
+    images: colibry.png
+    text: ''
+    examples: справа традиционное написание радикала, используется редко
+- key:
+    sym:
+      - char:
+          rad: 匚
+    name: ШТЕПСЕЛЬ
+    images: plug.png
+    text: ''
+    examples: 区 區
+- key:
+    sym:
+      - char:
+          rad: 丩
+    name: ВИЛЫ
+    images: pitchfork.png
+    text: ''
+    examples: 叫 收
+- key:
+    sym:
+      - char:
+          rad: 专
+    name: СНОУБОРДИСТ
+    images: snowboarder.png
+    text: ''
+    examples: 转
+- key:
+    sym:
+      - char:
+          rad: 身
+    name: ВОЕВОДА
+    images: voivode.png
+    text: ''
+    examples: 躲 躽
+- key:
+    sym:
+      - char:
+          rad: 讠
+    name: СЕКСУАЛЬНЫЙ МАНЬЯК
+    images: sexual_maniac.png
+    text: эксгибиционист, со стояком
+    examples: 访 认
+- key:
+    sym:
+      - char:
+          rad: 舟
+      - char:
+          rad: 丹
+    name: БОСС БИЗНЕСМЕН
+    images: boss.png
+    text: с чубчиком и в галстуке, справа - он же без галстука и чубчика
+    examples: 舢 艋 坍
+- key:
+    sym:
+      - char:
+          rad: 毋
+    name: СТЕКОЛЬЩИК
+    images: glazier.png
+    text: ''
+    examples: 毐
+- key:
+    sym:
+      - char:
+          rad: 母
+    name: ТЕННИСИСТЫ
+    images: tennis_players.png
+    text: это другое написание предыдущего радикала
+    examples: 每
+- key:
+    sym:
+      - char:
+          rad: 长
+      - char:
+          rad: 镸
+      - char:
+          rad: 長
+    name: ВОЖДЬ
+    images: chieftain.png
+    text: справа традиционное написание радикала, кодируем как "старый вождь"
+    examples: 张 镺 張
+- key:
+    sym:
+      - char:
+          rad: 艮
+    name: ЗНАМЕНОСЕЦ
+    images: standard_bearer.png
+    text: ''
+    examples: 艰 银 良
+- key:
+    sym:
+      - char:
+          rad: 靑
+    name: ЭЛЕКТРИЧКА
+    images: electric_train.png
+    text: ''
+    examples: 靚 靖
+- key:
+    sym:
+      - char:
+          rad: 田
+    name: ПОЛЕ
+    images: field.png
+    text: ''
+    examples: 甸 畲 畾
+- key:
+    sym:
+      - char:
+          rad: 骨
+      - char:
+          rad: 骨
+    name: КУРАНТЫ
+    images: chimes.png
+    text: '3-этажная башня с часами. Внимание: в зависимости от шрифта и локали, могут
+      показывать 5:45 или 6:15'
+    examples: 髅 骻
+- key:
+    sym:
+      - char:
+          rad: 里
+    name: ИНДУС В ЧАЛМЕ
+    images: hindu.png
+    text: ''
+    examples: 野 量
+- key:
+    sym:
+      - char:
+          rad: 黑
+    name: ЙОГ
+    images: hindu_nails.png
+    text: йог, факир на углях или гвоздях
+    examples: 黠 黨 黴
+- key:
+    sym:
+      - char:
+          rad: 山
+    name: ГОРЫ
+    images: mountains.png
+    text: ''
+    examples: 岨 岩 嵇
+- key:
+    sym:
+      - char:
+          rad: 见
+      - char:
+          rad: 見
+    name: СТАРЫЙ БОМЖ
+    images:
+      - hobo.png
+      - hobo_old.png
+    text: со сломанной ножкой, справа традиционное написание радикала - "бомж в полосатой
+      коробке"
+    examples: 览 觇 親 覛
+- key:
+    sym:
+      - char:
+          rad: 贝
+      - char:
+          rad: 貝
+    name: СИРОТА
+    images:
+      - orphan.png
+      - orphan_striped.png
+    text: ножки целые, живет в коробке, справа традиционное написание радикала "сирота
+      в полосатой коробке"
+    examples: 负 责 買 貹 賏
+- key:
+    sym:
+      - char:
+          rad: 页
+      - char:
+          rad: 頁
+    name: РИМСКИЙ ЛЕГИОНЕР
+    images: legionary.png
+    text: справа традиционное написание радикала - "легионер с полосатым щитом"
+    examples: 頄 颍 頇
+- key:
+    sym:
+      - char:
+          rad: 高
+    name: МАНДАРИН
+    images: mandarin.png
+    text: это важный китайский чиновник
+    examples: 髜
+- key:
+    sym:
+      - char:
+          rad: 电
+    name: ЭЛЕКТРИЧЕСКИЙ СКАТ
+    images: stingray.png
+    text: действительно может ударить электрическим током
+    examples: 龟
+- key:
+    sym:
+      - char:
+          rad: 习
+    name: БРАТ-БЛИЗНЕЦ
+    images: evil_twin.png
+    text: ''
+    examples: БРАТ-БЛИЗНЕЦ
+- key:
+    sym:
+      - char:
+          rad: 羽
+      - char:
+          rad: 羽
+    name: ЗЛЫЕ БЛИЗНЕЦЫ
+    images: evil_twins.png
+    text: справа другое написание радикала
+    examples: 羿 翜 翕
+- key:
+    sym:
+      - char:
+          rad: 去
+    name: КОЛБА
+    images: retort.png
+    text: ''
+    examples: 脚 法
+- key:
+    sym:
+      - char:
+          rad: 䒑
+    name: АИСТ
+    images: stork.png
+    text: в полете
+    examples: 前
+- key:
+    sym:
+      - char:
+          rad: 齿
+      - char:
+          rad: 齒
+    name: БРОНЕВИК
+    images: armoured_vehicle.png
+    text: это такая военная машина. Спереди - пулемет, сзади - антенна, внутри - экипаж.
+      Справа традиционное написание радикала, кодируем как "старый броневик"
+    examples: 龀 齙
+- key:
+    sym:
+      - char:
+          rad: 矢
+    name: МУШКЕТЕР
+    images: musketeer.png
+    text: с пером на шляпе
+    examples: 知 矫 矣
+- key:
+    sym:
+      - char:
+          rad: 缶
+    name: МУШКЕТЕР-ДУРАЧОК
+    images: musketeer_idiot.png
+    text: ''
+    examples: 缸 缹 罂
+- key:
+    sym:
+      - char:
+          rad: 辶
+    name: МАРКИТАНТКА
+    images: vivandiere.png
+    text: хм...девица легкого поведения
+    examples: 边 迻 迿 迈
+- key:
+    sym:
+      - char:
+          rad: 廴
+    name: НЕВЕСТА
+    images: bride.png
+    text: ''
+    examples: 延 建
+- key:
+    sym:
+      - char:
+          rad: 雨
+    name: ДОЖДИК
+    images: rain.png
+    text: капает за окном
+    examples: 雪 需
+- key:
+    sym:
+      - char:
+          rad: 禾
+    name: ДАМА ПИКОВАЯ
+    images: queen_of_spades.png
+    text: ''
+    examples: 秃 程 稷
+- key:
+    sym:
+      - char:
+          rad: 彡
+    name: КОГТИ
+    images: claws.png
+    text: ''
+    examples: 彭 影 彦
+- key:
+    sym:
+      - char:
+          rad: 鼠
+    name: МЫШЬ
+    images: mouse.png
+    text: ''
+    examples: 鼭 鼬
+- key:
+    sym:
+      - char:
+          rad: 韦
+      - char:
+          rad: 韋
+    name: КЛЕЩ
+    images: tick.png
+    text: справа традиционное написание, кодируем "старый клещ"
+    examples: 韧 衛 韎 韏
+- key:
+    sym:
+      - char:
+          rad: 巛
+      - char:
+          rad: 川
+    name: РЕКА
+    images: river.png
+    text: справа другое написание радикала
+    examples: 巡 巢 州
+- key:
+    sym:
+      - char:
+          rad: 两
+    name: ЕВРЕЙ С ПЕЙСАМИ
+    images: jew.png
+    text: ну как же нам без пары евреев:)
+    examples: 辆
+- key:
+    sym:
+      - char:
+          rad: 𤇾
+    name: БОКСЕРЫ
+    images: boxers.png
+    text: может братья Кличко :)
+    examples: 勞
+- key:
+    sym:
+      - char:
+          rad: 龸
+    name: ТИАРА
+    images: tiara.png
+    text: корона такая
+    examples: 常 尝
+- key:
+    sym:
+      - char:
+          rad: 肀
+      - char:
+          rad: 聿
+    name: ПИШУЩАЯ РУЧКА
+    images:
+      - pen.png
+      - fountain_pen.png
+    text: справа традиционное написание, кодируем как "перьевая ручка"
+    examples: 唐 肆
+- key:
+    sym:
+      - char:
+          rad: 亼
+    name: КРЫША ДОМА
+    images: roof.png
+    text: ''
+    examples: 偷
+- key:
+    sym:
+      - char:
+          rad: 𥫗
+    name: АВТОМАТЧИК, ФАШИСТ
+    images: fascist.png
+    text: ''
+    examples: 筤 笸 蓝
+- key:
+    sym:
+      - char:
+          rad: 龴
+    name: ФУРАЖКА
+    images: peaked_cap.png
+    text: ''
+    examples: 予
+- key:
+    sym:
+      - char:
+          rad: 火
+      - char:
+          rad: 灬
+    name: КОСТЕР
+    images:
+      - fire.png
+      - flame.png
+      - charcoal.png
+    text: справа другое написание этого радикала, можно кодировать как просто ОГОНЬ
+      или УГЛИ
+    examples: 烛 热 炃 焱 烋
+- key:
+    sym:
+      - char:
+          rad: 𠂉
+    name: ТЯПКА
+    images: hoe.png
+    text: мотыга, кетмень, кому как удобнее
+    examples: 斿 旃
+- key:
+    sym:
+      - char:
+          rad: 辛
+    name: ПУГАЛО
+    images: scarecrow.png
+    text: ''
+    examples: 辞辩
+- key:
+    sym:
+      - char:
+          rad: 𠂇
+    name: КАТАНА
+    images: katana.png
+    text: меч японский с ножнами
+    examples: 有
+- key:
+    sym:
+      - char:
+          rad_img: cricket-rad.png
+    name: СВЕРЧОК
+    images: cricket.png
+    text: очень воспитанный и культурный, играет на скрипке
+    examples: 在
+- key:
+    sym:
+      - char:
+          rad: 臼
+    name: СЛОМАННАЯ ТУМБОЧКА
+    images: broken_bedside_table.png
+    text: ''
+    examples: 臿 舁 舀 臾
+- key:
+    sym:
+      - char:
+          rad: 屮
+      - char:
+          rad: 屮
+    name: КАКТУС
+    images: cactus.png
+    text: справа другое написание
+    examples: 屰
+- key:
+    sym:
+      - char:
+          rad: 臣
+      - char:
+          rad: 巨
+    name: КОСМОЛЕТ
+    images:
+      - spaceship.png
+      - spaceship_light.png
+    text: справа легкий космолетик
+    examples: 臥 臩
+- key:
+    sym:
+      - char:
+          rad: 艹
+    name: КОЛЮЧАЯ ПРОВОЛОКА
+    images: barbwire.png
+    text: можно еще терновый венок, обычно этот радикал пишется сверху иероглифа.
+    examples: 芀 芺 茔
+- key:
+    sym:
+      - char:
+          rad: 髟
+    name: ВОЛОСЫ
+    images: hair.png
+    text: левая часть - вождь
+    examples: 髡 髻
+- key:
+    sym:
+      - char:
+          rad: 西
+      - char:
+          rad: ⻃
+      - char:
+          rad: 酉
+    name: МОЛОДОЙ ГРУЗИН
+    images: georgian.png
+    text: и крайний правый - старый грузин
+    examples: 洒 要 醅
+- key:
+    sym:
+      - char:
+          rad: 𠃓
+    name: КОНЕК ГОРБУНОК
+    images: hunchback_horse.png
+    text: ууу...как его скрючило :)
+    examples: 场
+- key:
+    sym:
+      - char:
+          rad: 止
+      - char:
+          rad: 上
+    name: ПОГРАНИЧНИК С СОБАКОЙ
+    images: border_guard_dog.png
+    text: справа пограничник без собаки
+    examples: 正 此 歪 歭
+- key:
+    sym:
+      - char:
+          rad: 羊
+      - char:
+          rad: ⺷
+      - char:
+          rad: ⺶
+    name: БАРАН
+    images: ram.png
+    text: справа другие написания радикала
+    examples: 羔 美 羳 羖
+- key:
+    sym:
+      - char:
+          rad: 牛
+    name: КОРОВА
+    images: cow.png
+    text: ''
+    examples: 牝 犁 牟
+- key:
+    sym:
+      - char:
+          rad: 豕
+    name: СВИНЬЯ
+    images: pig.png
+    text: а такой красивый иероглиф :)
+    examples: 象 豬
+- key:
+    sym:
+      - char:
+          rad: 豸
+    name: ПРИДВОРНЫЙ
+    images: courtier.png
+    text: в поклоне
+    examples: 豻 貓
+- key:
+    sym:
+      - char:
+          rad: 鱼
+      - char:
+          rad: 魚
+    name: РЫБКА
+    images: fish.png
+    text: справа традиционное написание радикала, "старая рыбка"
+    examples: 魡 鲨
+- key:
+    sym:
+      - char:
+          rad: 鬼
+    name: ПРИЗРАК
+    images: ghost.png
+    text: ''
+    examples: 魆 鬿
+- key:
+    sym:
+      - char:
+          rad: 用
+    name: БАБУШКА НЕФЕРТИТИ
+    images: nefertiti_grandmother.png
+    text: ''
+    examples: 甬 甮
+- key:
+    sym:
+      - char:
+          rad: 由
+    name: ЧЕМОДАН
+    images: suitecase.png
+    text: ''
+    examples: 油
+- key:
+    sym:
+      - char:
+          rad: 典
+    name: БАУЛ ЧЕЛНОКА
+    images: merchant_trunk.png
+    text: такой весь клетчатый
+    examples: 典
+- key:
+    sym:
+      - char:
+          rad: 麻
+    name: КРОКОДИЛ В КОНОПЛЕ
+    images: crocodile_in_hemp.png
+    text: ''
+    examples: 磨
+- key:
+    sym:
+      - char:
+          rad: 幺
+      - char:
+          rad: 乡
+    name: НОС С ГОРБИНКОЙ
+    images: humped_nose.png
+    text: справа другое написание радикала
+    examples: 幼 鄉
+- key:
+    sym:
+      - char:
+          rad: 纟
+      - char:
+          rad: 糹
+    name: СОПЛИВЫЙ НОС
+    images: runny_nose.png
+    text: справа традиционное написание радикала, встречаются часто оба.
+    examples: 红 紋 素
+- key:
+    sym:
+      - char:
+          rad: 耒
+    name: ПЛУГ
+    images: plow.png
+    text: ''
+    examples: 耙 耠
+- key:
+    sym:
+      - char:
+          rad: 目
+    name: ЛЕСТНИЦА
+    images: ladder.png
+    text: ''
+    examples: 盱 看 瞿
+- key:
+    sym:
+      - char:
+          rad: 乍
+    name: РАСЧЕСКА
+    images: comb.png
+    text: ''
+    examples: 作
+- key:
+    sym:
+      - char:
+          rad: 香
+    name: ВЕДЬМА
+    images: witch.png
+    text: состоит из мнемоключей "дама пиковая" и "солнце"
+    examples: 馣 馧
+- key:
+    sym:
+      - char:
+          rad: 音
+    name: ИКАР
+    images: icarus.png
+    text: состоит из мнемоключиков атлет и солнце.
+    examples: 韶
+- key:
+    sym:
+      - char:
+          rad: 隹
+    name: ЗУБАСТИК ПТЕРОДАКТЕЛЬ
+    images: pterodactyl.png
+    text: ''
+    examples: 难 谁
+- key:
+    sym:
+      - char:
+          rad: 戈
+    name: ТХЭКВОНДИСТ
+    images: taekwondist.png
+    text: типа каратиста, только лупит в основном ногами
+    examples: 我 饿
+- key:
+    sym:
+      - char:
+          rad: 爫
+    name: ЛАПКА
+    images: paw.png
+    text: тигра, кошки или медведя
+    examples: 爱 摇
+- key:
+    sym:
+      - char:
+          rad: フ
+    name: КОЛЕНКА
+    images: knee.png
+    text: ''
+    examples: 今
+- key:
+    sym:
+      - char:
+          rad: 非
+    name: АНТЕННА
+    images: antenna.png
+    text: ''
+    examples: 罪
+- key:
+    sym:
+      - char:
+          rad: ⺈
+    name: ЧУБЧИК
+    images: forelock.png
+    text: ''
+    examples: 角 危
+- key:
+    sym:
+      - char:
+          rad: 生
+    name: ЯКУДЗА
+    images: yakuza.png
+    text: такой японский мафиози
+    examples: 甡 姓
+- key:
+    sym:
+      - char:
+          rad: 牙
+    name: ГРАБИТЕЛЬ
+    images: robber.png
+    text: с кинжалом в плаще
+    examples: 牚
+- key:
+    sym:
+      - char:
+          rad: 耂
+      - char:
+          rad: 老
+    name: ПРЫГУН БУБКА
+    images: jumper.png
+    text: справа другое написание радикала, кодируем как "прыгун-матросик", так как
+      снизу сидит матросик
+    examples: 者 姥
+- key:
+    sym:
+      - char:
+          rad: 头
+    name: ГОЛОВА
+    images: head.png
+    text: изображение затянувшего 2 косяка укурка, у которого от прихода текут по
+      лицу пот, сопли и слюна.
+    examples: 买
+- key:
+    sym:
+      - char:
+          rad: 虫
+    name: МУХА
+    images: fly.png
+    text: ''
+    examples: 虺 蛪
+- key:
+    sym:
+      - char:
+          rad: 中
+    name: СТРЕКОЗА
+    images: dragonfly.png
+    text: '"муха" без хвоста'
+    examples: 钟
+- key:
+    sym:
+      - char:
+          rad: 鼻
+    name: КИРПИЧИ ДЛЯ КАРАТИСТА
+    images: bricks.png
+    text: ''
+    examples: 齀 鼾
+- key:
+    sym:
+      - char:
+          rad: 亡
+    name: ДИНОЗАВР
+    images: dinosaur.png
+    text: ''
+    examples: 忙 忘
+- key:
+    sym:
+      - char:
+          rad: 龶
+    name: ТРИПЛАН
+    images: triplane.png
+    text: это самолет с тремя крыльями друг над дружкой
+    examples: 毒
+- key:
+    sym:
+      - char:
+          rad: 王
+    name: КОРОЛЬ
+    images: king.png
+    text: ''
+    examples: 玡 珨 国
+- key:
+    sym:
+      - char:
+          rad: 共
+      - char:
+          rad: 其
+    name: МОСТ
+    images: bridge.png
+    text: через реку простой одноуровневый справа мост в 3 пролета
+    examples: 異 期
+- key:
+    sym:
+      - char:
+          rad: 早
+    name: БРИТВА
+    images: razor.png
+    text: ''
+    examples: 章
+- key:
+    sym:
+      - char:
+          rad: 及
+    name: МАМОНТ
+    images: mammoth.png
+    text: ''
+    examples: 吸
+- key:
+    sym:
+      - char:
+          rad: 龙
+      - char:
+          rad: 龍
+    name: ДРАКОН
+    images: dragon.png
+    text: справа традиционное написание радикала
+    examples: 袭 籠
+- key:
+    sym:
+      - char:
+          rad: 业
+    name: КАМЫШИ
+    images: reed.png
+    text: ''
+    examples: 亚
+- key:
+    sym:
+      - char:
+          rad: 走
+    name: ЛЕТУЧИЙ ГОЛЛАНДЕЦ
+    images: flying_dutchman.png
+    text: ''
+    examples: 赸 趕
+- key:
+    sym:
+      - char:
+          rad: 久
+      - char:
+          rad: ス
+    name: МАРАБУ
+    images: marabou.png
+    text: такая африканская птица, справа "безголовый марабу"
+    examples: 畝 轻
+- key:
+    sym:
+      - char:
+          rad: 食
+      - char:
+          rad: 飠⻞
+    name: КИТАЙСКИЙ РЕСТОРАН
+    images: restaurant.png
+    text: справа как радикал
+    examples: 飧 餇 餘
+- key:
+    sym:
+      - char:
+          rad: 饣
+    name: ЖОКЕЙ
+    images: jockey.png
+    text: это упрощенное написание предыдущего радикала
+    examples: 饴 饱
+- key:
+    sym:
+      - char:
+          rad: 金
+    name: ЗОЛОТАЯ ПАГОДА
+    images: pagoda.png
+    text: ''
+    examples: 釕 鋈
+- key:
+    sym:
+      - char:
+          rad: 钅
+    name: КОРОЛЕВСКИЙ ЖОКЕЙ
+    images: royal_jockey.png
+    text: это упрощенное написание предыдущего радикала
+    examples: 钇 钊
+- key:
+    sym:
+      - char:
+          rad: 赤
+      - char:
+          rad: 亦𰁜
+    name: МИНИСТР
+    images:
+      - minister.png
+      - minister_nohat.png
+    text: справа замминистр без шапки
+    examples: 赧 迹 弯
+- key:
+    sym:
+      - char:
+          rad: 兆
+    name: КОНЬКИ
+    images: skates.png
+    text: ''
+    examples: 跳
+- key:
+    sym:
+      - char:
+          rad: 与
+      - char:
+          rad: 与
+          lang: ja          
+    name: ВЕЛОСИПЕДИСТ
+    images: cyclist.png
+    text: справа написание другим шрифтом
+    examples: 写
+- key:
+    sym:
+      - char:
+          rad: 至
+    name: СКЕЛЕТ-РЫБКА
+    images: fish_skeleton.png
+    text: ''
+    examples: 致 臸 臷
+- key:
+    sym:
+      - char:
+          rad: 無
+    name: КОЛИЗЕЙ
+    images: colosseum.png
+    text: это арена в Риме, где рубились гладиаторы. Внизу угли от пожара
+    examples: 舞
+- key:
+    sym:
+      - char:
+          rad: 丌
+      - char:
+          rad: 兀
+    name: ТАБУРЕТ
+    images:
+      - stool.png
+      - stool_broken.png
+    text: справа "поломанный табурет"
+    examples: 亓 尧
+- key:
+    sym:
+      - char:
+          rad: 且
+    name: ПОГРАНИЧНЫЙ СТОЛБИК
+    images: boundary_post.png
+    text: ''
+    examples: 抯
+- key:
+    sym:
+      - char:
+          rad: ㄥ
+    name: ЛОКОТЬ
+    images: elbow.png
+    text: ''
+    examples: 东
+- key:
+    sym:
+      - char:
+          rad: 亥
+    name: ТАТУИРОВКА
+    images: tattoo.png
+    text: ''
+    examples: 侅
+- key:
+    sym:
+      - char:
+          rad_img: ke-rad.svg
+    name: ПИСТОЛЕТ-БЛАСТЕР
+    images: blaster.png
+    text: ''
+    examples: 可
+- key:
+    sym:
+      - char:
+          rad: 㠯
+    name: ТУМБОЧКА
+    images: desk_drawers.png
+    text: с выдвинутыми ящиками
+    examples: 官
+- key:
+    sym:
+      - char:
+          rad: ⺧
+    name: МАУГЛИ
+    images: mowgli.png
+    text: ''
+    examples: 告
+- key:
+    sym:
+      - char:
+          rad: ⺌
+    name: ЛАСТОЧКА
+    images: swallow.png
+    text: ''
+    examples: 光 当
+- key:
+    sym:
+      - char:
+          rad: 𫩏
+    name: ОЧКИ
+    images: glasses.png
+    text: ''
+    examples: 象
+- key:
+    sym:
+      - char:
+          rad_img: road-rad.png
+    name: ДОРОГА
+    images: road.png
+    text: ''
+    examples: 兵
+- key:
+    sym:
+      - char:
+          rad_img: boat-rad.png
+    name: ЛОДКА
+    images: boat.png
+    text: ''
+    examples: 之
+- key:
+    sym:
+      - char:
+          rad: 分
+    name: ЮБОЧКА
+    images: skirt.png
+    text: ''
+    examples: 份
+- key:
+    sym:
+      - char:
+          rad: 丷
+    name: ГЛАЗКИ, РОЖКИ, УСИКИ
+    images: eyes.png
+    text: и тому подобное
+    examples: 併 兑
+- key:
+    sym:
+      - char:
+          rad: 八
+    name: НОЖКИ, ЛАПКИ, ПАЛЬЧИКИ
+    images: paws_little.png
+    text: и тому подобное
+    examples: 帜
+- key:
+    sym:
+      - char:
+          rad: 𠀉
+    name: БУКВА Е
+    images: e_letter.png
+    text: ''
+    examples: 印
+- key:
+    sym:
+      - char:
+          rad: 卜
+    name: СУЧОК, ЧУРКА, ЧУРБАН
+    images: log_with_twig.png
+    text: или, на что еще там похоже
+    examples: 扑
+- key:
+    sym:
+      - char:
+          rad: ㇒
+    name: ЛИСТИК
+    images: leaf.png
+    text: ''
+    examples: 乎 币
+- key:
+    sym:
+      - char:
+          rad: 乛
+    name: БАГОР
+    images: boat_hook.png
+    text: ''
+    examples: 买
+- key:
+    sym:
+      - char:
+          rad_img: machgun-rad.png
+    name: ПУЛЕМЕТ
+    images: machinegun.png
+    text: ''
+    examples: 虍
+- key:
+    sym:
+      - char:
+          rad: 龷
+    name: ШЛЕМ
+    images: helmet.png
+    text: ''
+    examples: 散
+- key:
+    sym:
+      - char:
+          rad: 井
+    name: РЕШЕТКА
+    images: bars.png
+    text: ''
+    examples: 讲

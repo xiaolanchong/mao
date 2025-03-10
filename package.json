@@ -1,15 +1,36 @@
 {
   "name": "memoji",
   "version": "1.0.0",
-  "description": "Chinese characters mnemosystems",
-  "main": "index.js",
+  "description": "Chinese characters mnemosystem",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development",
+    "buildrel": "webpack --mode=production",
+    "watch": "webpack --watch",
+    "start": "webpack serve --open --mode=development"
   },
   "keywords": [
     "Chinese",
     "hanzi"
   ],
   "author": "Eugene Gorbachev",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "bootstrap": "^5.3.3",
+    "css-loader": "^7.1.2",
+    "css-minimizer-webpack-plugin": "^7.0.2",
+    "husky": "^9.1.7",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "postcss-loader": "^8.1.1",
+    "sass": "^1.85.1",
+    "sass-loader": "^16.0.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.98.0",
+    "webpack-bundle-analyzer": "^4.10.2",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
 }
