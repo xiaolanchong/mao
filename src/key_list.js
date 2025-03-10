@@ -11,7 +11,6 @@ const addSymbols = (tr, sym) => {
 	const td = $("<td/>");
 	if (sym instanceof Array) {
 		let firstSym = true;
-		console.log(sym)
 		for (const indivSym of sym) {
 			const span = $("<span/>");
 			if (indivSym.char.rad !== undefined) {
@@ -35,7 +34,6 @@ const addSymbols = (tr, sym) => {
 			td.append(span);
 		}
 	} else {
-		//td.append($("<span/>").text(sym).addClass("fs-1"));
 		console.error('Not array')
 	}
 	tr.append(td);
@@ -43,14 +41,6 @@ const addSymbols = (tr, sym) => {
 }
 
 const createImage = (parentDir, imgName) => $("<img/>").attr("src", `${parentDir}/${imgName}`);
-
-const addSymbolImage = (td, symImage) => {
-	if (symImage === undefined)
-		return;
-	const img = createImage(radicalPath, symImage);
-	img.attr('width', '40');
-	td.append(img);
-}
 
 const addImages = (tr, images) => {
 	const td = $("<td/>");
@@ -81,11 +71,13 @@ function addKeyList() {
 	tr.append(tdNum);
 	
 	addSymbols(tr, item.key.sym);
-	//addSymbolImage(tdSym, item.key.sym_img);
-	
 	addImages(tr, item.key.images);
 	
 	const tdText = $("<td/>")
+	if (item.key.id === undefined)
+		console.warn(`No id for ${item.key}`);
+	else
+		tr.attr('id', item.key.id);
 	tdText.append($("<div/>").text(item.key.name))
 	tdText.append($("<div/>").text(item.key.text))
 	tdText.append($("<div/>").text(item.key.examples).addClass("example"))

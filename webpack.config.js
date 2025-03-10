@@ -4,13 +4,26 @@ const path = require('path');
 const yaml = require('yamljs');
 const webpack = require('webpack');
 const autoprefixer = require('autoprefixer')
+const ESLintPlugin = require('eslint-webpack-plugin');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 const devMode = process.env.NODE_ENV !== "production";
 
+const lintJSOptions = {
+  context: './src',
+  extensions: ['js', 'ts'],
+  emitError: true,
+  emitWarning: true,
+  failOnWarning: false,
+  failOnError: false,
+  // Toggle autofix
+  fix: false,
+  cache: false,
+}
+
 module.exports = {
   mode: 'development',
-  entry: './src/index.js',
+  //entry: './src/index.js',
   devtool: devMode ? 'source-map' : 'none',
   devServer: {
     static: '.',
@@ -26,6 +39,17 @@ module.exports = {
     filename: 'bundle.js',
    // path: path.resolve(__dirname, 'dist'),
     path: __dirname,
+    library: {
+      name: 'BundleLibrary',
+      type: 'var',
+    },
+    
+  },
+  resolve: {
+    modules: [ 
+      path.resolve(__dirname, 'node_modules'),
+      path.resolve(__dirname, 'chars')
+    ],
   },
   module: {
     rules: [
@@ -35,6 +59,14 @@ module.exports = {
         parser: {
           parse: yaml.parse,
         },
+      },
+      {
+        test: /\.txt$/i,
+        use: 'raw-loader',
+      },
+      {
+        test: /\.pug$/i,
+        loader: 'pug-loader',
       },
       {
         test: /\.css$/i,
@@ -84,6 +116,7 @@ module.exports = {
       jQuery: 'jquery'
     }),
 	//new BundleAnalyzerPlugin(),
+	new ESLintPlugin(lintJSOptions),
   ],
   externals: {
     jquery: 'jQuery',

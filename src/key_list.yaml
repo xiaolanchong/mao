@@ -1,4 +1,5 @@
 - key:
+    id: bee
     sym:
       - char:
           rad: ⼂
@@ -8,6 +9,7 @@
       предметы.
     examples: 义 忍
 - key:
+    id: beret
     sym:
       - char:
           rad: ⼧
@@ -16,6 +18,7 @@
     text: такой носят на голове
     examples: 宗 寢
 - key:
+    id: turk_sabre
     sym:
       - char:
           rad_img: turk-sabre-rad.png
@@ -24,6 +27,7 @@
     text: изогнутый вариант цифры 十
     examples: 贼 绒
 - key:
+    id: spike
     sym:
       - char:
           rad: ⼁
@@ -32,6 +36,7 @@
     text: шест, штырь и все из этой серии.
     examples: 临 蓝
 - key:
+    id: pelican
     sym:
       - char:
           rad: ⼄
@@ -43,6 +48,7 @@
       крючок".
     examples: 乞 乱
 - key:
+    id: man
     sym:
       - char:
           rad: 人
@@ -56,6 +62,7 @@
       человек"
     examples: 囚 债 余
 - key:
+    id: lid
     sym:
       - char:
           rad: 亠
@@ -64,6 +71,7 @@
     text: ''
     examples: 亮 抗
 - key:
+    id: crowbar
     sym:
       - char:
           rad: 丿
@@ -72,6 +80,7 @@
     text: таким вскрывают закрытые двери
     examples: 价
 - key:
+    id: spear
     sym:
       - char:
           rad: 一
@@ -80,6 +89,7 @@
     text: также это китайская цифра 1
     examples: 丛 但
 - key:
+    id: bench
     sym:
       - char:
           rad: 冖
@@ -88,6 +98,7 @@
     text: ''
     examples: 冗 军
 - key:
+    id: blind_crocodile
     sym:
       - char:
           rad: 厂
@@ -96,6 +107,7 @@
     text: потому что еще маленький.
     examples: 压 厢
 - key:
+    id: crocodile
     sym:
       - char:
           rad: 广
@@ -104,6 +116,7 @@
     text: конечно, крокодил Гена
     examples: 店 廓
 - key:
+    id: winged_crocodile
     sym:
       - char:
           rad: ⽧
@@ -112,6 +125,7 @@
     text: нелепейшее создание
     examples: 疗 疾
 - key:
+    id: mosquito
     sym:
       - char:
           rad: ⼹
@@ -120,6 +134,7 @@
     text: ''
     examples: 当 寻
 - key:
+    id: skier
     sym:
       - char:
           rad: 彑
@@ -128,6 +143,7 @@
     text: это другое написание радикала "комар"
     examples: 彔
 - key:
+    id: dumbbell
     sym:
       - char:
           rad: ⼯
@@ -136,6 +152,7 @@
     text: ''
     examples: 红 经
 - key:
+    id: buratino
     sym:
       - char:
           rad: 勹
@@ -146,6 +163,7 @@
     text: слишком любопытный для такого роста :) Справа безголовый буратино.
     examples: 包 询 局
 - key:
+    id: sword
     sym:
       - char:
           rad: 刂
@@ -154,6 +172,7 @@
     text: ''
     examples: 剂 前
 - key:
+    id: schmeisser
     sym:
       - char:
           rad: 刀
@@ -166,6 +185,7 @@
       автомат".
     examples: 切 仞 秀
 - key:
+    id: kalashnikov
     sym:
       - char:
           rad: 力
@@ -174,6 +194,7 @@
     text: с прицелом
     examples: 劳 勉
 - key:
+    id: pickaxe
     sym:
       - char:
           rad: 丁
@@ -182,6 +203,7 @@
     text: или кирка, ледоруб.
     examples: 厅
 - key:
+    id: fishing_rod
     sym:
       - char:
           rad: 阝
@@ -190,6 +212,7 @@
     text: ''
     examples: 陔
 - key:
+    id: scythe
     sym:
       - char:
           rad: 了
@@ -198,6 +221,7 @@
     text: ''
     examples: 疗
 - key:
+    id: ankh
     sym:
       - char:
           rad: 子
@@ -206,6 +230,7 @@
     text: или крест-анх, странная такая штука, непонятная
     examples: 孰 學
 - key:
+    id: chinup_bars
     sym:
       - char:
           rad: ⼌
@@ -214,6 +239,7 @@
     text: в сценках можно заменять столом, где удобнее.
     examples: 冈
 - key:
+    id: broken_leg
     sym:
       - char:
           rad: ⼉
@@ -222,6 +248,7 @@
     text: волочется сзади, жалко до слез:)
     examples: 允 兇
 - key:
+    id: metal_pot
     sym:
       - char:
           rad: ⼐
@@ -231,6 +258,7 @@
       и т.д.
     examples: 凼 函
 - key:
+    id: axe
     sym:
       - char:
           rad: 尸
@@ -239,6 +267,7 @@
     text: ''
     examples: 屆 屠
 - key:
+    id: axe_electric
     sym:
       - char:
           rad: 户
@@ -252,6 +281,7 @@
       ружьем" и т.д.'
     examples: 戾 戺
 - key:
+    id: wigwam
     sym:
       - char:
           rad: ⼊
@@ -260,6 +290,7 @@
     text: здесь живут индейцы, типа палатки
     examples: 內 兩
 - key:
+    id: kitchen_axe
     sym:
       - char:
           rad: ⼙
@@ -268,6 +299,7 @@
     text: ''
     examples: 却 卻
 - key:
+    id: curling_snake
     sym:
       - char:
           rad: 㔾
@@ -276,6 +308,7 @@
     text: это другое написание радикала ТЕСАК
     examples: 危 卺
 - key:
+    id: sailor
     sym:
       - char:
           rad: 匕
@@ -284,6 +317,7 @@
     text: танцующий танец "Яблочко"
     examples: 此 化
 - key:
+    id: two_sailors
     sym:
       - char:
           rad: 比
@@ -292,6 +326,7 @@
     text: ''
     examples: 毘 毙
 - key:
+    id: fence
     sym:
       - char:
           rad: ⼞
@@ -300,6 +335,7 @@
     text: можно забор, изгородь
     examples: 圂 圌
 - key:
+    id: mouth
     sym:
       - char:
           rad: 口
@@ -309,6 +345,7 @@
       квадратными предметами, коробки, кубы и т.д.
     examples: 咍 呜 咒
 - key:
+    id: monkey
     sym:
       - char:
           rad: 斤
@@ -317,6 +354,7 @@
     text: макака, обезьяна, в общем
     examples: 新 斧
 - key:
+    id: sack
     sym:
       - char:
           rad: 厶
@@ -326,6 +364,7 @@
       чем.
     examples: 能
 - key:
+    id: giant
     sym:
       - char:
           rad: 大
@@ -334,6 +373,7 @@
     text: ''
     examples: 夭 夼
 - key:
+    id: whip
     sym:
       - char:
           rad: ⼸
@@ -342,6 +382,7 @@
     text: или хлыст, плетка
     examples: 弭 弩
 - key:
+    id: jackhammer
     sym:
       - char:
           rad: ⼲
@@ -350,6 +391,7 @@
     text: ''
     examples: 幵 平
 - key:
+    id: sprout
     sym:
       - char:
           rad: ⼟
@@ -358,6 +400,7 @@
     text: ''
     examples: 坭 坐
 - key:
+    id: bomber
     sym:
       - char:
           rad: 士
@@ -366,6 +409,7 @@
     text: сравните с ⼟
     examples: 壶 壯
 - key:
+    id: racket
     sym:
       - char:
           rad: 冫
@@ -374,6 +418,7 @@
     text: ''
     examples: 冶 凐
 - key:
+    id: water_drops
     sym:
       - char:
           rad: 水
@@ -384,6 +429,7 @@
     text: вариант справа лучше представлять как капли, брызги воды.
     examples: 沲 汆 汯 彔
 - key:
+    id: dog
     sym:
       - char:
           rad: 犬
@@ -394,6 +440,7 @@
     text: вариант справа можно представлять в виде танцующей собачки Каштанки.
     examples: 突 狈
 - key:
+    id: bones
     sym:
       - char:
           rad: 乂
@@ -402,6 +449,7 @@
     text: в некоторых иероглифах можно кодировать как "нет, отсутствие"
     examples: 凶
 - key:
+    id: father
     sym:
       - char:
           rad: 父
@@ -410,6 +458,7 @@
     text: с розгами
     examples: 爸 爺
 - key:
+    id: guillotine
     sym:
       - char:
           rad: 甘
@@ -418,6 +467,7 @@
     text: такой штукой отрубали головы
     examples: 甙 甝
 - key:
+    id: palanquin
     sym:
       - char:
           rad: 廿
@@ -426,6 +476,7 @@
     text: в таком носили очень важных персон
     examples: 度
 - key:
+    id: caterpillar
     sym:
       - char:
           rad: 几
@@ -434,6 +485,7 @@
     text: ''
     examples: 凯 凭 凰
 - key:
+    id: small_aircraft
     sym:
       - char:
           rad: 小
@@ -442,6 +494,7 @@
     text: нет, в самом деле, очень маленький самолетик
     examples: 尒 尔
 - key:
+    id: pancake_pot
     sym:
       - char:
           rad: 言
@@ -453,6 +506,7 @@
       другое написание радикала. Этот радикал - традиционное написание радикала "маньяк"
     examples: 詬 計
 - key:
+    id: crane
     sym:
       - char:
           rad: 寸
@@ -461,6 +515,7 @@
     text: ''
     examples: 尉 封 寺
 - key:
+    id: roman_flag
     sym:
       - char:
           rad: 巾
@@ -469,6 +524,7 @@
     text: наверное, такой был у римлян
     examples: 帛 幏
 - key:
+    id: footballer
     sym:
       - char:
           rad: 方
@@ -477,6 +533,7 @@
     text: ''
     examples: 旚 旁
 - key:
+    id: napoleon
     sym:
       - char:
           rad: 殳
@@ -485,6 +542,7 @@
     text: тот самый толстенький и маленький
     examples: 殶 殽
 - key:
+    id: seahorse
     sym:
       - char:
           rad: ⼰
@@ -496,6 +554,7 @@
       В мнемосценках можно кодировать как морская лошадь и морской конь
     examples: 巹 起
 - key:
+    id: diver
     sym:
       - char:
           rad: 巳
@@ -504,6 +563,7 @@
     text: это другое написание радикала "морской конек" а так они взаимозаменяемы
     examples: 匏
 - key:
+    id: foureyes
     sym:
       - char:
           rad: 巴
@@ -512,6 +572,7 @@
     text: ''
     examples: 爬
 - key:
+    id: builder
     sym:
       - char:
           rad: 文
@@ -520,6 +581,7 @@
     text: так уж сложилось - таджик
     examples: 济 这
 - key:
+    id: ostrich_emu
     sym:
       - char:
           rad: 夂
@@ -528,6 +590,7 @@
     text: запомните, что страус без хвоста.
     examples: 处 备
 - key:
+    id: cossack
     sym:
       - char:
           rad: 支
@@ -536,6 +599,7 @@
     text: в шароварах
     examples: 攲 攳
 - key:
+    id: heron
     sym:
       - char:
           rad: 攵
@@ -544,6 +608,7 @@
     text: Это другое написание радикала "казак с ружьем"
     examples: 攻 故 敿
 - key:
+    id: cossack_with_gun
     sym:
       - char:
           rad: 攴
@@ -552,6 +617,7 @@
     text: ''
     examples: 敁 敊
 - key:
+    id: cossack_with_sabre
     sym:
       - char:
           rad: 皮
@@ -560,6 +626,7 @@
     text: ''
     examples: 皯 皰
 - key:
+    id: kangaroo
     sym:
       - char:
           rad: 夕
@@ -568,6 +635,7 @@
     text: ''
     examples: 多 夗
 - key:
+    id: kangaroo_with_spear
     sym:
       - char:
           rad: 歹
@@ -576,6 +644,7 @@
     text: ''
     examples: 死 殡
 - key:
+    id: cossack_ataman
     sym:
       - char:
           rad: 变
@@ -584,6 +653,7 @@
     text: в погонах, кителе и шароварах
     examples: 变
 - key:
+    id: belly
     sym:
       - char:
           rad: 又
@@ -592,6 +662,7 @@
     text: ''
     examples: 反 取
 - key:
+    id: jeans
     sym:
       - char:
           rad: 爪
@@ -600,6 +671,7 @@
     text: Полная форма 爫
     examples: 爬 抓
 - key:
+    id: devil_tail
     sym:
       - char:
           rad: 瓜
@@ -608,6 +680,7 @@
     text: ''
     examples: 瓢 瓟
 - key:
+    id: girl
     sym:
       - char:
           rad: 女
@@ -617,6 +690,7 @@
       подружку Машу, Олю, Свету... За счет этого мнемосценки лучше запомнятся.
     examples: 姻 媐
 - key:
+    id: fashion_model
     sym:
       - char:
           rad: 礻
@@ -627,6 +701,7 @@
     text: справа тот же радикал в другом написание, кодируйте его как "толстуха" :)
     examples: 祂 祠 祟 禢
 - key:
+    id: scooter
     sym:
       - char:
           rad: 石
@@ -636,6 +711,7 @@
       именно самокат
     examples: 硈 磨
 - key:
+    id: sun
     sym:
       - char:
           rad: 日
@@ -644,6 +720,7 @@
     text: просто нужно так запомнить, хотя визуально нисколечко не похоже :)
     examples: 昝 显 晗
 - key:
+    id: refrigirator
     sym:
       - char:
           rad: 白
@@ -652,6 +729,7 @@
     text: белый такой, двухкамерный
     examples: 百 皓 皙
 - key:
+    id: tank
     sym:
       - char:
           rad: 占
@@ -660,6 +738,7 @@
     text: ''
     examples: 店 呫
 - key:
+    id: grave
     sym:
       - char:
           rad: 古
@@ -668,6 +747,7 @@
     text: ''
     examples: 苦 故
 - key:
+    id: tongue
     sym:
       - char:
           rad: 舌
@@ -676,6 +756,7 @@
     text: немножко скошенный набок
     examples: 舐 舍
 - key:
+    id: judge
     sym:
       - char:
           rad: 瓦
@@ -684,6 +765,7 @@
     text: в шапочке и парике
     examples: 瓵 瓮
 - key:
+    id: goalkeeper
     sym:
       - char:
           rad: 弋
@@ -692,6 +774,7 @@
     text: ''
     examples: 试
 - key:
+    id: goalkeeper_mutant
     sym:
       - char:
           rad: 斗
@@ -700,6 +783,7 @@
     text: это потому что у него две головы
     examples: 斝 料
 - key:
+    id: tree
     sym:
       - char:
           rad: 木
@@ -708,6 +792,7 @@
     text: ''
     examples: 栓 果 李
 - key:
+    id: feather
     sym:
       - char:
           rad: 毛
@@ -716,6 +801,7 @@
     text: ''
     examples: 毡 毞 毾
 - key:
+    id: cart
     sym:
       - char:
           rad: 车
@@ -727,6 +813,7 @@
       можно кодировать как "машина"
     examples: 轨 轼 輻 軍
 - key:
+    id: music_stand
     sym:
       - char:
           rad: 彳
@@ -735,6 +822,7 @@
     text: подставка для нот у музыкантов
     examples: 彷 徥
 - key:
+    id: conservatory
     sym:
       - char:
           rad: 行
@@ -743,6 +831,7 @@
     text: это там, где много пюпитров
     examples: 衍 衖
 - key:
+    id: batman
     sym:
       - char:
           rad: 才
@@ -751,6 +840,7 @@
     text: крутой такой супергерой
     examples: 闭
 - key:
+    id: weightlifter
     sym:
       - char:
           rad: 央
@@ -761,6 +851,7 @@
     text: справа "однорукий штангист"
     examples: 英 快
 - key:
+    id: folding_cup
     sym:
       - char:
           rad: 豆
@@ -769,6 +860,7 @@
     text: такой пластмассовый складной
     examples: 豉 豊
 - key:
+    id: door
     sym:
       - char:
           rad: 门
@@ -777,6 +869,7 @@
     text: а в верхнем углу это звонок
     examples: 闭 间
 - key:
+    id: saloon_door
     sym:
       - char:
           rad: 門
@@ -786,6 +879,7 @@
       В составе других иероглифов встречаются оба, поэтому пришлось их разделить
     examples: 閟 閵
 - key:
+    id: tennis_net
     sym:
       - char:
           rad: 网
@@ -797,6 +891,7 @@
       тенниса.
     examples: 罗 罷
 - key:
+    id: old_monk
     sym:
       - char:
           rad: 尢
@@ -808,6 +903,7 @@
       монах с копьем"
     examples: 尪 抚
 - key:
+    id: nefertiti
     sym:
       - char:
           rad: 月
@@ -816,6 +912,7 @@
     text: с короной, это в Египте была царица такая
     examples: 期 望
 - key:
+    id: woman_with_shoulderyoke
     sym:
       - char:
           rad: 穴
@@ -826,6 +923,7 @@
     text: справа другое написание
     examples: 窋 空 穷 穵
 - key:
+    id: radiator
     sym:
       - char:
           rad: 皿
@@ -834,6 +932,7 @@
     text: радиаторная, чугунная, которая обогревает зимой
     examples: 盔 盤 盖
 - key:
+    id: cake
     sym:
       - char:
           rad: 血
@@ -842,6 +941,7 @@
     text: со свечкой
     examples: 衁 衈
 - key:
+    id: motorcyclist
     sym:
       - char:
           rad: 气
@@ -850,6 +950,7 @@
     text: ''
     examples: 汽 氣
 - key:
+    id: rice
     sym:
       - char:
           rad: 米
@@ -858,6 +959,7 @@
     text: еще зеленые колосья
     examples: 籵 粢 类
 - key:
+    id: scissors
     sym:
       - char:
           rad: 廾
@@ -866,6 +968,7 @@
     text: визуально мало общего, зато радикал похож на букву "Н" - ножницы
     examples: 馵
 - key:
+    id: torii
     sym:
       - char:
           rad: 开
@@ -874,6 +977,7 @@
     text: тории, стоят перед синто святилищем
     examples: 形
 - key:
+    id: grind
     sym:
       - char:
           rad: 爿
@@ -884,6 +988,7 @@
     text: ботан, справа другое написание радикала
     examples: 牄 将
 - key:
+    id: karateka
     sym:
       - char:
           rad: 片
@@ -892,6 +997,7 @@
     text: ''
     examples: 牊 版
 - key:
+    id: athlete
     sym:
       - char:
           rad: 立
@@ -900,6 +1006,7 @@
     text: сидит на шпагате
     examples: 竑 竟 竖
 - key:
+    id: hockey_goal
     sym:
       - char:
           rad: 风
@@ -910,6 +1017,7 @@
     text: справа традиционное написание радикала.
     examples: 飑 颱 飀 飙
 - key:
+    id: ear
     sym:
       - char:
           rad: 耳
@@ -918,6 +1026,7 @@
     text: ''
     examples: 聐 聂 耷
 - key:
+    id: kimono
     sym:
       - char:
           rad: 衣
@@ -930,6 +1039,7 @@
       как "трансвестит", похож на радикал "топ-модель", только со штучкой:)
     examples: 衵 裂 裞 袁 表
 - key:
+    id: gangster
     sym:
       - char:
           rad: 氏
@@ -938,6 +1048,7 @@
     text: с автоматом
     examples: 氐 婚
 - key:
+    id: wiseman
     sym:
       - char:
           rad: 京
@@ -946,6 +1057,7 @@
     text: с усами Фу Манчу и козлиной бородкой
     examples: 影 惊
 - key:
+    id: horse
     sym:
       - char:
           rad: 马
@@ -957,6 +1069,7 @@
       радикала. Кодировать как "старая лошадь"
     examples: 驭 骆 騃 駑 馵
 - key:
+    id: bird
     sym:
       - char:
           rad: 鸟
@@ -967,6 +1080,7 @@
     text: справа традиционное написание радикала. Кодировать как "старая птица"
     examples: 鸡 鸳 鳭 鴄
 - key:
+    id: mole
     sym:
       - char:
           rad: 谷
@@ -975,6 +1089,7 @@
     text: задравший мордочку
     examples: 容
 - key:
+    id: fisher
     sym:
       - char:
           rad: 也
@@ -983,6 +1098,7 @@
     text: рыбак с поломанной удочкой или с удочкой на рогатине
     examples: 地
 - key:
+    id: imp
     sym:
       - char:
           rad: 革
@@ -991,6 +1107,7 @@
     text: в шпагате
     examples: 靸 鞮 鞶
 - key:
+    id: crusader
     sym:
       - char:
           rad: 黄
@@ -999,6 +1116,7 @@
     text: ''
     examples: 黈 黉
 - key:
+    id: mazai
     sym:
       - char:
           rad: 足
@@ -1009,6 +1127,7 @@
     text: справа другое написание радикала
     examples: 促 踐
 - key:
+    id: mazai_wife
     sym:
       - char:
           rad: 疋
@@ -1019,6 +1138,7 @@
     text: справа другое написание радикала
     examples: 疐 疏
 - key:
+    id: heart
     sym:
       - char:
           rad: 心
@@ -1029,6 +1149,7 @@
     text: справа другое написание. В мнемофразах кодировать как "маленькое сердце".
     examples: 思 怕 愛 总 悝
 - key:
+    id: hand
     sym:
       - char:
           rad: 手
@@ -1039,6 +1160,7 @@
     text: справа другое написание радикала, кодируем как рука без пальца
     examples: 扬 挐 揫 打
 - key:
+    id: landmine
     sym:
       - char:
           rad: 而
@@ -1047,6 +1169,7 @@
     text: ''
     examples: 耑 耐
 - key:
+    id: superdynamite
     sym:
       - char:
           rad: 面
@@ -1055,6 +1178,7 @@
     text: динамит и взрыватель в одном флаконе, стрелка уеб.метра присутствует
     examples: 靦 靥
 - key:
+    id: colibry
     sym:
       - char:
           rad: 飞
@@ -1065,6 +1189,7 @@
     text: ''
     examples: справа традиционное написание радикала, используется редко
 - key:
+    id: plug
     sym:
       - char:
           rad: 匚
@@ -1073,6 +1198,7 @@
     text: ''
     examples: 区 區
 - key:
+    id: pitchfork
     sym:
       - char:
           rad: 丩
@@ -1081,6 +1207,7 @@
     text: ''
     examples: 叫 收
 - key:
+    id: snowboarder
     sym:
       - char:
           rad: 专
@@ -1089,6 +1216,7 @@
     text: ''
     examples: 转
 - key:
+    id: voivode
     sym:
       - char:
           rad: 身
@@ -1097,6 +1225,7 @@
     text: ''
     examples: 躲 躽
 - key:
+    id: sexual_maniac
     sym:
       - char:
           rad: 讠
@@ -1105,6 +1234,7 @@
     text: эксгибиционист, со стояком
     examples: 访 认
 - key:
+    id: boss
     sym:
       - char:
           rad: 舟
@@ -1115,6 +1245,7 @@
     text: с чубчиком и в галстуке, справа - он же без галстука и чубчика
     examples: 舢 艋 坍
 - key:
+    id: glazier
     sym:
       - char:
           rad: 毋
@@ -1123,6 +1254,7 @@
     text: ''
     examples: 毐
 - key:
+    id: tennis_players
     sym:
       - char:
           rad: 母
@@ -1131,6 +1263,7 @@
     text: это другое написание предыдущего радикала
     examples: 每
 - key:
+    id: chieftain
     sym:
       - char:
           rad: 长
@@ -1143,6 +1276,7 @@
     text: справа традиционное написание радикала, кодируем как "старый вождь"
     examples: 张 镺 張
 - key:
+    id: standard_bearer
     sym:
       - char:
           rad: 艮
@@ -1151,6 +1285,7 @@
     text: ''
     examples: 艰 银 良
 - key:
+    id: electric_train
     sym:
       - char:
           rad: 靑
@@ -1159,6 +1294,7 @@
     text: ''
     examples: 靚 靖
 - key:
+    id: field
     sym:
       - char:
           rad: 田
@@ -1167,6 +1303,7 @@
     text: ''
     examples: 甸 畲 畾
 - key:
+    id: chimes
     sym:
       - char:
           rad: 骨
@@ -1178,6 +1315,7 @@
       показывать 5:45 или 6:15'
     examples: 髅 骻
 - key:
+    id: hindu
     sym:
       - char:
           rad: 里
@@ -1186,6 +1324,7 @@
     text: ''
     examples: 野 量
 - key:
+    id: hindu_nails
     sym:
       - char:
           rad: 黑
@@ -1194,6 +1333,7 @@
     text: йог, факир на углях или гвоздях
     examples: 黠 黨 黴
 - key:
+    id: mountains
     sym:
       - char:
           rad: 山
@@ -1202,6 +1342,7 @@
     text: ''
     examples: 岨 岩 嵇
 - key:
+    id: hobo
     sym:
       - char:
           rad: 见
@@ -1215,6 +1356,7 @@
       коробке"
     examples: 览 觇 親 覛
 - key:
+    id: orphan
     sym:
       - char:
           rad: 贝
@@ -1228,6 +1370,7 @@
       в полосатой коробке"
     examples: 负 责 買 貹 賏
 - key:
+    id: legionary
     sym:
       - char:
           rad: 页
@@ -1238,6 +1381,7 @@
     text: справа традиционное написание радикала - "легионер с полосатым щитом"
     examples: 頄 颍 頇
 - key:
+    id: mandarin
     sym:
       - char:
           rad: 高
@@ -1246,6 +1390,7 @@
     text: это важный китайский чиновник
     examples: 髜
 - key:
+    id: stingray
     sym:
       - char:
           rad: 电
@@ -1254,6 +1399,7 @@
     text: действительно может ударить электрическим током
     examples: 龟
 - key:
+    id: evil_twin
     sym:
       - char:
           rad: 习
@@ -1262,6 +1408,7 @@
     text: ''
     examples: БРАТ-БЛИЗНЕЦ
 - key:
+    id: evil_twins
     sym:
       - char:
           rad: 羽
@@ -1272,6 +1419,7 @@
     text: справа другое написание радикала
     examples: 羿 翜 翕
 - key:
+    id: retort
     sym:
       - char:
           rad: 去
@@ -1280,6 +1428,7 @@
     text: ''
     examples: 脚 法
 - key:
+    id: stork
     sym:
       - char:
           rad: 䒑
@@ -1288,6 +1437,7 @@
     text: в полете
     examples: 前
 - key:
+    id: armoured_vehicle
     sym:
       - char:
           rad: 齿
@@ -1299,6 +1449,7 @@
       Справа традиционное написание радикала, кодируем как "старый броневик"
     examples: 龀 齙
 - key:
+    id: musketeer
     sym:
       - char:
           rad: 矢
@@ -1307,6 +1458,7 @@
     text: с пером на шляпе
     examples: 知 矫 矣
 - key:
+    id: musketeer_idiot
     sym:
       - char:
           rad: 缶
@@ -1315,6 +1467,7 @@
     text: ''
     examples: 缸 缹 罂
 - key:
+    id: vivandiere
     sym:
       - char:
           rad: 辶
@@ -1323,6 +1476,7 @@
     text: хм...девица легкого поведения
     examples: 边 迻 迿 迈
 - key:
+    id: bride
     sym:
       - char:
           rad: 廴
@@ -1331,6 +1485,7 @@
     text: ''
     examples: 延 建
 - key:
+    id: rain
     sym:
       - char:
           rad: 雨
@@ -1339,6 +1494,7 @@
     text: капает за окном
     examples: 雪 需
 - key:
+    id: queen_of_spades
     sym:
       - char:
           rad: 禾
@@ -1347,6 +1503,7 @@
     text: ''
     examples: 秃 程 稷
 - key:
+    id: claws
     sym:
       - char:
           rad: 彡
@@ -1355,6 +1512,7 @@
     text: ''
     examples: 彭 影 彦
 - key:
+    id: mouse
     sym:
       - char:
           rad: 鼠
@@ -1363,6 +1521,7 @@
     text: ''
     examples: 鼭 鼬
 - key:
+    id: tick
     sym:
       - char:
           rad: 韦
@@ -1373,6 +1532,7 @@
     text: справа традиционное написание, кодируем "старый клещ"
     examples: 韧 衛 韎 韏
 - key:
+    id: river
     sym:
       - char:
           rad: 巛
@@ -1383,6 +1543,7 @@
     text: справа другое написание радикала
     examples: 巡 巢 州
 - key:
+    id: jew
     sym:
       - char:
           rad: 两
@@ -1391,6 +1552,7 @@
     text: ну как же нам без пары евреев:)
     examples: 辆
 - key:
+    id: boxers
     sym:
       - char:
           rad: 𤇾
@@ -1399,6 +1561,7 @@
     text: может братья Кличко :)
     examples: 勞
 - key:
+    id: tiara
     sym:
       - char:
           rad: 龸
@@ -1407,6 +1570,7 @@
     text: корона такая
     examples: 常 尝
 - key:
+    id: pen
     sym:
       - char:
           rad: 肀
@@ -1419,6 +1583,7 @@
     text: справа традиционное написание, кодируем как "перьевая ручка"
     examples: 唐 肆
 - key:
+    id: roof
     sym:
       - char:
           rad: 亼
@@ -1427,6 +1592,7 @@
     text: ''
     examples: 偷
 - key:
+    id: fascist
     sym:
       - char:
           rad: 𥫗
@@ -1435,6 +1601,7 @@
     text: ''
     examples: 筤 笸 蓝
 - key:
+    id: peaked_cap
     sym:
       - char:
           rad: 龴
@@ -1443,6 +1610,7 @@
     text: ''
     examples: 予
 - key:
+    id: fire
     sym:
       - char:
           rad: 火
@@ -1457,6 +1625,7 @@
       или УГЛИ
     examples: 烛 热 炃 焱 烋
 - key:
+    id: hoe
     sym:
       - char:
           rad: 𠂉
@@ -1465,6 +1634,7 @@
     text: мотыга, кетмень, кому как удобнее
     examples: 斿 旃
 - key:
+    id: scarecrow
     sym:
       - char:
           rad: 辛
@@ -1473,6 +1643,7 @@
     text: ''
     examples: 辞辩
 - key:
+    id: katana
     sym:
       - char:
           rad: 𠂇
@@ -1481,6 +1652,7 @@
     text: меч японский с ножнами
     examples: 有
 - key:
+    id: cricket
     sym:
       - char:
           rad_img: cricket-rad.png
@@ -1489,6 +1661,7 @@
     text: очень воспитанный и культурный, играет на скрипке
     examples: 在
 - key:
+    id: broken_bedside_table
     sym:
       - char:
           rad: 臼
@@ -1497,6 +1670,7 @@
     text: ''
     examples: 臿 舁 舀 臾
 - key:
+    id: cactus
     sym:
       - char:
           rad: 屮
@@ -1507,6 +1681,7 @@
     text: справа другое написание
     examples: 屰
 - key:
+    id: spaceship
     sym:
       - char:
           rad: 臣
@@ -1519,6 +1694,7 @@
     text: справа легкий космолетик
     examples: 臥 臩
 - key:
+    id: barbwire
     sym:
       - char:
           rad: 艹
@@ -1527,6 +1703,7 @@
     text: можно еще терновый венок, обычно этот радикал пишется сверху иероглифа.
     examples: 芀 芺 茔
 - key:
+    id: hair
     sym:
       - char:
           rad: 髟
@@ -1535,6 +1712,7 @@
     text: левая часть - вождь
     examples: 髡 髻
 - key:
+    id: georgian
     sym:
       - char:
           rad: 西
@@ -1547,6 +1725,7 @@
     text: и крайний правый - старый грузин
     examples: 洒 要 醅
 - key:
+    id: hunchback_horse
     sym:
       - char:
           rad: 𠃓
@@ -1555,6 +1734,7 @@
     text: ууу...как его скрючило :)
     examples: 场
 - key:
+    id: border_guard_dog
     sym:
       - char:
           rad: 止
@@ -1565,6 +1745,7 @@
     text: справа пограничник без собаки
     examples: 正 此 歪 歭
 - key:
+    id: ram
     sym:
       - char:
           rad: 羊
@@ -1577,6 +1758,7 @@
     text: справа другие написания радикала
     examples: 羔 美 羳 羖
 - key:
+    id: cow
     sym:
       - char:
           rad: 牛
@@ -1585,6 +1767,7 @@
     text: ''
     examples: 牝 犁 牟
 - key:
+    id: pig
     sym:
       - char:
           rad: 豕
@@ -1593,6 +1776,7 @@
     text: а такой красивый иероглиф :)
     examples: 象 豬
 - key:
+    id: courtier
     sym:
       - char:
           rad: 豸
@@ -1601,6 +1785,7 @@
     text: в поклоне
     examples: 豻 貓
 - key:
+    id: fish
     sym:
       - char:
           rad: 鱼
@@ -1611,6 +1796,7 @@
     text: справа традиционное написание радикала, "старая рыбка"
     examples: 魡 鲨
 - key:
+    id: ghost
     sym:
       - char:
           rad: 鬼
@@ -1619,6 +1805,7 @@
     text: ''
     examples: 魆 鬿
 - key:
+    id: nefertiti_grandmother
     sym:
       - char:
           rad: 用
@@ -1627,6 +1814,7 @@
     text: ''
     examples: 甬 甮
 - key:
+    id: suitecase
     sym:
       - char:
           rad: 由
@@ -1635,6 +1823,7 @@
     text: ''
     examples: 油
 - key:
+    id: merchant_trunk
     sym:
       - char:
           rad: 典
@@ -1643,6 +1832,7 @@
     text: такой весь клетчатый
     examples: 典
 - key:
+    id: crocodile_in_hemp
     sym:
       - char:
           rad: 麻
@@ -1651,6 +1841,7 @@
     text: ''
     examples: 磨
 - key:
+    id: humped_nose
     sym:
       - char:
           rad: 幺
@@ -1661,6 +1852,7 @@
     text: справа другое написание радикала
     examples: 幼 鄉
 - key:
+    id: runny_nose
     sym:
       - char:
           rad: 纟
@@ -1671,6 +1863,7 @@
     text: справа традиционное написание радикала, встречаются часто оба.
     examples: 红 紋 素
 - key:
+    id: plow
     sym:
       - char:
           rad: 耒
@@ -1679,6 +1872,7 @@
     text: ''
     examples: 耙 耠
 - key:
+    id: ladder
     sym:
       - char:
           rad: 目
@@ -1687,6 +1881,7 @@
     text: ''
     examples: 盱 看 瞿
 - key:
+    id: comb
     sym:
       - char:
           rad: 乍
@@ -1695,6 +1890,7 @@
     text: ''
     examples: 作
 - key:
+    id: witch
     sym:
       - char:
           rad: 香
@@ -1703,6 +1899,7 @@
     text: состоит из мнемоключей "дама пиковая" и "солнце"
     examples: 馣 馧
 - key:
+    id: icarus
     sym:
       - char:
           rad: 音
@@ -1711,6 +1908,7 @@
     text: состоит из мнемоключиков атлет и солнце.
     examples: 韶
 - key:
+    id: pterodactyl
     sym:
       - char:
           rad: 隹
@@ -1719,6 +1917,7 @@
     text: ''
     examples: 难 谁
 - key:
+    id: taekwondist
     sym:
       - char:
           rad: 戈
@@ -1727,6 +1926,7 @@
     text: типа каратиста, только лупит в основном ногами
     examples: 我 饿
 - key:
+    id: paw
     sym:
       - char:
           rad: 爫
@@ -1735,6 +1935,7 @@
     text: тигра, кошки или медведя
     examples: 爱 摇
 - key:
+    id: knee
     sym:
       - char:
           rad: フ
@@ -1743,6 +1944,7 @@
     text: ''
     examples: 今
 - key:
+    id: antenna
     sym:
       - char:
           rad: 非
@@ -1751,6 +1953,7 @@
     text: ''
     examples: 罪
 - key:
+    id: forelock
     sym:
       - char:
           rad: ⺈
@@ -1759,6 +1962,7 @@
     text: ''
     examples: 角 危
 - key:
+    id: yakuza
     sym:
       - char:
           rad: 生
@@ -1767,6 +1971,7 @@
     text: такой японский мафиози
     examples: 甡 姓
 - key:
+    id: robber
     sym:
       - char:
           rad: 牙
@@ -1775,6 +1980,7 @@
     text: с кинжалом в плаще
     examples: 牚
 - key:
+    id: jumper
     sym:
       - char:
           rad: 耂
@@ -1786,6 +1992,7 @@
       снизу сидит матросик
     examples: 者 姥
 - key:
+    id: head
     sym:
       - char:
           rad: 头
@@ -1795,6 +2002,7 @@
       лицу пот, сопли и слюна.
     examples: 买
 - key:
+    id: fly
     sym:
       - char:
           rad: 虫
@@ -1803,6 +2011,7 @@
     text: ''
     examples: 虺 蛪
 - key:
+    id: dragonfly
     sym:
       - char:
           rad: 中
@@ -1811,6 +2020,7 @@
     text: '"муха" без хвоста'
     examples: 钟
 - key:
+    id: bricks
     sym:
       - char:
           rad: 鼻
@@ -1819,6 +2029,7 @@
     text: ''
     examples: 齀 鼾
 - key:
+    id: dinosaur
     sym:
       - char:
           rad: 亡
@@ -1827,6 +2038,7 @@
     text: ''
     examples: 忙 忘
 - key:
+    id: triplane
     sym:
       - char:
           rad: 龶
@@ -1835,6 +2047,7 @@
     text: это самолет с тремя крыльями друг над дружкой
     examples: 毒
 - key:
+    id: king
     sym:
       - char:
           rad: 王
@@ -1843,6 +2056,7 @@
     text: ''
     examples: 玡 珨 国
 - key:
+    id: bridge
     sym:
       - char:
           rad: 共
@@ -1853,6 +2067,7 @@
     text: через реку простой одноуровневый справа мост в 3 пролета
     examples: 異 期
 - key:
+    id: razor
     sym:
       - char:
           rad: 早
@@ -1861,6 +2076,7 @@
     text: ''
     examples: 章
 - key:
+    id: mammoth
     sym:
       - char:
           rad: 及
@@ -1869,6 +2085,7 @@
     text: ''
     examples: 吸
 - key:
+    id: dragon
     sym:
       - char:
           rad: 龙
@@ -1879,6 +2096,7 @@
     text: справа традиционное написание радикала
     examples: 袭 籠
 - key:
+    id: reed
     sym:
       - char:
           rad: 业
@@ -1887,6 +2105,7 @@
     text: ''
     examples: 亚
 - key:
+    id: flying_dutchman
     sym:
       - char:
           rad: 走
@@ -1895,6 +2114,7 @@
     text: ''
     examples: 赸 趕
 - key:
+    id: marabou
     sym:
       - char:
           rad: 久
@@ -1905,6 +2125,7 @@
     text: такая африканская птица, справа "безголовый марабу"
     examples: 畝 轻
 - key:
+    id: restaurant
     sym:
       - char:
           rad: 食
@@ -1915,6 +2136,7 @@
     text: справа как радикал
     examples: 飧 餇 餘
 - key:
+    id: jockey
     sym:
       - char:
           rad: 饣
@@ -1923,6 +2145,7 @@
     text: это упрощенное написание предыдущего радикала
     examples: 饴 饱
 - key:
+    id: pagoda
     sym:
       - char:
           rad: 金
@@ -1931,6 +2154,7 @@
     text: ''
     examples: 釕 鋈
 - key:
+    id: royal_jockey
     sym:
       - char:
           rad: 钅
@@ -1939,6 +2163,7 @@
     text: это упрощенное написание предыдущего радикала
     examples: 钇 钊
 - key:
+    id: minister
     sym:
       - char:
           rad: 赤
@@ -1951,6 +2176,7 @@
     text: справа замминистр без шапки
     examples: 赧 迹 弯
 - key:
+    id: skates
     sym:
       - char:
           rad: 兆
@@ -1959,6 +2185,7 @@
     text: ''
     examples: 跳
 - key:
+    id: cyclist
     sym:
       - char:
           rad: 与
@@ -1970,6 +2197,7 @@
     text: справа написание другим шрифтом
     examples: 写
 - key:
+    id: fish_skeleton
     sym:
       - char:
           rad: 至
@@ -1978,6 +2206,7 @@
     text: ''
     examples: 致 臸 臷
 - key:
+    id: colosseum
     sym:
       - char:
           rad: 無
@@ -1986,6 +2215,7 @@
     text: это арена в Риме, где рубились гладиаторы. Внизу угли от пожара
     examples: 舞
 - key:
+    id: stool
     sym:
       - char:
           rad: 丌
@@ -1998,6 +2228,7 @@
     text: справа "поломанный табурет"
     examples: 亓 尧
 - key:
+    id: boundary_post
     sym:
       - char:
           rad: 且
@@ -2006,6 +2237,7 @@
     text: ''
     examples: 抯
 - key:
+    id: elbow
     sym:
       - char:
           rad: ㄥ
@@ -2014,6 +2246,7 @@
     text: ''
     examples: 东
 - key:
+    id: tattoo
     sym:
       - char:
           rad: 亥
@@ -2022,6 +2255,7 @@
     text: ''
     examples: 侅
 - key:
+    id: blaster
     sym:
       - char:
           rad_img: ke-rad.svg
@@ -2030,6 +2264,7 @@
     text: ''
     examples: 可
 - key:
+    id: desk_drawers
     sym:
       - char:
           rad: 㠯
@@ -2038,6 +2273,7 @@
     text: с выдвинутыми ящиками
     examples: 官
 - key:
+    id: mowgli
     sym:
       - char:
           rad: ⺧
@@ -2046,6 +2282,7 @@
     text: ''
     examples: 告
 - key:
+    id: swallow
     sym:
       - char:
           rad: ⺌
@@ -2054,6 +2291,7 @@
     text: ''
     examples: 光 当
 - key:
+    id: glasses
     sym:
       - char:
           rad: 𫩏
@@ -2062,6 +2300,7 @@
     text: ''
     examples: 象
 - key:
+    id: road
     sym:
       - char:
           rad_img: road-rad.png
@@ -2070,6 +2309,7 @@
     text: ''
     examples: 兵
 - key:
+    id: boat
     sym:
       - char:
           rad_img: boat-rad.png
@@ -2078,6 +2318,7 @@
     text: ''
     examples: 之
 - key:
+    id: skirt
     sym:
       - char:
           rad: 分
@@ -2086,6 +2327,7 @@
     text: ''
     examples: 份
 - key:
+    id: eyes
     sym:
       - char:
           rad: 丷
@@ -2094,6 +2336,7 @@
     text: и тому подобное
     examples: 併 兑
 - key:
+    id: paws_little
     sym:
       - char:
           rad: 八
@@ -2102,6 +2345,7 @@
     text: и тому подобное
     examples: 帜
 - key:
+    id: e_letter
     sym:
       - char:
           rad: 𠀉
@@ -2110,6 +2354,7 @@
     text: ''
     examples: 印
 - key:
+    id: log_with_twig
     sym:
       - char:
           rad: 卜
@@ -2118,6 +2363,7 @@
     text: или, на что еще там похоже
     examples: 扑
 - key:
+    id: leaf
     sym:
       - char:
           rad: ㇒
@@ -2126,6 +2372,7 @@
     text: ''
     examples: 乎 币
 - key:
+    id: boat_hook
     sym:
       - char:
           rad: 乛
@@ -2134,6 +2381,7 @@
     text: ''
     examples: 买
 - key:
+    id: machinegun
     sym:
       - char:
           rad_img: machgun-rad.png
@@ -2142,6 +2390,7 @@
     text: ''
     examples: 虍
 - key:
+    id: helmet
     sym:
       - char:
           rad: 龷
@@ -2150,6 +2399,7 @@
     text: ''
     examples: 散
 - key:
+    id: bars
     sym:
       - char:
           rad: 井

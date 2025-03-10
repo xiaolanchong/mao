@@ -27,6 +27,7 @@ def read_keys():
                 print(number, keys, images, desc)
             key_list.append({
                 'key': dict([
+                          ('id', image_srcs[0].split('.')[0]),
                           ('sym', [('char', {'rad': key}) for key in keys]),
                           ('name', rus_name),
                           ('images', image_srcs[0] if len(image_srcs) == 1 else image_srcs),
@@ -46,6 +47,8 @@ class IndentSafeDumper(yaml.SafeDumper):
         return super(IndentSafeDumper, self).increase_indent(flow, False)
 
 #print(result)
-with open('key_list_v2.yaml', mode='w', encoding='utf-8') as f:
+with open('key_list_v3.yaml', mode='w', encoding='utf-8') as f:
     # safe_dump
-    yaml.dump(keys, stream=f, Dumper=IndentSafeDumper, allow_unicode=True, sort_keys=False)
+    yaml.dump(keys, stream=f, Dumper=IndentSafeDumper, allow_unicode=True, sort_keys=False,
+              canonical=False,
+              explicit_start=False, explicit_end=False, version=(1,2))

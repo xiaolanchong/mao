@@ -1,0 +1,23 @@
+
+- const PINYIN      = 1
+- const DEFINTION   = 2
+- const EXAMPLE     = 3
+- const REFERENCE   = 4
+
+h1 Иероглиф #{hanzi}
+h2 Толкование
+div 
+    each entry in entries
+        case entry.type
+            when PINYIN
+                div
+                    span [
+                    span(class='fst-italic') #{entry.text}
+                    span ]
+            when DEFINTION
+                div
+                    span #{entry.text}
+            when EXAMPLE
+                div
+                    span(class='fw-light') #{entry.text}
+            
