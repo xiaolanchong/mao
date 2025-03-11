@@ -18,9 +18,8 @@ function addHanziList() {
 		for(const sym of line) {
 			const span = $("<span/>");
 			if (storyDb.has(sym)) {
-				//span.addClass("bg-info");
 				const link = $("<a/>");
-				link.attr('href', `story.html?ch=${sym}`).text(sym);
+				link.attr('href', `char.html?ch=${sym}`).text(sym);
 				span.append(link);
 			}
 			else {

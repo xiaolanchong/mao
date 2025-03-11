@@ -1,0 +1,36 @@
+
+// @param hanzi  Chinese character
+// @param dict   array of (type, text) pairs, type is one of the following constant
+// @param story  map of keys (array), image (image path), story (text)
+
+- const PINYIN      = 1
+- const MEANING     = 2
+- const EXAMPLE     = 3
+- const REFERENCE   = 4
+
+h1 Иероглиф #{hanzi}
+h2 Значение
+div 
+     each entry in dict
+        case entry.type
+            when PINYIN
+                div
+                    span [
+                    span(class='fst-italic') #{entry.text}
+                    span ]
+            when MEANING
+                div
+                    span #{entry.text}
+            when EXAMPLE
+                div
+                    span(class='fw-light ms-2') #{entry.text}
+
+if story !== undefined
+    h2 Мнемофраза
+    div 
+        span(class="me-2") Ключи:
+        span #{story.keys.join(" ")}
+    div #{story.text}
+    if story.image !== undefined
+        div
+            img(src=story.image width=640)

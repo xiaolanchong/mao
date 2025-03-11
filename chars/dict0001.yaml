@@ -1,5 +1,5 @@
 ---
-- 的:
+- ch: 的
   id: de_particle
   def:
     - py: de
@@ -10,26 +10,28 @@
     - py: dí
     - mn: истинный, подлинный; точный
     - ex:
-      - 的确 díquè certainly
+        - 的确 díquè certainly
     - py: dì
     - mn: мишень,цель
     - ex: 
-      - 目的 mùdì goal
+        - 目的 mùdì goal
 
-- 一:
+- ch: 一
   id: one
   def:
     - py: yī
-    - text: один
+    - mn: один
     - alt: 壹
 
-- 是:
+- ch: 是
   id: be
   def:
     - py: shì
     - mn: связка есть; быть; являться
-    - ex: 我是工人 wǒ shì gōngrén — я рабочий
+    - ex: 
+        - 我是工人 wǒ shì gōngrén — я рабочий
     - mn: да; правда; правильно; верно
-    - ex: 是, 我明白了 shì, wǒ míngbaile — да, я понял
+    - ex: 
+        - 是, 我明白了 shì, wǒ míngbaile — да, я понял
     - mn: усилительная частица действительно; именно
     - mn: при удвоении "или"

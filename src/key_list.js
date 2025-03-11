@@ -4,8 +4,8 @@ import $ from 'jquery'
 import data from './key_list.yaml';
 import './styles.scss'
 
-const imagePath = "images/keys/new2";
-const radicalPath = "images/keys";
+const imagePath = "/images/keys/";
+const radicalPath = "/images/keys/sym";
 
 const addSymbols = (tr, sym) => {
 	const td = $("<td/>");
@@ -19,9 +19,9 @@ const addSymbols = (tr, sym) => {
 					span.attr('lang', indivSym.char.lang);
 				}
 				if (firstSym) {
-					span.addClass("fs-1");
+					span.addClass("fs-1 me-1");
 				} else {
-					span.addClass("fs-2 text-body-secondary");
+					span.addClass("fs-2 text-body-secondary me-1");
 				}
 			}
 			else if (indivSym.char.rad_img !== undefined) {

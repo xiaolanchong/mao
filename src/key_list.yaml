@@ -413,6 +413,9 @@
     sym:
       - char:
           rad: 冫
+      - char:
+          rad: 冫
+          lang: zh-Hant
     name: ТЕННИСНАЯ РАКЕТКА
     images: racket.png
     text: ''
@@ -424,6 +427,9 @@
           rad: 水
       - char:
           rad: 氵
+      - char:
+          rad: 氵
+          lang: zh-Hant
     name: ВОДА
     images: water_drops.png
     text: вариант справа лучше представлять как капли, брызги воды.
@@ -917,7 +923,7 @@
       - char:
           rad: 穴
       - char:
-          rad_img: cave-radical.png
+          rad_img: cave-rad.png
     name: БАБА С КОРОМЫСЛОМ
     images: woman_with_shoulderyoke.png
     text: справа другое написание
@@ -2258,7 +2264,7 @@
     id: blaster
     sym:
       - char:
-          rad_img: ke-rad.svg
+          rad_img: blaster-rad.svg
     name: ПИСТОЛЕТ-БЛАСТЕР
     images: blaster.png
     text: ''
