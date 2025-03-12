@@ -8,7 +8,7 @@ import definitionTmpl from './definition.pug'
 
 const noHanziInDictMsg = "对不起, в словаре нет иероглифа {0}";
 //const noHanziInStoryDbMsg = "对不起, нет мнемофраз для иероглифа {0}";
-const imagePath = '/images/stories'
+const imagePath = '../images/stories'
 
 function addHanziStories(crumbElId, storyElId) {
 	storyElId;

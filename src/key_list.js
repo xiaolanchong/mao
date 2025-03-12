@@ -4,8 +4,8 @@ import $ from 'jquery'
 import data from './key_list.yaml';
 import './styles.scss'
 
-const imagePath = "/images/keys/";
-const radicalPath = "/images/keys/sym";
+const imagePath = "../images/keys/";
+const radicalPath = "../images/keys/sym";
 
 const addSymbols = (tr, sym) => {
 	const td = $("<td/>");
