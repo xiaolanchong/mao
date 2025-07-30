@@ -38,20 +38,20 @@ def get_page(hanzi: str, index: int):
 
 
 def get_line(line_number, line_start = 0):
-    with open('jun_da_3000.txt', encoding='utf8') as f:
+    with open('jun_da_rest.txt', encoding='utf8') as f:
         all_lines = f.readlines()
         hanzi_start_index = line_number * len(all_lines[0].rstrip('\n')) + line_start
         return all_lines[line_number][line_start:].rstrip('\n'), hanzi_start_index
 
 
-glob_line_number = 54
+glob_line_number = 56
 line_start = 0
+global_offset = 3000
 
-
-for loc_line_number in range(glob_line_number, 120):
+for loc_line_number in range(glob_line_number, 278):
     line, start_index = get_line(loc_line_number, line_start)
 
     for index, sym in enumerate(line[line_start:]):
-        total_index = start_index + index
+        total_index = global_offset + start_index + index
         get_page(sym, total_index)
         time.sleep(10)
