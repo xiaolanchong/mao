@@ -1,0 +1,41 @@
+[cSettings]
+DATA=1111111110101000001000l1yi00
+home=index.html
+
+[cEve]
+splashtime=2
+max=0
+width=730
+height=560
+resize=0
+bookmark=0
+
+[cInfo]
+title=Как быстро и легко выучить иероглифы
+enumber=29051976
+author=Уголок МАО
+email=umao@list.ru
+web=http://umao.ru
+about=авторы:
+Барков Андрей,
+Барков Павел
+Запрещено использование материалов этой книги в коммерческих целях. 
+Книга распространяется абсолютно бесплатно. 
+Все авторские права на книгу и систему МАО принадлежат авторам Андрею и Павлу Барковым.
+
+Licensed=barkoff
+
+[cTool]
+logoURL=http://natata.hn3.net/?refer=ebook
+bgColor=clBtnFace
+txColor=clWindowText
+BL1=
+BL2=
+BL3=
+BL4=
+BL5=
+BL6=
+BL7=
+BL8=
+BL9=
+
