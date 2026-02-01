@@ -1412,7 +1412,7 @@
     name: БРАТ-БЛИЗНЕЦ
     images: evil_twin.png
     text: ''
-    examples: БРАТ-БЛИЗНЕЦ
+    examples: 习
 - key:
     id: evil_twins
     sym:

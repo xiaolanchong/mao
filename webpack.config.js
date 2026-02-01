@@ -97,12 +97,13 @@ module.exports = {
           {
             // Loads a SASS/SCSS file and compiles it to CSS
             loader: 'sass-loader',
-			options: {
-			  sassOptions: {
-				quietDeps: true,
-				//silenceDeprecations: ['import', 'global-builtin', 'mixed-decls'],
-			  }
-			}
+            options: {
+              sassOptions: {
+                quietDeps: true
+                //silenceDeprecations: [
+                //  'import', 'global-builtin', 'mixed-decls',  'legacy-color-functions'],
+              }
+            }
           }
         ]
       },	  
