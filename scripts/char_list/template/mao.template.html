@@ -1,0 +1,123 @@
+{% set lang="zh-Hans" %}
+{% extends "base.template.html" %}
+
+{% block title %}
+    <title>3800 иероглифов с мнемониками по системе МАО (ч.{{ current_page + 1 }})</title>
+{% endblock %}
+
+{%- block scripts %} 
+	<script src="mnemohanzi.js"></script>
+
+	<style>
+	   .hanzi {
+	      color: wheat;
+	   }
+	   
+	   .meaning_in_assoc {
+	      color: #ffd872;
+	   }
+	   
+	   /* to hide/show text in quiz mode and override bootstrap !important  */
+		.hidden, .hidden > *{
+			color: transparent !important;
+		}
+		
+		.mao_tone_1 {
+	      color: #31d631;
+	    }
+		.mao_tone_2 {
+	      color: #d43333;
+	    }
+		.mao_tone_3 {
+	      color: #337bd4;
+	    }
+		.mao_tone_4 {
+	      color: darkgrey;
+	    }
+		.mao_tone_5 {
+	    }
+
+    </style>
+	
+{% endblock %}
+
+{% block body %}
+
+		<h1>3800 широкоупотребимых иероглифов с мнемониками по системе МАО (часть {{ current_page + 1 }})</h1>
+
+		<!-- page navigation -->
+		<ul class="nav my-3">
+			{%for page_index in range(page_total) %}
+			  <li class="nav-item">
+			   {% if page_index == current_page %}
+			      <a class="nav-link disabled" aria-disabled="true">
+				{% else %}
+				  <a class="nav-link active" aria-current="page" href="mao-{{ page_index + 1 }}.html">
+			   {% endif %}
+			        Часть {{ page_index + 1 }}
+				</a>
+			  </li>
+			{% endfor %}
+		</ul>
+		
+		<!-- review mode toolbar -->
+		<div class="sticky-top d-flex justify-content-end">		
+			<div class="btn-group ms-auto" role="group" aria-label="learning">
+				 
+				  <input type="checkbox" class="btn-check" id="showHanzi" autocomplete="off" checked>
+				  <label class="btn btn-outline-secondary" for="showHanzi">字</label>
+
+				  <input type="checkbox" class="btn-check" id="showMeaning" autocomplete="off" checked>
+				  <label class="btn btn-outline-secondary" for="showMeaning">意</label>
+
+				  <input type="checkbox" class="btn-check" id="showAssociation" autocomplete="off" checked>
+				  <label class="btn btn-outline-secondary" for="showAssociation">联</label>
+			</div>
+		</div>
+
+		<div>
+			<details>
+				<summary>Кодировка тонов</summary>
+			    <ol>
+				  <li><span class="mao_tone_1">Зеленый, дерево</span> (Первая перед покосом зеленая трава - самая высокая, высокий тон)</li>
+				  <li><span class="mao_tone_2">Красный, розовый, кровь, медь, кирпич</span> (Красное зарево пожара возносится ввысь, восходящий тон)</li>
+				  <li><span class="mao_tone_3">Синий, голубой, лед, стекло</span> (Синяя вода в низинах местности, низкий тон)</li>
+				  <li><span class="mao_tone_4">Черный, камень, сталь, чернила, грязь</span> (Нисхождение в темный, мрачный ад, нисходящий тон)</li>
+				  <li><span class="mao_tone_5">Нейтральный</span></li>
+			    </ol>
+			</details>
+		</div>
+		<div class="container gx-0 mt-3">
+
+			 {%- for entity in entities -%}
+			 <div class="row my-2">
+			     <div class=" col-1 gx-0">
+				   <span class="align-top small my-2" >{{ entity.number }}</span>
+				   <span class="hanzi_cell">
+					   <span class="ms-1 fs-3 hanzi" lang="zh-Hans">{{ entity.hanzi }}</span>
+					   {% for pinyin, tone_number in entity.pinyin %}
+						   <span class="ms-1 mao_tone_{{tone_number}}">{{pinyin}}</span>
+					   {% endfor %}
+				   </span>
+				</div>
+				<div class="col-11">
+				   <div class="meaning">
+					 <span>{{ entity.meaning }}</span>
+				   </div>
+				   {% if entity.assoc %}
+				     <div class="association">
+					    <span class="small text-secondary-emphasis  border border-1 rounded-2">联</span>
+						{%- for is_meaning, part in entity.assoc -%}
+						{% set semantic_class = "meaning_in_assoc" if is_meaning else "text-secondary-emphasis" %}
+						<span class=" {{semantic_class}}">{{ part }}</span>
+						{% endfor %}
+					 </div>
+				   {%  endif %}
+				</div>
+			 </div>
+			 
+			 {%- endfor -%}
+			 
+		</div>
+
+{% endblock %}
