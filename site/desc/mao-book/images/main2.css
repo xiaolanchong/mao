@@ -1,12 +1,13 @@
 body {
 	padding: 0px;
-	SCROLLBAR-FACE-COLOR: #DFDFDE; 
+	background-color: darkslategray;
+	/*SCROLLBAR-FACE-COLOR: #DFDFDE; 
 	BACKGROUND: #ffffff; 
 	MARGIN: 0px 0px 0px 0px; 
 	SCROLLBAR-HIGHLIGHT-COLOR: white; 
 	SCROLLBAR-SHADOW-COLOR: white; SCROLLBAR-3DLIGHT-COLOR: white; 
 	SCROLLBAR-ARROW-COLOR: white; SCROLLBAR-TRACK-COLOR: white; 
-	SCROLLBAR-DARKSHADOW-COLOR: white; SCROLLBAR-BASE-COLOR: red
+	SCROLLBAR-DARKSHADOW-COLOR: white; SCROLLBAR-BASE-COLOR: red*/
 }
 font {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -16,7 +17,7 @@ font {
 	text-transform: none;
 }
 a:link {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	line-height: normal;
 	color: #666666;
@@ -25,25 +26,25 @@ a:link {
 	font-variant: normal;
 	text-transform: uppercase;
 	text-decoration: none;
-
+*/
 }
 p {
-	font-size: 8pt;
+/*	font-size: 8pt;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-weight: normal;
 	font-variant: normal;
 	text-decoration: none;
-	color: #666666;
+	color: #666666;*/
 }
 a:visited {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	/*font-size: 10px;
 	color: #999999;
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: uppercase;*/
 }
 a:hover {
-	font-size: 10px;
+	/*font-size: 10px;
 	color: #FF0000;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	background-color: #FEE994;
@@ -51,13 +52,13 @@ a:hover {
 	text-decoration: none;
 	height: auto;
 	width: auto;
-	text-transform: uppercase;
+	text-transform: uppercase;*/
 
 
 }
 pre {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	/*font-size: 10px;
 	font-style: normal;
 	text-transform: uppercase;
 	vertical-align: baseline;
@@ -65,14 +66,14 @@ pre {
 	font-weight: normal;
 	font-variant: normal;
 	border-width: 1;
-	cursor: default;
+	cursor: default;*/
 }
 h6 {
 
 
 
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 8pt;
+	/*font-size: 8pt;
 	font-style: normal;
 	line-height: normal;
 	text-transform: none;
@@ -81,18 +82,19 @@ h6 {
 	word-spacing: normal;
 	white-space: normal;
 	font-weight: normal;
-	font-variant: normal;
+	font-variant: normal;*/
 }
 A.norm:visited {
 	COLOR: black; TEXT-DECORATION: none
 }
 A.norm:link {
-	COLOR: black;
+	/*COLOR: black;
 	TEXT-DECORATION: none;
 	background-color: #FFFFFF;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 8px;
+	font-size: 8px;*/
 }
+/*
 A.norm:hover {
 	COLOR: red;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -125,6 +127,7 @@ A.toplink:link {
 A.toplink:hover {
 	BACKGROUND-COLOR: #4b4b4b; BORDER-BOTTOM: #b4b4b4 3px solid; BORDER-LEFT: #b4b4b4 3px solid; BORDER-RIGHT: #b4b4b4 3px solid; BORDER-TOP: #b4b4b4 3px solid; COLOR: white; FLOAT: right; FONT-SIZE: 11px; FONT-WEIGHT: bold; LETTER-SPACING: -0.05em; MARGIN-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 5px; TEXT-ALIGN: left; TEXT-DECORATION: none
 }
+	*/
 .big-white {
 	font-size: 35px;
 	text-transform: capitalize;
@@ -213,4 +216,8 @@ A.toplink:hover {
 	font-size: 16px;
 	color: #FF0000;
 	font-weight: bold;
+}
+
+  img {
+   height: 100%;
 }
