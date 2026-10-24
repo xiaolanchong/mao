@@ -1,0 +1,47 @@
+{
+  "character": "界",
+  "pinyin": [
+    "jie4"
+  ],
+  "meaning": [
+    "граница"
+  ],
+  "components": [
+    {
+      "key": "поле",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "田",
+      "人",
+      "丿",
+      "丨"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "человек провел ГРАНИЦУ через поле с одно стороны воткнул лом, с другой - кол, и покрасил все черной (4 тон) краской",
+      2
+    ]
+  ],
+  "video": null
+}

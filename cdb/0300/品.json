@@ -1,0 +1,39 @@
+{
+  "character": "品",
+  "pinyin": [
+    "pin3"
+  ],
+  "meaning": [
+    "предмет, продукция, товары, вещи"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Три рта с посиневшими (3 тон) губами. Это же, сколько нужно ПРОДУКЦИИ, ТОВАРОВ и ВЕЩЕЙ, чтобы прокормить такую орду?",
+      2
+    ]
+  ],
+  "video": null
+}

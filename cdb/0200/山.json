@@ -1,0 +1,27 @@
+{
+  "character": "山",
+  "pinyin": [
+    "shan1"
+  ],
+  "meaning": [
+    "гора"
+  ],
+  "components": [
+    {
+      "key": "горы",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Гора, покрытая до самой вершины, сочной зеленой (1 тон) травой.",
+      2
+    ]
+  ],
+  "video": null
+}

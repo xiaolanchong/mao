@@ -1,0 +1,35 @@
+{
+  "character": "持",
+  "pinyin": [
+    "chi2"
+  ],
+  "meaning": [
+    "держать (в руках); поддерживать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "寺"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

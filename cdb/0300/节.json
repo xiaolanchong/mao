@@ -1,0 +1,31 @@
+{
+  "character": "节",
+  "pinyin": [
+    "jie2",
+    "jie1"
+  ],
+  "meaning": [
+    "коленце (бамбука); сустав; сочленение; отрезок; праздник"
+  ],
+  "components": [
+    {
+      "key": "колючая проволока",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艹",
+      "卩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

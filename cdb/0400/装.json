@@ -1,0 +1,35 @@
+{
+  "character": "装",
+  "pinyin": [
+    "zhuang1"
+  ],
+  "meaning": [
+    "1) наряжаться; переодеваться; 2) одежда; 3) притворяться"
+  ],
+  "components": [
+    {
+      "key": "зубрила",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бомбардировщик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кимоно",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "壮",
+      "衣"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,25 @@
+{
+  "character": "失",
+  "pinyin": [
+    "shi1"
+  ],
+  "meaning": [
+    "проиграть"
+  ],
+  "components": [
+    {
+      "key": "мушкетер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "夫",
+      "㇒"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,40 @@
+{
+  "character": "小",
+  "pinyin": [
+    "xiao3"
+  ],
+  "meaning": [
+    "малость; маленький; мелкий; незначительный"
+  ],
+  "components": [
+    {
+      "key": "МАЛЕНЬКИЙ САМОЛЕТИК",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "МАЛЕНЬКИЙ",
+      1
+    ],
+    [
+      " ",
+      2
+    ],
+    [
+      "самолетик",
+      0,
+      "small_aircraft"
+    ],
+    [
+      " в голубом (3 тон) небе.",
+      2
+    ]
+  ],
+  "video": null
+}

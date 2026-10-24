@@ -1,0 +1,30 @@
+{
+  "character": "写",
+  "pinyin": [
+    "xie3"
+  ],
+  "meaning": [
+    "писать; записывать; описывать"
+  ],
+  "components": [
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "велосипедист",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冖",
+      "与"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

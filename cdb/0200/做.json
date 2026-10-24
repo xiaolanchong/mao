@@ -1,0 +1,41 @@
+{
+  "character": "做",
+  "pinyin": [
+    "zuo4"
+  ],
+  "meaning": [
+    "делать, производить, изготовлять"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "могилка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "古",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Худенький и злой человечек, вместе с хвостатой цаплей ПРОИЗВОДИТ, ДЕЛАЕТ чудные каменные (4 тон) могилки.",
+      2
+    ]
+  ],
+  "video": null
+}

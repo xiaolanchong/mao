@@ -1,0 +1,39 @@
+{
+  "character": "众",
+  "pinyin": [
+    "zhong4"
+  ],
+  "meaning": [
+    "много, толпа, множество"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "人"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "По трое не собираться. Это уже ТОЛПА. Особенно если вы негры (4тон). А если негров будет МНОГО получится Африка. А оно нам надо?",
+      2
+    ]
+  ],
+  "video": null
+}

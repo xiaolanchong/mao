@@ -1,0 +1,35 @@
+{
+  "character": "识",
+  "pinyin": [
+    "shi2"
+  ],
+  "meaning": [
+    "знать; быть знакомым; знания"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "只"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

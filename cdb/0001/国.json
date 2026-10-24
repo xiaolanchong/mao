@@ -1,0 +1,69 @@
+{
+  "character": "国",
+  "pinyin": [
+    "guo2"
+  ],
+  "meaning": [
+    "страна, нация"
+  ],
+  "components": [
+    {
+      "key": "ограда",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "корона",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пчела"
+    }
+  ],
+  "structure": {
+    "once": [
+      "囗",
+      "王",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Король",
+      0,
+      "king"
+    ],
+    [
+      " выстроил себе ",
+      2
+    ],
+    [
+      "ограду",
+      0,
+      "fence"
+    ],
+    [
+      ", это теперь его ",
+      2
+    ],
+    [
+      "СТРАНА",
+      1
+    ],
+    [
+      " и внутри нее играет в футбол своей медной (2 тон) ",
+      2
+    ],
+    [
+      "короной",
+      0,
+      "bee"
+    ]
+  ],
+  "video": "video/mnemonics/0001/国.mp4"
+}

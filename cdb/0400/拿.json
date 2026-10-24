@@ -1,0 +1,40 @@
+{
+  "character": "拿",
+  "pinyin": [
+    "na2"
+  ],
+  "meaning": [
+    "держать, ловить, взять, задерживать"
+  ],
+  "components": [
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "合",
+      "手"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Домом придавили руку вора, раздавив ее в кровь (2 тон) Так этого вора и ПОЙМАЛИ, ВЗЯЛИ, ЗАДЕРЖАЛИ до прибытия милиции.",
+      2
+    ]
+  ],
+  "video": null
+}

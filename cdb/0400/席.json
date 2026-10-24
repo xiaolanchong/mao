@@ -1,0 +1,35 @@
+{
+  "character": "席",
+  "pinyin": [
+    "xi2"
+  ],
+  "meaning": [
+    "место"
+  ],
+  "components": [
+    {
+      "key": "крокодил",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "паланкин",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "флаг-штандарт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "巾"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

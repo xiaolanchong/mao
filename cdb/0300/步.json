@@ -1,0 +1,36 @@
+{
+  "character": "步",
+  "pinyin": [
+    "bu4"
+  ],
+  "meaning": [
+    "шаг; этап"
+  ],
+  "components": [
+    {
+      "key": "пограничник с собакой",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик без крыла",
+      "ad_hoc": false,
+      "position": null,
+      "target": "маленький самолетик"
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "止",
+      "𣥂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

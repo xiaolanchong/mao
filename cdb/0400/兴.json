@@ -1,0 +1,26 @@
+{
+  "character": "兴",
+  "pinyin": [
+    "xing4",
+    "xing1"
+  ],
+  "meaning": [
+    "1) с удовольствием делать что-либо 2) создавать"
+  ],
+  "components": [
+    {
+      "key": "железнодорожная стрелка",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "八"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

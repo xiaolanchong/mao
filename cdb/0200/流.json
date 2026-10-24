@@ -1,0 +1,45 @@
+{
+  "character": "流",
+  "pinyin": [
+    "liu2"
+  ],
+  "meaning": [
+    "течь; литься; поток; ручей"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "㐬"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

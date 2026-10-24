@@ -1,0 +1,30 @@
+{
+  "character": "基",
+  "pinyin": [
+    "ji1"
+  ],
+  "meaning": [
+    "фундамент; основание"
+  ],
+  "components": [
+    {
+      "key": "мост",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "其",
+      "土"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

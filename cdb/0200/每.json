@@ -1,0 +1,35 @@
+{
+  "character": "每",
+  "pinyin": [
+    "mei3"
+  ],
+  "meaning": [
+    "каждый"
+  ],
+  "components": [
+    {
+      "key": "тяпка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "теннисисты",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𠂉",
+      "母"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "КАЖДЫЙ теннист прежде чем взять в руки ракету, должен научиться отбивать мяч стеклянной (3 тон) тяпкой",
+      2
+    ]
+  ],
+  "video": null
+}

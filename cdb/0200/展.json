@@ -1,0 +1,41 @@
+{
+  "character": "展",
+  "pinyin": [
+    "zhan3"
+  ],
+  "meaning": [
+    "1) выставлять, выставка 2) развёртывать(ся); развивать(ся)"
+  ],
+  "components": [
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "шлем",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "вождь",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "尸",
+      "龷",
+      "長"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "на всемирной ВЫСТАВКЕ в Париже демонстрировали вождя Чингачкука с топором-томогавком в стеклянном шлеме",
+      2
+    ]
+  ],
+  "video": null
+}

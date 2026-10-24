@@ -1,0 +1,40 @@
+{
+  "character": "德",
+  "pinyin": [
+    "de2"
+  ],
+  "meaning": [
+    "нравственность; добродетель; мораль; этика; добродетельный"
+  ],
+  "components": [
+    {
+      "key": "пюпитр",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сетка теннисная",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "彳",
+      "𢛳"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "character": "形",
+  "pinyin": [
+    "xing2"
+  ],
+  "meaning": [
+    "форма"
+  ],
+  "components": [
+    {
+      "key": "японские ворота",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "когти",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "开",
+      "彡"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Прямо из японских ворот ПОЯВЛЯЮТСЯ когти, причудливой сикембрической ФОРМЫ. С них капает кровь(2 тон), прямо на ворота",
+      2
+    ]
+  ],
+  "video": null
+}

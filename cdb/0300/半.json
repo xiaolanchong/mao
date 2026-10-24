@@ -1,0 +1,40 @@
+{
+  "character": "半",
+  "pinyin": [
+    "ban4"
+  ],
+  "meaning": [
+    "половина"
+  ],
+  "components": [
+    {
+      "key": "ласточка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "丷"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

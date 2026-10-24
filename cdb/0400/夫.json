@@ -1,0 +1,30 @@
+{
+  "character": "夫",
+  "pinyin": [
+    "fu1"
+  ],
+  "meaning": [
+    "1) взрослый мужчина; 2) мужчина; 3) муж"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "人",
+      "二"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

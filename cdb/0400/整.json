@@ -1,0 +1,25 @@
+{
+  "character": "整",
+  "pinyin": [
+    "zheng3"
+  ],
+  "meaning": [
+    "1) целый; цельный; полный; целиком; 2) аккуратный"
+  ],
+  "components": [
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "敕",
+      "正"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

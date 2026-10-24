@@ -1,0 +1,27 @@
+{
+  "character": "非",
+  "pinyin": [
+    "fei1"
+  ],
+  "meaning": [
+    "не есть, не является; не-; без-; анти-; де-"
+  ],
+  "components": [
+    {
+      "key": "антенна",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

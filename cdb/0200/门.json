@@ -1,0 +1,27 @@
+{
+  "character": "门",
+  "pinyin": [
+    "men2"
+  ],
+  "meaning": [
+    "дверь; ворота; проход"
+  ],
+  "components": [
+    {
+      "key": "дверь",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Дверь с красной (2 тон) кнопочкой звонка в углу.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,42 @@
+{
+  "character": "东",
+  "pinyin": [
+    "dong1"
+  ],
+  "meaning": [
+    "1. восток, восточный",
+    "2 хозяин"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "локоть",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "МАЛЕНЬКИЙ САМОЛЕТИК",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "一",
+      "ㄥ",
+      "小"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Я решил бежать на ВОСТОК на маленьком самолете. Чтобы обмануть радары ПВО, я под локтем зажал деревянное (1 тон) копье",
+      2
+    ]
+  ],
+  "video": null
+}

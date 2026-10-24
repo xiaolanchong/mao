@@ -1,0 +1,30 @@
+{
+  "character": "当",
+  "pinyin": [
+    "dang1"
+  ],
+  "meaning": [
+    "1) быть, являться; становиться кем-либо; нести обязанности; работать кем-либо; 2) как только"
+  ],
+  "components": [
+    {
+      "key": "ласточка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "комар",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺌",
+      "彐"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

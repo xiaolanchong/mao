@@ -1,0 +1,35 @@
+{
+  "character": "严",
+  "pinyin": [
+    "yan2"
+  ],
+  "meaning": [
+    "плотный; плотно; строго"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "камыши",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亚",
+      "厂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

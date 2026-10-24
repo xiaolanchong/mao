@@ -1,0 +1,28 @@
+{
+  "character": "手",
+  "pinyin": [
+    "shou3"
+  ],
+  "meaning": [
+    "1. рука",
+    "2. удобный"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "РУКА, удобная штука, в синих (3 тон) шелковых перчатках",
+      2
+    ]
+  ],
+  "video": null
+}

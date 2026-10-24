@@ -1,0 +1,27 @@
+{
+  "character": "又",
+  "pinyin": [
+    "you4"
+  ],
+  "meaning": [
+    "опять, снова; еще"
+  ],
+  "components": [
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

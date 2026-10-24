@@ -1,0 +1,32 @@
+{
+  "character": "书",
+  "pinyin": [
+    "shu1"
+  ],
+  "meaning": [
+    "книга"
+  ],
+  "components": [
+    {
+      "key": "книга",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Толстая КНИГА в деревянном (1 тон) переплете, вокруг летает и жужжит зеленая муха. Запоминаем многократными повторениями:)",
+      2
+    ]
+  ],
+  "video": null
+}

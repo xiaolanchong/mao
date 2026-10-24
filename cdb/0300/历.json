@@ -1,0 +1,30 @@
+{
+  "character": "历",
+  "pinyin": [
+    "ki4"
+  ],
+  "meaning": [
+    "проходить; миновать; пережить"
+  ],
+  "components": [
+    {
+      "key": "крокодильчик слепой",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "автомат Калашникова",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "厂",
+      "力"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

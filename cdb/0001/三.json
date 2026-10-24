@@ -1,0 +1,44 @@
+{
+  "character": "三",
+  "pinyin": [
+    "san1"
+  ],
+  "meaning": [
+    "три"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "一",
+      "一",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ТРИ",
+      1
+    ],
+    [
+      " ",
+      2
+    ],
+    [
+      "копья",
+      0,
+      "spear"
+    ],
+    [
+      " лежать вровень.",
+      2
+    ]
+  ],
+  "video": null
+}

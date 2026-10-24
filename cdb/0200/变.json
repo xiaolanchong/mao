@@ -1,0 +1,27 @@
+{
+  "character": "变",
+  "pinyin": [
+    "bian4"
+  ],
+  "meaning": [
+    "изменять(ся); изменение; превращение"
+  ],
+  "components": [
+    {
+      "key": "казачий атаман",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

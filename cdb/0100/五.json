@@ -1,0 +1,35 @@
+{
+  "character": "五",
+  "pinyin": [
+    "wu3"
+  ],
+  "meaning": [
+    "пять"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "трость",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "王",
+      "丨"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Король идет с тросточкой, неуверенно ковыляя, сзватив рукоять всеми ПЯТЬЮ пальцами",
+      2
+    ]
+  ],
+  "video": null
+}

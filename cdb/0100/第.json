@@ -1,0 +1,42 @@
+{
+  "character": "第",
+  "pinyin": [
+    "di4"
+  ],
+  "meaning": [
+    "префикс порядкового числительного"
+  ],
+  "components": [
+    {
+      "key": "фашисты",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺮",
+      "弓",
+      "丨",
+      "㇒"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

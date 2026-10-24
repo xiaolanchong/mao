@@ -1,0 +1,40 @@
+{
+  "character": "族",
+  "pinyin": [
+    "zu2"
+  ],
+  "meaning": [
+    "род, народность, раса, национальность"
+  ],
+  "components": [
+    {
+      "key": "футболист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тяпка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мушкетер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "方",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Футболист с тяпкой напал на мушкетера, пинал его и бил тяпкой до крови (2 тон), потому что он был другой НАЦИОНАЛЬНОСТИ И РАСЫ",
+      2
+    ]
+  ],
+  "video": null
+}

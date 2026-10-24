@@ -1,0 +1,35 @@
+{
+  "character": "队",
+  "pinyin": [
+    "dui4"
+  ],
+  "meaning": [
+    "отряд; команда; бригада"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "人"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Рыбаки в черных (4 тон) штормовках с удочками организовали БРИГАДУ и ОТРЯД быстро реагирование на богатый клёв.",
+      2
+    ]
+  ],
+  "video": null
+}

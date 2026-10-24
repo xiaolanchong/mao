@@ -1,0 +1,30 @@
+{
+  "character": "即",
+  "pinyin": [
+    "ji2"
+  ],
+  "meaning": [
+    "есть; являться; это и есть; то есть; (а) именно"
+  ],
+  "components": [
+    {
+      "key": "знаменосец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艮",
+      "卩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

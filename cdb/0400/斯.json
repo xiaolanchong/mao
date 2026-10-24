@@ -1,0 +1,25 @@
+{
+  "character": "斯",
+  "pinyin": [
+    "si1"
+  ],
+  "meaning": [
+    "этот; это"
+  ],
+  "components": [
+    {
+      "key": "гиббон",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "其",
+      "斤"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

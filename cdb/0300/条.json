@@ -1,0 +1,36 @@
+{
+  "character": "条",
+  "pinyin": [
+    "tiao2"
+  ],
+  "meaning": [
+    "прут; ветка; лоза; нить; счётное слово"
+  ],
+  "components": [
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "夂",
+      "一",
+      "小"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

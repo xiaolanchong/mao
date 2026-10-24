@@ -1,0 +1,30 @@
+{
+  "character": "火",
+  "pinyin": [
+    "huo3"
+  ],
+  "meaning": [
+    "огонь(пожар)"
+  ],
+  "components": [
+    {
+      "key": "костер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Костер, огонь, он и есть ОГОНЬ, синий (3 тон), например из газовой плиты",
+      2
+    ]
+  ],
+  "video": null
+}

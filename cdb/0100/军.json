@@ -1,0 +1,35 @@
+{
+  "character": "军",
+  "pinyin": [
+    "jun1"
+  ],
+  "meaning": [
+    "армия, войска"
+  ],
+  "components": [
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "телега",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冖",
+      "车"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "В АРМИЮ поступили новые цвета хаки (1 тон) телеги с поставленными в ряд скамейками.",
+      2
+    ]
+  ],
+  "video": null
+}

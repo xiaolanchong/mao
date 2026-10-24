@@ -1,0 +1,35 @@
+{
+  "character": "无",
+  "pinyin": [
+    "wu2"
+  ],
+  "meaning": [
+    "не; не иметь; без-"
+  ],
+  "components": [
+    {
+      "key": "старый монах",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "尢",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

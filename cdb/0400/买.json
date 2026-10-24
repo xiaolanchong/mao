@@ -1,0 +1,30 @@
+{
+  "character": "买",
+  "pinyin": [
+    "mai3"
+  ],
+  "meaning": [
+    "покупать, приобретать"
+  ],
+  "components": [
+    {
+      "key": "багор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "голова",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "㇖",
+      "头"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

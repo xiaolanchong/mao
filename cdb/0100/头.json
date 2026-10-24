@@ -1,0 +1,28 @@
+{
+  "character": "头",
+  "pinyin": [
+    "tou2"
+  ],
+  "meaning": [
+    "1. голова",
+    "2. головка, кончик"
+  ],
+  "components": [
+    {
+      "key": "голова",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ГОЛОВА с натертой до красноты (2 тон) лысиной.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,2 +1,4 @@
 /node_modules
 site/desc/mao-book/images/thumbs.db
+scripts/key_list/__pycache__/create_key_list_html.cpython-312.pyc
+scripts/char_database/__pycache__/create_char_database.cpython-312.pyc

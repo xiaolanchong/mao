@@ -1,0 +1,27 @@
+{
+  "character": "气",
+  "pinyin": [
+    "qi4"
+  ],
+  "meaning": [
+    "1) газ; воздух; пар; атмосфера; 2) дыхание; дух;"
+  ],
+  "components": [
+    {
+      "key": "мотоциклист",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

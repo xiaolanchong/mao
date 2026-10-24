@@ -1,0 +1,30 @@
+{
+  "character": "似",
+  "pinyin": [
+    "si4"
+  ],
+  "meaning": [
+    "словно; подобно; (такой) как"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мим",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "以"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

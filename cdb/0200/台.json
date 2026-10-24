@@ -1,0 +1,31 @@
+{
+  "character": "台",
+  "pinyin": [
+    "tai2",
+    "tai1"
+  ],
+  "meaning": [
+    "площадка, станция, платформа (возвышающееся сооружение)"
+  ],
+  "components": [
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "厶",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,30 @@
+{
+  "character": "青",
+  "pinyin": [
+    "qing1"
+  ],
+  "meaning": [
+    "1)яркий; насыщенный; концентрированный; 2)зелёный, как яркая зелень по весне; 3)голубой, синий, как яркое голубое небо 4) молодой упр."
+  ],
+  "components": [
+    {
+      "key": "электричка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "триплан",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "龶",
+      "月"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

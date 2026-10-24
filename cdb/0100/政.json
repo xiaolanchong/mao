@@ -1,0 +1,35 @@
+{
+  "character": "政",
+  "pinyin": [
+    "zheng4"
+  ],
+  "meaning": [
+    "политический"
+  ],
+  "components": [
+    {
+      "key": "ПОГРАНИЧНИК С СОБАКОЙ",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "正",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Пограничник с копьем не впустил черную (4 тон) цаплю в страну по ПОЛИТИЧЕСКИМ мотивам.",
+      2
+    ]
+  ],
+  "video": null
+}

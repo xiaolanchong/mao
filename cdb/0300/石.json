@@ -1,0 +1,30 @@
+{
+  "character": "石",
+  "pinyin": [
+    "shi2"
+  ],
+  "meaning": [
+    "камень"
+  ],
+  "components": [
+    {
+      "key": "самокат",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "丆",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Красный (2 тон) самокат с КАМЕННЫМИ колесами разбрасывает при езде КАМНИ",
+      2
+    ]
+  ],
+  "video": null
+}

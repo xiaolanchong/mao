@@ -1,0 +1,37 @@
+{
+  "character": "结",
+  "pinyin": [
+    "jie2",
+    "jie1"
+  ],
+  "meaning": [
+    "завязывать; заканчивать; приносить плоды; завязываться (о плодах)"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бомбардировщик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "士",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

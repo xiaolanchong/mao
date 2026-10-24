@@ -1,0 +1,30 @@
+{
+  "character": "士",
+  "pinyin": [
+    "shi4"
+  ],
+  "meaning": [
+    "учёный; образованный [интеллигентный] человек; воин"
+  ],
+  "components": [
+    {
+      "key": "бомбардировщик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

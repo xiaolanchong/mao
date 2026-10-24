@@ -1,0 +1,36 @@
+{
+  "character": "校",
+  "pinyin": [
+    "xiao4",
+    "jiao4"
+  ],
+  "meaning": [
+    "1) школа; учебное заведение 2) сличать; сверять; корректировать;"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отец",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "交"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

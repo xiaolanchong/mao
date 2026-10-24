@@ -1,0 +1,30 @@
+{
+  "character": "该",
+  "pinyin": [
+    "gai1"
+  ],
+  "meaning": [
+    "должно; следует (быть)"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "татуировка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "亥"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

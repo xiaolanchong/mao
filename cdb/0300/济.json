@@ -1,0 +1,41 @@
+{
+  "character": "济",
+  "pinyin": [
+    "ji4"
+  ],
+  "meaning": [
+    "помогать, выручать, спасать"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "строитель",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ласты",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "文",
+      "八"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Водяной строитель в черных(4 тон) ластах, всегда ПОМОЖЕТ, ВЫРУЧИТ И СПАСЕТ, если вы вдруг начнете тонуть.",
+      2
+    ]
+  ],
+  "video": null
+}

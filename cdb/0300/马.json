@@ -1,0 +1,27 @@
+{
+  "character": "马",
+  "pinyin": [
+    "ma3"
+  ],
+  "meaning": [
+    "лошадь"
+  ],
+  "components": [
+    {
+      "key": "лошадь",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Лошадь,большая стеклянная (3 тон) статуя ЛОШАДИ",
+      2
+    ]
+  ],
+  "video": null
+}

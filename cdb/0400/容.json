@@ -1,0 +1,30 @@
+{
+  "character": "容",
+  "pinyin": [
+    "rong2"
+  ],
+  "meaning": [
+    "1) вмещать; заключать в себе; 2) допускать; 3) внешность"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "谷"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

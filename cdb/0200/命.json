@@ -1,0 +1,41 @@
+{
+  "character": "命",
+  "pinyin": [
+    "ming4"
+  ],
+  "meaning": [
+    "жизнь, судьба"
+  ],
+  "components": [
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亼",
+      "口",
+      "卩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Под крышей, темной (4 тон) ночью, пьяный рот, размахивая острым тесаком. Жалуется мне на свою ЖИЗНЬ и СУДЬБУ",
+      2
+    ]
+  ],
+  "video": null
+}

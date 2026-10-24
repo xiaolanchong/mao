@@ -1,0 +1,27 @@
+{
+  "character": "水",
+  "pinyin": [
+    "shui3"
+  ],
+  "meaning": [
+    "вода"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Вода, прохладная, а на глубине синяя (3 тон).",
+      2
+    ]
+  ],
+  "video": null
+}

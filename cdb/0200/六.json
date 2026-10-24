@@ -1,0 +1,35 @@
+{
+  "character": "六",
+  "pinyin": [
+    "liu4"
+  ],
+  "meaning": [
+    "шесть"
+  ],
+  "components": [
+    {
+      "key": "3",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "三",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ШЕСТЬ, именно столько получу, если разделю 3 яблока (2 больших и 1 маленькое) каждое пополам своим стальным (4 тон) копьем.",
+      2
+    ]
+  ],
+  "video": null
+}

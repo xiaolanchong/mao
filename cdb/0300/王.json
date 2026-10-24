@@ -1,0 +1,30 @@
+{
+  "character": "王",
+  "pinyin": [
+    "wang2"
+  ],
+  "meaning": [
+    "король"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "一",
+      "土"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Король красный( 2 тон) и страдающий отдышкой. Князь красно ( 2 тон) солнышко.",
+      2
+    ]
+  ],
+  "video": null
+}

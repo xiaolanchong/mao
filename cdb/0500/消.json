@@ -1,0 +1,35 @@
+{
+  "character": "消",
+  "pinyin": [
+    "xiao1"
+  ],
+  "meaning": [
+    "рассеяться; развеяться (напр., о дыме); рассосаться; исчезнуть"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ласточка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "нефертити",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "肖"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

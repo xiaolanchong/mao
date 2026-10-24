@@ -1,0 +1,35 @@
+{
+  "character": "什",
+  "pinyin": [
+    "shen2"
+  ],
+  "meaning": [
+    "какой? что? (служебное слово при вопросе)"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "十"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Худенький человек задает ВОПРОС по 10 раз",
+      2
+    ]
+  ],
+  "video": null
+}

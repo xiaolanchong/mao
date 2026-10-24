@@ -1,0 +1,36 @@
+{
+  "character": "部",
+  "pinyin": [
+    "bu4"
+  ],
+  "meaning": [
+    "часть; отдел, министерство"
+  ],
+  "components": [
+    {
+      "key": "атлет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "立",
+      "口",
+      "阝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

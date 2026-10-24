@@ -1,0 +1,29 @@
+{
+  "character": "林",
+  "pinyin": [
+    "lin2"
+  ],
+  "meaning": [
+    "лес; роща; лесной"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

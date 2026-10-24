@@ -1,0 +1,40 @@
+{
+  "character": "领",
+  "pinyin": [
+    "ling3"
+  ],
+  "meaning": [
+    "шея; возглавлять, направлять"
+  ],
+  "components": [
+    {
+      "key": "коленка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "фуражка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "римский легионер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "令",
+      "页"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

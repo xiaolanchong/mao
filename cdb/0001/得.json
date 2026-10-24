@@ -1,0 +1,44 @@
+{
+  "character": "得",
+  "pinyin": [
+    "de2",
+    "de",
+    "dei3"
+  ],
+  "meaning": [
+    "получить; добыть; приобрести: должен; (грамматич. частица обстоятельства после глагола)"
+  ],
+  "components": [
+    {
+      "key": "пюпитр",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "彳",
+      "日",
+      "一",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,37 @@
+{
+  "character": "乐",
+  "pinyin": [
+    "le4",
+    "yue4"
+  ],
+  "meaning": [
+    "1) радоваться; веселиться; наслаждаться; 2) музыка"
+  ],
+  "components": [
+    {
+      "key": "тяпка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𠂉",
+      "小",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

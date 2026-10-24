@@ -1,0 +1,27 @@
+{
+  "character": "入",
+  "pinyin": [
+    "ru4"
+  ],
+  "meaning": [
+    "входить"
+  ],
+  "components": [
+    {
+      "key": "вигвам",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "В индейский вигвам можно ВОЙТИ только с черного (4 тон) входа",
+      2
+    ]
+  ],
+  "video": null
+}

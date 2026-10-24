@@ -1,0 +1,42 @@
+{
+  "character": "统",
+  "pinyin": [
+    "tong3"
+  ],
+  "meaning": [
+    "весь; всё; целиком; объединяющий; общий"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "亠",
+      "厶",
+      "儿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,38 @@
+{
+  "character": "一",
+  "pinyin": [
+    "yi1"
+  ],
+  "meaning": [
+    "один, как только, одинаковый"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "копье",
+      0,
+      "spear"
+    ],
+    [
+      " можеть быть только ",
+      2
+    ],
+    [
+      "ОДНО",
+      1
+    ]
+  ],
+  "video": null
+}

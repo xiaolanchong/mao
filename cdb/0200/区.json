@@ -1,0 +1,36 @@
+{
+  "character": "区",
+  "pinyin": [
+    "qu1"
+  ],
+  "meaning": [
+    "район, регион"
+  ],
+  "components": [
+    {
+      "key": "штепсель",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "нет (кости)",
+      "ad_hoc": false,
+      "position": null,
+      "target": "кости"
+    }
+  ],
+  "structure": {
+    "once": [
+      "匚",
+      "乂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "В штепселе нет электричества. В этом РАЙОНЕ, РЕГИОНЕ его никогда и не было. Да и штепсели у них деревянные (1 тон)",
+      2
+    ]
+  ],
+  "video": null
+}

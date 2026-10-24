@@ -1,0 +1,30 @@
+{
+  "character": "委",
+  "pinyin": [
+    "wei3"
+  ],
+  "meaning": [
+    "поручать"
+  ],
+  "components": [
+    {
+      "key": "пиковая дама",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "禾",
+      "女"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

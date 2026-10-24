@@ -1,0 +1,30 @@
+{
+  "character": "黄",
+  "pinyin": [
+    "huang2"
+  ],
+  "meaning": [
+    "желтый"
+  ],
+  "components": [
+    {
+      "key": "крестоносец",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "龷",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "крестоносец Хуан снимает свои медные (2 тон) доспехи, чтобы похвастать своим ЖЕЛТЫМ исподним.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "character": "轻",
+  "pinyin": [
+    "qing1"
+  ],
+  "meaning": [
+    "лёгкий; легко"
+  ],
+  "components": [
+    {
+      "key": "телега",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "марабу",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "车",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

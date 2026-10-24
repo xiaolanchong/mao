@@ -1,0 +1,31 @@
+{
+  "character": "际",
+  "pinyin": [
+    "ji4"
+  ],
+  "meaning": [
+    "1) граница; край; 2) между; грань"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "толстуха",
+      "ad_hoc": false,
+      "position": null,
+      "target": "ТОП-МОДЕЛЬ"
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "示"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

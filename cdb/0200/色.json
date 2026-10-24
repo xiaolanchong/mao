@@ -1,0 +1,35 @@
+{
+  "character": "色",
+  "pinyin": [
+    "se4"
+  ],
+  "meaning": [
+    "цвет"
+  ],
+  "components": [
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "очкарик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺈",
+      "巴"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Очкарик выкрасил свой чуб во все ЦВЕТА радуги. При этом он был жгучим брюнетом(4 тон) и только чуб был разного ЦВЕТА.",
+      2
+    ]
+  ],
+  "video": null
+}

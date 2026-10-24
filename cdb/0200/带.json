@@ -1,0 +1,37 @@
+{
+  "character": "带",
+  "pinyin": [
+    "dai4"
+  ],
+  "meaning": [
+    "1) лента; пояс; ремень; 2) нести"
+  ],
+  "components": [
+    {
+      "key": "колючая проволока (усиленная)",
+      "ad_hoc": false,
+      "position": null,
+      "target": "колючая проволока"
+    },
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "флаг-штандарт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "卅",
+      "冖",
+      "巾"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

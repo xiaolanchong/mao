@@ -1,0 +1,36 @@
+{
+  "character": "远",
+  "pinyin": [
+    "yuan3"
+  ],
+  "meaning": [
+    "далёкий; далеко"
+  ],
+  "components": [
+    {
+      "key": "маркитантка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "табурет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "辶",
+      "一",
+      "兀"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,41 @@
+{
+  "character": "提",
+  "pinyin": [
+    "ti2"
+  ],
+  "meaning": [
+    "подъем(лифт)"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "жена Мазая",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "日",
+      "疋"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Я своими руками ПОДНИМАЮ раскрасневшуюся (2 тон) жену Мазая из лодки и НЕСУ ее в тень. На солнце она получила солнечный удар.",
+      2
+    ]
+  ],
+  "video": null
+}

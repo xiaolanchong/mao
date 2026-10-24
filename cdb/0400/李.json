@@ -1,0 +1,30 @@
+{
+  "character": "李",
+  "pinyin": [
+    "li3"
+  ],
+  "meaning": [
+    "слива"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "египетский посох",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "子"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,42 @@
+{
+  "character": "南",
+  "pinyin": [
+    "nan2"
+  ],
+  "meaning": [
+    "юг"
+  ],
+  "components": [
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "турник",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отбойный молоток",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "冂",
+      "丷",
+      "干"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

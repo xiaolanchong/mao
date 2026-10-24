@@ -1,0 +1,35 @@
+{
+  "character": "钱",
+  "pinyin": [
+    "qian2"
+  ],
+  "meaning": [
+    "монета; деньги, наличность"
+  ],
+  "components": [
+    {
+      "key": "королевский жокей",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "钅",
+      "戋"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

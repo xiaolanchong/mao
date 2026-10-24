@@ -1,0 +1,36 @@
+{
+  "character": "运",
+  "pinyin": [
+    "yun4"
+  ],
+  "meaning": [
+    "движение, транспорт; перевозить; транспортировать; перевозка"
+  ],
+  "components": [
+    {
+      "key": "маркитантка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "2",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "辶",
+      "厶",
+      "二"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

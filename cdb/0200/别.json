@@ -1,0 +1,43 @@
+{
+  "character": "别",
+  "pinyin": [
+    "bie2"
+  ],
+  "meaning": [
+    "другой",
+    "отличать",
+    "не нужно"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "автомат калашникова",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "力",
+      "刂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "рот приказывает мне взять меч и сдалеть мой калашников ОТЛИЧНЫМ от ДРУГИХ автоматов, я же противлюсь что НЕ НУЖНО",
+      2
+    ]
+  ],
+  "video": null
+}

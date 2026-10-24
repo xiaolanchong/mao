@@ -8,12 +8,14 @@
   <title>Мнемоключи</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
 	      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="../bundle.js"></script>
-  <script>
-    BundleLibrary.addKeyList("key_table");
-  </script>
   <style>
+.example { font-size: 1.5rem; }
+.key-images img { max-width: 100%; border: 2px solid #444; border-radius: 2px; background: #555; }
+.key-images div + div { margin-top: .25rem; }
+.key-symbols { min-width: 5rem; }
+@media (max-width: 800px) { .key-images img { width: 108px; } }
+@media (max-width: 600px) { .key-images img { width: 96px; } }
+
 
 span:lang(vi) {
     font-family: 'Nom Na Tong', 'HAN NOM A', 'HAN NOM B', 
@@ -56,14 +58,1513 @@ span:lang(zh-Hant) {
 	<table class="table table-sm table-striped" id="key_table">
 	  <thead>
 	    <tr>
-		  <th>№</th>
-		  <th>Радикал</th>
-		  <th>Картинка</th>
-		  <th>Мнемоключ, комментарии и примеры</th>
+		  <th scope="col">№</th>
+		  <th scope="col">Радикал</th>
+		  <th scope="col">Картинка</th>
+		  <th scope="col">Мнемоключ, комментарии и примеры</th>
 		</tr>
 	  </thead>
 	  <tbody>
-	
+    <tr id="bee">
+      <th scope="row">1</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼂</span></td>
+      <td class="key-images"><div><img src="../images/keys/bee.png" alt="ПЧЕЛА" loading="lazy"></div></td>
+      <td><div>ПЧЕЛА</div><div>В зависимости от создаваемой мнемосценки ее можно заменять на другие мелкие предметы.</div><div class="example">义 忍</div></td>
+    </tr>
+    <tr id="beret">
+      <th scope="row">2</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼧</span></td>
+      <td class="key-images"><div><img src="../images/keys/beret.png" alt="БЕРЕТ" loading="lazy"></div></td>
+      <td><div>БЕРЕТ</div><div>такой носят на голове</div><div class="example">宗 寢</div></td>
+    </tr>
+    <tr id="turk_sabre">
+      <th scope="row">3</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/turk-sabre-rad.png" alt="Радикал: САБЛЯ ТУРЕЦКАЯ" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/turk_sabre.png" alt="САБЛЯ ТУРЕЦКАЯ" loading="lazy"></div></td>
+      <td><div>САБЛЯ ТУРЕЦКАЯ</div><div>изогнутый вариант цифры 十</div><div class="example">贼 绒</div></td>
+    </tr>
+    <tr id="spike">
+      <th scope="row">4</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼁</span></td>
+      <td class="key-images"><div><img src="../images/keys/spike.png" alt="КОЛ" loading="lazy"></div></td>
+      <td><div>КОЛ</div><div>шест, штырь и все из этой серии.</div><div class="example">临 蓝</div></td>
+    </tr>
+    <tr id="pelican">
+      <th scope="row">5</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼄</span><span class="fs-2 text-body-secondary me-1">乚</span></td>
+      <td class="key-images"><div><img src="../images/keys/pelican.png" alt="ПЕЛИКАН" loading="lazy"></div></td>
+      <td><div>ПЕЛИКАН</div><div>справо другой вариант радикала. Кодируем как &quot;безголовый пеликан&quot; или &quot;рыболовный крючок&quot;.</div><div class="example">乞 乱</div></td>
+    </tr>
+    <tr id="man">
+      <th scope="row">6</th>
+      <td class="key-symbols"><span class="fs-1 me-1">人</span><span class="fs-2 text-body-secondary me-1">𠆢</span><span class="fs-2 text-body-secondary me-1">亻</span></td>
+      <td class="key-images"><div><img src="../images/keys/man.png" alt="ЧЕЛОВЕК" loading="lazy"></div></td>
+      <td><div>ЧЕЛОВЕК</div><div>справа другие варианты написания. Крайний вариант можно кодировать как &quot;худой человек&quot;</div><div class="example">囚 债 余</div></td>
+    </tr>
+    <tr id="lid">
+      <th scope="row">7</th>
+      <td class="key-symbols"><span class="fs-1 me-1">亠</span></td>
+      <td class="key-images"><div><img src="../images/keys/lid.png" alt="КРЫШКА ОТ КАСТРЮЛИ" loading="lazy"></div></td>
+      <td><div>КРЫШКА ОТ КАСТРЮЛИ</div><div></div><div class="example">亮 抗</div></td>
+    </tr>
+    <tr id="crowbar">
+      <th scope="row">8</th>
+      <td class="key-symbols"><span class="fs-1 me-1">丿</span></td>
+      <td class="key-images"><div><img src="../images/keys/crowbar.png" alt="ЛОМИК-ФОМКА" loading="lazy"></div></td>
+      <td><div>ЛОМИК-ФОМКА</div><div>таким вскрывают закрытые двери</div><div class="example">价</div></td>
+    </tr>
+    <tr id="spear">
+      <th scope="row">9</th>
+      <td class="key-symbols"><span class="fs-1 me-1">一</span></td>
+      <td class="key-images"><div><img src="../images/keys/spear.png" alt="КОПЬЕ" loading="lazy"></div></td>
+      <td><div>КОПЬЕ</div><div>также это китайская цифра 1</div><div class="example">丛 但</div></td>
+    </tr>
+    <tr id="bench">
+      <th scope="row">10</th>
+      <td class="key-symbols"><span class="fs-1 me-1">冖</span></td>
+      <td class="key-images"><div><img src="../images/keys/bench.png" alt="СКАМЕЙКА" loading="lazy"></div></td>
+      <td><div>СКАМЕЙКА</div><div></div><div class="example">冗 军</div></td>
+    </tr>
+    <tr id="blind_crocodile">
+      <th scope="row">11</th>
+      <td class="key-symbols"><span class="fs-1 me-1">厂</span></td>
+      <td class="key-images"><div><img src="../images/keys/blind_crocodile.png" alt="КРОКОДИЛЬЧИК СЛЕПОЙ" loading="lazy"></div></td>
+      <td><div>КРОКОДИЛЬЧИК СЛЕПОЙ</div><div>потому что еще маленький.</div><div class="example">压 厢</div></td>
+    </tr>
+    <tr id="crocodile">
+      <th scope="row">12</th>
+      <td class="key-symbols"><span class="fs-1 me-1">广</span></td>
+      <td class="key-images"><div><img src="../images/keys/crocodile.png" alt="КРОКОДИЛ" loading="lazy"></div></td>
+      <td><div>КРОКОДИЛ</div><div>конечно, крокодил Гена</div><div class="example">店 廓</div></td>
+    </tr>
+    <tr id="winged_crocodile">
+      <th scope="row">13</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⽧</span></td>
+      <td class="key-images"><div><img src="../images/keys/winged_crocodile.png" alt="КРОКОДИЛ С КРЫЛЫШКАМИ" loading="lazy"></div></td>
+      <td><div>КРОКОДИЛ С КРЫЛЫШКАМИ</div><div>нелепейшее создание</div><div class="example">疗 疾</div></td>
+    </tr>
+    <tr id="mosquito">
+      <th scope="row">14</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼹</span></td>
+      <td class="key-images"><div><img src="../images/keys/mosquito.png" alt="КОМАР" loading="lazy"></div></td>
+      <td><div>КОМАР</div><div></div><div class="example">当 寻</div></td>
+    </tr>
+    <tr id="skier">
+      <th scope="row">15</th>
+      <td class="key-symbols"><span class="fs-1 me-1">彑</span></td>
+      <td class="key-images"><div><img src="../images/keys/skier-2.png" alt="ЛЫЖНИК" loading="lazy"></div></td>
+      <td><div>ЛЫЖНИК</div><div>это другое написание радикала &quot;комар&quot;</div><div class="example">彔</div></td>
+    </tr>
+    <tr id="dumbbell">
+      <th scope="row">16</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼯</span></td>
+      <td class="key-images"><div><img src="../images/keys/dumbbell.png" alt="ГАНТЕЛЯ" loading="lazy"></div></td>
+      <td><div>ГАНТЕЛЯ</div><div></div><div class="example">红 经</div></td>
+    </tr>
+    <tr id="buratino">
+      <th scope="row">17</th>
+      <td class="key-symbols"><span class="fs-1 me-1">勹</span><span class="fs-2 text-body-secondary me-1">𠃌</span></td>
+      <td class="key-images"><div><img src="../images/keys/buratino.png" alt="БУРАТИНО" loading="lazy"></div></td>
+      <td><div>БУРАТИНО</div><div>слишком любопытный для такого роста :) Справа безголовый буратино.</div><div class="example">包 询 局</div></td>
+    </tr>
+    <tr id="sword">
+      <th scope="row">18</th>
+      <td class="key-symbols"><span class="fs-1 me-1">刂</span></td>
+      <td class="key-images"><div><img src="../images/keys/sword.png" alt="МЕЧ" loading="lazy"></div></td>
+      <td><div>МЕЧ</div><div></div><div class="example">剂 前</div></td>
+    </tr>
+    <tr id="schmeisser">
+      <th scope="row">19</th>
+      <td class="key-symbols"><span class="fs-1 me-1">刀</span><span class="fs-2 text-body-secondary me-1">乃</span></td>
+      <td class="key-images"><div><img src="../images/keys/schmeisser.png" alt="АВТОМАТ &quot;ШМАЙСЕР&quot;" loading="lazy"></div></td>
+      <td><div>АВТОМАТ &quot;ШМАЙСЕР&quot;</div><div>это другое написание радикала МЕЧ, в иероглифах встречаются оба варианта. А так как они визуально непохожи, пришлось их разделить. Справа - &quot;поломанный автомат&quot;.</div><div class="example">切 仞 秀</div></td>
+    </tr>
+    <tr id="kalashnikov">
+      <th scope="row">20</th>
+      <td class="key-symbols"><span class="fs-1 me-1">力</span></td>
+      <td class="key-images"><div><img src="../images/keys/kalashnikov.png" alt="АВТОМАТ КАЛАШНИКОВА" loading="lazy"></div></td>
+      <td><div>АВТОМАТ КАЛАШНИКОВА</div><div>с прицелом</div><div class="example">劳 勉</div></td>
+    </tr>
+    <tr id="pickaxe">
+      <th scope="row">21</th>
+      <td class="key-symbols"><span class="fs-1 me-1">丁</span></td>
+      <td class="key-images"><div><img src="../images/keys/pickaxe.png" alt="КАЙЛО" loading="lazy"></div></td>
+      <td><div>КАЙЛО</div><div>или кирка, ледоруб.</div><div class="example">厅</div></td>
+    </tr>
+    <tr id="fishing_rod">
+      <th scope="row">22</th>
+      <td class="key-symbols"><span class="fs-1 me-1">阝</span></td>
+      <td class="key-images"><div><img src="../images/keys/fishing_rod.png" alt="УДОЧКА" loading="lazy"></div></td>
+      <td><div>УДОЧКА</div><div></div><div class="example">陔</div></td>
+    </tr>
+    <tr id="scythe">
+      <th scope="row">23</th>
+      <td class="key-symbols"><span class="fs-1 me-1">了</span></td>
+      <td class="key-images"><div><img src="../images/keys/scythe.png" alt="КОСА" loading="lazy"></div></td>
+      <td><div>КОСА</div><div></div><div class="example">疗</div></td>
+    </tr>
+    <tr id="ankh">
+      <th scope="row">24</th>
+      <td class="key-symbols"><span class="fs-1 me-1">子</span></td>
+      <td class="key-images"><div><img src="../images/keys/ankh.png" alt="ЕГИПЕТСКИЙ ПОСОХ" loading="lazy"></div></td>
+      <td><div>ЕГИПЕТСКИЙ ПОСОХ</div><div>или крест-анх, странная такая штука, непонятная</div><div class="example">孰 學</div></td>
+    </tr>
+    <tr id="chinup_bars">
+      <th scope="row">25</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼌</span></td>
+      <td class="key-images"><div><img src="../images/keys/chinup_bars.png" alt="ТУРНИК" loading="lazy"></div></td>
+      <td><div>ТУРНИК</div><div>в сценках можно заменять столом, где удобнее.</div><div class="example">冈</div></td>
+    </tr>
+    <tr id="broken_leg">
+      <th scope="row">26</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼉</span></td>
+      <td class="key-images"><div><img src="../images/keys/broken_leg.png" alt="ПОЛОМАННАЯ НОЖКА" loading="lazy"></div></td>
+      <td><div>ПОЛОМАННАЯ НОЖКА</div><div>волочется сзади, жалко до слез:)</div><div class="example">允 兇</div></td>
+    </tr>
+    <tr id="metal_pot">
+      <th scope="row">27</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼐</span></td>
+      <td class="key-images"><div><img src="../images/keys/metal_pot.png" alt="КАСТРЮЛЯ" loading="lazy"></div></td>
+      <td><div>КАСТРЮЛЯ</div><div>в зависимости от мнемосцены это может быть любая емкость кружка, стакан и т.д.</div><div class="example">凼 函</div></td>
+    </tr>
+    <tr id="axe">
+      <th scope="row">28</th>
+      <td class="key-symbols"><span class="fs-1 me-1">尸</span></td>
+      <td class="key-images"><div><img src="../images/keys/axe.png" alt="ТОПОР" loading="lazy"></div></td>
+      <td><div>ТОПОР</div><div></div><div class="example">屆 屠</div></td>
+    </tr>
+    <tr id="axe_electric">
+      <th scope="row">29</th>
+      <td class="key-symbols"><span class="fs-1 me-1">户</span><span class="fs-2 text-body-secondary me-1">戶</span></td>
+      <td class="key-images"><div><img src="../images/keys/axe_electric.png" alt="ЭЛЕКТРИЧЕСКИЙ ТОПОР" loading="lazy"></div></td>
+      <td><div>ЭЛЕКТРИЧЕСКИЙ ТОПОР</div><div>полный бред :) Когда к простому радикалу добавляется какой-то штрих, черточка и чтобы не придумывать в этом случае отдельный мнемоключик, мы просто &quot;апгрейдим&quot; старый мнемоключ. Смотрите варианты с &quot;казаком&quot;: &quot;казак с саблей&quot;, &quot;казак с ружьем&quot; и т.д.</div><div class="example">戾 戺</div></td>
+    </tr>
+    <tr id="wigwam">
+      <th scope="row">30</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼊</span></td>
+      <td class="key-images"><div><img src="../images/keys/wigwam.png" alt="ВИГВАМ" loading="lazy"></div></td>
+      <td><div>ВИГВАМ</div><div>здесь живут индейцы, типа палатки</div><div class="example">內 兩</div></td>
+    </tr>
+    <tr id="kitchen_axe">
+      <th scope="row">31</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼙</span></td>
+      <td class="key-images"><div><img src="../images/keys/kitchen_axe.png" alt="ТЕСАК" loading="lazy"></div></td>
+      <td><div>ТЕСАК</div><div></div><div class="example">却 卻</div></td>
+    </tr>
+    <tr id="curling_snake">
+      <th scope="row">32</th>
+      <td class="key-symbols"><span class="fs-1 me-1">㔾</span></td>
+      <td class="key-images"><div><img src="../images/keys/curling_snake.png" alt="ЗМЕЯ" loading="lazy"></div></td>
+      <td><div>ЗМЕЯ</div><div>это другое написание радикала ТЕСАК</div><div class="example">危 卺</div></td>
+    </tr>
+    <tr id="sailor">
+      <th scope="row">33</th>
+      <td class="key-symbols"><span class="fs-1 me-1">匕</span></td>
+      <td class="key-images"><div><img src="../images/keys/sailor.png" alt="МАТРОСИК" loading="lazy"></div></td>
+      <td><div>МАТРОСИК</div><div>танцующий танец &quot;Яблочко&quot;</div><div class="example">此 化</div></td>
+    </tr>
+    <tr id="two_sailors">
+      <th scope="row">34</th>
+      <td class="key-symbols"><span class="fs-1 me-1">比</span></td>
+      <td class="key-images"><div><img src="../images/keys/two_sailors.png" alt="МАТРОСИКИ" loading="lazy"></div></td>
+      <td><div>МАТРОСИКИ</div><div></div><div class="example">毘 毙</div></td>
+    </tr>
+    <tr id="fence">
+      <th scope="row">35</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼞</span></td>
+      <td class="key-images"><div><img src="../images/keys/fence.png" alt="ОГРАДА" loading="lazy"></div></td>
+      <td><div>ОГРАДА</div><div>можно забор, изгородь</div><div class="example">圂 圌</div></td>
+    </tr>
+    <tr id="mouth">
+      <th scope="row">36</th>
+      <td class="key-symbols"><span class="fs-1 me-1">口</span></td>
+      <td class="key-images"><div><img src="../images/keys/mouth.png" alt="РОТ" loading="lazy"></div></td>
+      <td><div>РОТ</div><div>отличается от предыдущего размером. В мнемосценках можно заменять любыми квадратными предметами, коробки, кубы и т.д.</div><div class="example">咍 呜 咒</div></td>
+    </tr>
+    <tr id="monkey">
+      <th scope="row">37</th>
+      <td class="key-symbols"><span class="fs-1 me-1">斤</span></td>
+      <td class="key-images"><div><img src="../images/keys/monkey.png" alt="ГИББОН" loading="lazy"></div></td>
+      <td><div>ГИББОН</div><div>макака, обезьяна, в общем</div><div class="example">新 斧</div></td>
+    </tr>
+    <tr id="sack">
+      <th scope="row">38</th>
+      <td class="key-symbols"><span class="fs-1 me-1">厶</span></td>
+      <td class="key-images"><div><img src="../images/keys/sack.png" alt="КУЛЕК КОНФЕТ" loading="lazy"></div></td>
+      <td><div>КУЛЕК КОНФЕТ</div><div>частый элемент иероглифов. Можно заменять на мешок или пакет, неважно с чем.</div><div class="example">能</div></td>
+    </tr>
+    <tr id="giant">
+      <th scope="row">39</th>
+      <td class="key-symbols"><span class="fs-1 me-1">大</span></td>
+      <td class="key-images"><div><img src="../images/keys/giant.png" alt="ВЕЛИКАН" loading="lazy"></div></td>
+      <td><div>ВЕЛИКАН</div><div></div><div class="example">夭 夼</div></td>
+    </tr>
+    <tr id="whip">
+      <th scope="row">40</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼸</span></td>
+      <td class="key-images"><div><img src="../images/keys/whip.png" alt="КНУТ" loading="lazy"></div></td>
+      <td><div>КНУТ</div><div>или хлыст, плетка</div><div class="example">弭 弩</div></td>
+    </tr>
+    <tr id="jackhammer">
+      <th scope="row">41</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼲</span></td>
+      <td class="key-images"><div><img src="../images/keys/jackhammer.png" alt="ОТБОЙНЫЙ МОЛОТОК" loading="lazy"></div></td>
+      <td><div>ОТБОЙНЫЙ МОЛОТОК</div><div></div><div class="example">幵 平</div></td>
+    </tr>
+    <tr id="sprout">
+      <th scope="row">42</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼟</span></td>
+      <td class="key-images"><div><img src="../images/keys/sprout.png" alt="РОСТОК" loading="lazy"></div></td>
+      <td><div>РОСТОК</div><div>из земли</div><div class="example">坭 坐</div></td>
+    </tr>
+    <tr id="bomber">
+      <th scope="row">43</th>
+      <td class="key-symbols"><span class="fs-1 me-1">士</span></td>
+      <td class="key-images"><div><img src="../images/keys/bomber.png" alt="БОМБАРДИРОВЩИК" loading="lazy"></div></td>
+      <td><div>БОМБАРДИРОВЩИК</div><div>сравните с ⼟</div><div class="example">壶 壯</div></td>
+    </tr>
+    <tr id="racket">
+      <th scope="row">44</th>
+      <td class="key-symbols"><span class="fs-1 me-1">冫</span><span class="fs-2 text-body-secondary me-1" lang="zh-Hant">冫</span></td>
+      <td class="key-images"><div><img src="../images/keys/racket.png" alt="ТЕННИСНАЯ РАКЕТКА" loading="lazy"></div></td>
+      <td><div>ТЕННИСНАЯ РАКЕТКА</div><div></div><div class="example">冶 凐</div></td>
+    </tr>
+    <tr id="water_drops">
+      <th scope="row">45</th>
+      <td class="key-symbols"><span class="fs-1 me-1">水</span><span class="fs-2 text-body-secondary me-1">氵</span><span class="fs-2 text-body-secondary me-1" lang="zh-Hant">氵</span></td>
+      <td class="key-images"><div><img src="../images/keys/water_drops.png" alt="ВОДА" loading="lazy"></div></td>
+      <td><div>ВОДА</div><div>вариант справа лучше представлять как капли, брызги воды.</div><div class="example">沲 汆 汯 彔</div></td>
+    </tr>
+    <tr id="dog">
+      <th scope="row">46</th>
+      <td class="key-symbols"><span class="fs-1 me-1">犬</span><span class="fs-2 text-body-secondary me-1">犭</span></td>
+      <td class="key-images"><div><img src="../images/keys/dog.png" alt="СОБАЧКА" loading="lazy"></div></td>
+      <td><div>СОБАЧКА</div><div>вариант справа можно представлять в виде танцующей собачки Каштанки.</div><div class="example">突 狈</div></td>
+    </tr>
+    <tr id="bones">
+      <th scope="row">47</th>
+      <td class="key-symbols"><span class="fs-1 me-1">乂</span></td>
+      <td class="key-images"><div><img src="../images/keys/bones.png" alt="КОСТИ" loading="lazy"></div></td>
+      <td><div>КОСТИ</div><div>в некоторых иероглифах можно кодировать как &quot;нет, отсутствие&quot;</div><div class="example">凶</div></td>
+    </tr>
+    <tr id="father">
+      <th scope="row">48</th>
+      <td class="key-symbols"><span class="fs-1 me-1">父</span></td>
+      <td class="key-images"><div><img src="../images/keys/father.png" alt="ОТЕЦ" loading="lazy"></div></td>
+      <td><div>ОТЕЦ</div><div>с розгами</div><div class="example">爸 爺</div></td>
+    </tr>
+    <tr id="guillotine">
+      <th scope="row">49</th>
+      <td class="key-symbols"><span class="fs-1 me-1">甘</span></td>
+      <td class="key-images"><div><img src="../images/keys/guillotine.png" alt="ГИЛЬОТИНА" loading="lazy"></div></td>
+      <td><div>ГИЛЬОТИНА</div><div>такой штукой отрубали головы</div><div class="example">甙 甝</div></td>
+    </tr>
+    <tr id="palanquin">
+      <th scope="row">50</th>
+      <td class="key-symbols"><span class="fs-1 me-1">廿</span></td>
+      <td class="key-images"><div><img src="../images/keys/palanquin.png" alt="ПАЛАНКИН" loading="lazy"></div></td>
+      <td><div>ПАЛАНКИН</div><div>в таком носили очень важных персон</div><div class="example">度</div></td>
+    </tr>
+    <tr id="caterpillar">
+      <th scope="row">51</th>
+      <td class="key-symbols"><span class="fs-1 me-1">几</span></td>
+      <td class="key-images"><div><img src="../images/keys/caterpillar.png" alt="ГУСЕНИЦА" loading="lazy"></div></td>
+      <td><div>ГУСЕНИЦА</div><div></div><div class="example">凯 凭 凰</div></td>
+    </tr>
+    <tr id="small_aircraft">
+      <th scope="row">52</th>
+      <td class="key-symbols"><span class="fs-1 me-1">小</span></td>
+      <td class="key-images"><div><img src="../images/keys/small_aircraft.png" alt="МАЛЕНЬКИЙ САМОЛЕТИК" loading="lazy"></div></td>
+      <td><div>МАЛЕНЬКИЙ САМОЛЕТИК</div><div>нет, в самом деле, очень маленький самолетик</div><div class="example">尒 尔</div></td>
+    </tr>
+    <tr id="pancake_pot">
+      <th scope="row">53</th>
+      <td class="key-symbols"><span class="fs-1 me-1">言</span><span class="fs-2 text-body-secondary me-1">言</span></td>
+      <td class="key-images"><div><img src="../images/keys/pancake_pot.png" alt="КАСТРЮЛЯ С БЛИНАМИ" loading="lazy"></div></td>
+      <td><div>КАСТРЮЛЯ С БЛИНАМИ</div><div>некуда было сложить блины, а почему бы не положить их в кастрюлю :) Справа другое написание радикала. Этот радикал - традиционное написание радикала &quot;маньяк&quot;</div><div class="example">詬 計</div></td>
+    </tr>
+    <tr id="crane">
+      <th scope="row">54</th>
+      <td class="key-symbols"><span class="fs-1 me-1">寸</span></td>
+      <td class="key-images"><div><img src="../images/keys/crane.png" alt="КРАН" loading="lazy"></div></td>
+      <td><div>КРАН</div><div>подъемный кран, с крюком</div><div class="example">尉 封 寺</div></td>
+    </tr>
+    <tr id="roman_flag">
+      <th scope="row">55</th>
+      <td class="key-symbols"><span class="fs-1 me-1">巾</span></td>
+      <td class="key-images"><div><img src="../images/keys/roman_flag.png" alt="ФЛАГ-ШТАНДАРТ" loading="lazy"></div></td>
+      <td><div>ФЛАГ-ШТАНДАРТ</div><div>наверное, такой был у римлян</div><div class="example">帛 幏</div></td>
+    </tr>
+    <tr id="footballer">
+      <th scope="row">56</th>
+      <td class="key-symbols"><span class="fs-1 me-1">方</span></td>
+      <td class="key-images"><div><img src="../images/keys/footballer.png" alt="ФУТБОЛИСТ" loading="lazy"></div></td>
+      <td><div>ФУТБОЛИСТ</div><div></div><div class="example">旚 旁</div></td>
+    </tr>
+    <tr id="napoleon">
+      <th scope="row">57</th>
+      <td class="key-symbols"><span class="fs-1 me-1">殳</span></td>
+      <td class="key-images"><div><img src="../images/keys/napoleon.png" alt="НАПОЛЕОН" loading="lazy"></div></td>
+      <td><div>НАПОЛЕОН</div><div>тот самый толстенький и маленький</div><div class="example">殶 殽</div></td>
+    </tr>
+    <tr id="seahorse">
+      <th scope="row">58</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⼰</span><span class="fs-2 text-body-secondary me-1">已</span></td>
+      <td class="key-images"><div><img src="../images/keys/seahorse.png" alt="МОРСКОЙ КОНЕК" loading="lazy"></div></td>
+      <td><div>МОРСКОЙ КОНЕК</div><div>справа еще одно написание радикала. Отличаются между собой маленьким штришком. В мнемосценках можно кодировать как &quot;морская лошадь&quot; и &quot;морской конь&quot;</div><div class="example">巹 起</div></td>
+    </tr>
+    <tr id="diver">
+      <th scope="row">59</th>
+      <td class="key-symbols"><span class="fs-1 me-1">巳</span></td>
+      <td class="key-images"><div><img src="../images/keys/diver.png" alt="ВОДОЛАЗ" loading="lazy"></div></td>
+      <td><div>ВОДОЛАЗ</div><div>это другое написание радикала &quot;морской конек&quot; а так они взаимозаменяемы</div><div class="example">匏</div></td>
+    </tr>
+    <tr id="foureyes">
+      <th scope="row">60</th>
+      <td class="key-symbols"><span class="fs-1 me-1">巴</span></td>
+      <td class="key-images"><div><img src="../images/keys/foureyes.png" alt="ОЧКАРИК" loading="lazy"></div></td>
+      <td><div>ОЧКАРИК</div><div></div><div class="example">爬</div></td>
+    </tr>
+    <tr id="builder">
+      <th scope="row">61</th>
+      <td class="key-symbols"><span class="fs-1 me-1">文</span></td>
+      <td class="key-images"><div><img src="../images/keys/builder.png" alt="СТРОИТЕЛЬ" loading="lazy"></div></td>
+      <td><div>СТРОИТЕЛЬ</div><div>так уж сложилось - таджик</div><div class="example">济 这</div></td>
+    </tr>
+    <tr id="ostrich_emu">
+      <th scope="row">62</th>
+      <td class="key-symbols"><span class="fs-1 me-1">夂</span></td>
+      <td class="key-images"><div><img src="../images/keys/ostrich_emu.png" alt="СТРАУС ЭМУ" loading="lazy"></div></td>
+      <td><div>СТРАУС ЭМУ</div><div>запомните, что страус без хвоста.</div><div class="example">处 备</div></td>
+    </tr>
+    <tr id="cossack">
+      <th scope="row">63</th>
+      <td class="key-symbols"><span class="fs-1 me-1">支</span></td>
+      <td class="key-images"><div><img src="../images/keys/cossack.png" alt="КАЗАК" loading="lazy"></div></td>
+      <td><div>КАЗАК</div><div>в шароварах</div><div class="example">攲 攳</div></td>
+    </tr>
+    <tr id="heron">
+      <th scope="row">64</th>
+      <td class="key-symbols"><span class="fs-1 me-1">攵</span></td>
+      <td class="key-images"><div><img src="../images/keys/heron.png" alt="ХВОСТАТАЯ ЦАПЛЯ" loading="lazy"></div></td>
+      <td><div>ХВОСТАТАЯ ЦАПЛЯ</div><div>Это другое написание радикала &quot;казак с ружьем&quot;</div><div class="example">攻 故 敿</div></td>
+    </tr>
+    <tr id="cossack_with_gun">
+      <th scope="row">65</th>
+      <td class="key-symbols"><span class="fs-1 me-1">攴</span></td>
+      <td class="key-images"><div><img src="../images/keys/cossack_with_gun.png" alt="КАЗАК С РУЖЬЕМ" loading="lazy"></div></td>
+      <td><div>КАЗАК С РУЖЬЕМ</div><div></div><div class="example">敁 敊</div></td>
+    </tr>
+    <tr id="cossack_with_sabre">
+      <th scope="row">66</th>
+      <td class="key-symbols"><span class="fs-1 me-1">皮</span></td>
+      <td class="key-images"><div><img src="../images/keys/cossack_with_sabre.png" alt="КАЗАК С САБЛЕЙ" loading="lazy"></div></td>
+      <td><div>КАЗАК С САБЛЕЙ</div><div></div><div class="example">皯 皰</div></td>
+    </tr>
+    <tr id="kangaroo">
+      <th scope="row">67</th>
+      <td class="key-symbols"><span class="fs-1 me-1">夕</span></td>
+      <td class="key-images"><div><img src="../images/keys/kangaroo.png" alt="КЕНГУРУ" loading="lazy"></div></td>
+      <td><div>КЕНГУРУ</div><div></div><div class="example">多 夗</div></td>
+    </tr>
+    <tr id="kangaroo_with_spear">
+      <th scope="row">68</th>
+      <td class="key-symbols"><span class="fs-1 me-1">歹</span></td>
+      <td class="key-images"><div><img src="../images/keys/kangaroo_with_spear.png" alt="КЕНГУРУ С КОПЬЕМ" loading="lazy"></div></td>
+      <td><div>КЕНГУРУ С КОПЬЕМ</div><div></div><div class="example">死 殡</div></td>
+    </tr>
+    <tr id="cossack_ataman">
+      <th scope="row">69</th>
+      <td class="key-symbols"><span class="fs-1 me-1">变</span></td>
+      <td class="key-images"><div><img src="../images/keys/cossack_ataman.png" alt="КАЗАЧИЙ АТАМАН" loading="lazy"></div></td>
+      <td><div>КАЗАЧИЙ АТАМАН</div><div>в погонах, кителе и шароварах</div><div class="example">变</div></td>
+    </tr>
+    <tr id="belly">
+      <th scope="row">70</th>
+      <td class="key-symbols"><span class="fs-1 me-1">又</span></td>
+      <td class="key-images"><div><img src="../images/keys/belly.png" alt="ПУЗО" loading="lazy"></div></td>
+      <td><div>ПУЗО</div><div></div><div class="example">反 取</div></td>
+    </tr>
+    <tr id="jeans">
+      <th scope="row">71</th>
+      <td class="key-symbols"><span class="fs-1 me-1">爪</span></td>
+      <td class="key-images"><div><img src="../images/keys/jeans.png" alt="ДЖИНСЫ" loading="lazy"></div></td>
+      <td><div>ДЖИНСЫ</div><div>Полная форма 爫</div><div class="example">爬 抓</div></td>
+    </tr>
+    <tr id="devil_tail">
+      <th scope="row">72</th>
+      <td class="key-symbols"><span class="fs-1 me-1">瓜</span></td>
+      <td class="key-images"><div><img src="../images/keys/devil_tail.png" alt="ХВОСТ ЧЕРТА" loading="lazy"></div></td>
+      <td><div>ХВОСТ ЧЕРТА</div><div></div><div class="example">瓢 瓟</div></td>
+    </tr>
+    <tr id="girl">
+      <th scope="row">73</th>
+      <td class="key-symbols"><span class="fs-1 me-1">女</span></td>
+      <td class="key-images"><div><img src="../images/keys/girl.png" alt="ДЕВУШКА" loading="lazy"></div></td>
+      <td><div>ДЕВУШКА</div><div>закрепите за этим радикалом конкретный образ, можете представить свою знакомую подружку Машу, Олю, Свету... За счет этого мнемосценки лучше запомнятся.</div><div class="example">姻 媐</div></td>
+    </tr>
+    <tr id="fashion_model">
+      <th scope="row">74</th>
+      <td class="key-symbols"><span class="fs-1 me-1">礻</span><span class="fs-2 text-body-secondary me-1">示</span></td>
+      <td class="key-images"><div><img src="../images/keys/fashion_model.png" alt="ТОП-МОДЕЛЬ" loading="lazy"></div></td>
+      <td><div>ТОП-МОДЕЛЬ</div><div>справа тот же радикал в другом написание, кодируйте его как &quot;толстуха&quot; :)</div><div class="example">祂 祠 祟 禢</div></td>
+    </tr>
+    <tr id="scooter">
+      <th scope="row">75</th>
+      <td class="key-symbols"><span class="fs-1 me-1">石</span></td>
+      <td class="key-images"><div><img src="../images/keys/scooter.png" alt="САМОКАТ" loading="lazy"></div></td>
+      <td><div>САМОКАТ</div><div>вижу, что на картинке велосипед, но как-то приклеился за этим радикалом именно самокат</div><div class="example">硈 磨</div></td>
+    </tr>
+    <tr id="sun">
+      <th scope="row">76</th>
+      <td class="key-symbols"><span class="fs-1 me-1">日</span></td>
+      <td class="key-images"><div><img src="../images/keys/sun.png" alt="СОЛНЦЕ" loading="lazy"></div></td>
+      <td><div>СОЛНЦЕ</div><div>просто нужно так запомнить, хотя визуально нисколечко не похоже :)</div><div class="example">昝 显 晗</div></td>
+    </tr>
+    <tr id="refrigirator">
+      <th scope="row">77</th>
+      <td class="key-symbols"><span class="fs-1 me-1">白</span></td>
+      <td class="key-images"><div><img src="../images/keys/refrigirator.png" alt="ХОЛОДИЛЬНИК" loading="lazy"></div></td>
+      <td><div>ХОЛОДИЛЬНИК</div><div>белый такой, двухкамерный</div><div class="example">百 皓 皙</div></td>
+    </tr>
+    <tr id="tank">
+      <th scope="row">78</th>
+      <td class="key-symbols"><span class="fs-1 me-1">占</span></td>
+      <td class="key-images"><div><img src="../images/keys/tank.png" alt="ТАНК" loading="lazy"></div></td>
+      <td><div>ТАНК</div><div></div><div class="example">店 呫</div></td>
+    </tr>
+    <tr id="grave">
+      <th scope="row">79</th>
+      <td class="key-symbols"><span class="fs-1 me-1">古</span></td>
+      <td class="key-images"><div><img src="../images/keys/grave.png" alt="МОГИЛКА" loading="lazy"></div></td>
+      <td><div>МОГИЛКА</div><div></div><div class="example">苦 故</div></td>
+    </tr>
+    <tr id="tongue">
+      <th scope="row">80</th>
+      <td class="key-symbols"><span class="fs-1 me-1">舌</span></td>
+      <td class="key-images"><div><img src="../images/keys/tongue.png" alt="ЯЗЫК" loading="lazy"></div></td>
+      <td><div>ЯЗЫК</div><div>немножко скошенный набок</div><div class="example">舐 舍</div></td>
+    </tr>
+    <tr id="judge">
+      <th scope="row">81</th>
+      <td class="key-symbols"><span class="fs-1 me-1">瓦</span></td>
+      <td class="key-images"><div><img src="../images/keys/judge.png" alt="СУДЬЯ" loading="lazy"></div></td>
+      <td><div>СУДЬЯ</div><div>в шапочке и парике</div><div class="example">瓵 瓮</div></td>
+    </tr>
+    <tr id="goalkeeper">
+      <th scope="row">82</th>
+      <td class="key-symbols"><span class="fs-1 me-1">弋</span></td>
+      <td class="key-images"><div><img src="../images/keys/goalkeeper.png" alt="ВРАТАРЬ" loading="lazy"></div></td>
+      <td><div>ВРАТАРЬ</div><div></div><div class="example">试</div></td>
+    </tr>
+    <tr id="goalkeeper_mutant">
+      <th scope="row">83</th>
+      <td class="key-symbols"><span class="fs-1 me-1">斗</span></td>
+      <td class="key-images"><div><img src="../images/keys/goalkeeper_mutant.png" alt="ВРАТАРЬ-МУТАНТ" loading="lazy"></div></td>
+      <td><div>ВРАТАРЬ-МУТАНТ</div><div>это потому что у него две головы</div><div class="example">斝 料</div></td>
+    </tr>
+    <tr id="tree">
+      <th scope="row">84</th>
+      <td class="key-symbols"><span class="fs-1 me-1">木</span></td>
+      <td class="key-images"><div><img src="../images/keys/tree.png" alt="ДЕРЕВО" loading="lazy"></div></td>
+      <td><div>ДЕРЕВО</div><div></div><div class="example">栓 果 李</div></td>
+    </tr>
+    <tr id="feather">
+      <th scope="row">85</th>
+      <td class="key-symbols"><span class="fs-1 me-1">毛</span></td>
+      <td class="key-images"><div><img src="../images/keys/feather.png" alt="ПЕРО" loading="lazy"></div></td>
+      <td><div>ПЕРО</div><div></div><div class="example">毡 毞 毾</div></td>
+    </tr>
+    <tr id="cart">
+      <th scope="row">86</th>
+      <td class="key-symbols"><span class="fs-1 me-1">车</span><span class="fs-2 text-body-secondary me-1">車</span></td>
+      <td class="key-images"><div><img src="../images/keys/cart.png" alt="ТЕЛЕГА" loading="lazy"></div></td>
+      <td><div>ТЕЛЕГА</div><div>справа традиционное написание радикала, кодируем как &quot;старая телега&quot;. Также можно кодировать как &quot;машина&quot;</div><div class="example">轨 轼 輻 軍</div></td>
+    </tr>
+    <tr id="music_stand">
+      <th scope="row">87</th>
+      <td class="key-symbols"><span class="fs-1 me-1">彳</span></td>
+      <td class="key-images"><div><img src="../images/keys/music_stand.png" alt="ПЮПИТР" loading="lazy"></div></td>
+      <td><div>ПЮПИТР</div><div>подставка для нот у музыкантов</div><div class="example">彷 徥</div></td>
+    </tr>
+    <tr id="conservatory">
+      <th scope="row">88</th>
+      <td class="key-symbols"><span class="fs-1 me-1">行</span></td>
+      <td class="key-images"><div><img src="../images/keys/conservatory.png" alt="КОНСЕРВАТОРИЯ" loading="lazy"></div></td>
+      <td><div>КОНСЕРВАТОРИЯ</div><div>это там, где много пюпитров</div><div class="example">衍 衖</div></td>
+    </tr>
+    <tr id="batman">
+      <th scope="row">89</th>
+      <td class="key-symbols"><span class="fs-1 me-1">才</span></td>
+      <td class="key-images"><div><img src="../images/keys/batman.png" alt="БЭТМЕН" loading="lazy"></div></td>
+      <td><div>БЭТМЕН</div><div>крутой такой супергерой</div><div class="example">闭</div></td>
+    </tr>
+    <tr id="weightlifter">
+      <th scope="row">90</th>
+      <td class="key-symbols"><span class="fs-1 me-1">央</span><span class="fs-2 text-body-secondary me-1">夬</span></td>
+      <td class="key-images"><div><img src="../images/keys/weightlifter.png" alt="ШТАНГИСТ" loading="lazy"></div></td>
+      <td><div>ШТАНГИСТ</div><div>справа &quot;однорукий штангист&quot;</div><div class="example">英 快</div></td>
+    </tr>
+    <tr id="folding_cup">
+      <th scope="row">91</th>
+      <td class="key-symbols"><span class="fs-1 me-1">豆</span></td>
+      <td class="key-images"><div><img src="../images/keys/folding_cup.png" alt="СТАКАНЧИК" loading="lazy"></div></td>
+      <td><div>СТАКАНЧИК</div><div>такой пластмассовый складной</div><div class="example">豉 豊</div></td>
+    </tr>
+    <tr id="door">
+      <th scope="row">92</th>
+      <td class="key-symbols"><span class="fs-1 me-1">门</span></td>
+      <td class="key-images"><div><img src="../images/keys/door.png" alt="ДВЕРЬ" loading="lazy"></div></td>
+      <td><div>ДВЕРЬ</div><div>а в верхнем углу это звонок</div><div class="example">闭 间</div></td>
+    </tr>
+    <tr id="saloon_door">
+      <th scope="row">93</th>
+      <td class="key-symbols"><span class="fs-1 me-1">門</span></td>
+      <td class="key-images"><div><img src="../images/keys/saloon_door.png" alt="ДВЕРЬ В САЛУН" loading="lazy"></div></td>
+      <td><div>ДВЕРЬ В САЛУН</div><div>Салун - это ковбойский бар. Предыдущий радикал в традиционном написании. В составе других иероглифов встречаются оба, поэтому пришлось их разделить</div><div class="example">閟 閵</div></td>
+    </tr>
+    <tr id="tennis_net">
+      <th scope="row">94</th>
+      <td class="key-symbols"><span class="fs-1 me-1">网</span><span class="fs-2 text-body-secondary me-1">罒</span></td>
+      <td class="key-images"><div><img src="../images/keys/tennis_net.png" alt="СЕТКА ТЕННИСНАЯ" loading="lazy"></div></td>
+      <td><div>СЕТКА ТЕННИСНАЯ</div><div>справа другое написание радикала, кодируется, например, как сетка для настольного тенниса.</div><div class="example">罗 罷</div></td>
+    </tr>
+    <tr id="old_monk">
+      <th scope="row">95</th>
+      <td class="key-symbols"><span class="fs-1 me-1">尢</span><span class="fs-2 text-body-secondary me-1">无</span></td>
+      <td class="key-images"><div><img src="../images/keys/old_monk.png" alt="СТАРЫЙ МОНАХ" loading="lazy"></div></td>
+      <td><div>СТАРЫЙ МОНАХ</div><div>у него ножка волочется, поэтому и старый:) Второй вариант - это &quot;старый монах с копьем&quot;</div><div class="example">尪 抚</div></td>
+    </tr>
+    <tr id="nefertiti">
+      <th scope="row">96</th>
+      <td class="key-symbols"><span class="fs-1 me-1">月</span></td>
+      <td class="key-images"><div><img src="../images/keys/nefertiti.png" alt="НЕФЕРТИТИ" loading="lazy"></div></td>
+      <td><div>НЕФЕРТИТИ</div><div>с короной, в Египте была царица такая</div><div class="example">期 望</div></td>
+    </tr>
+    <tr id="woman_with_shoulderyoke">
+      <th scope="row">97</th>
+      <td class="key-symbols"><span class="fs-1 me-1">穴</span><span class="fs-2 text-body-secondary me-1"><img src="../images/keys/sym/cave-rad.png" alt="Радикал: БАБА С КОРОМЫСЛОМ" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/woman_with_shoulderyoke.png" alt="БАБА С КОРОМЫСЛОМ" loading="lazy"></div></td>
+      <td><div>БАБА С КОРОМЫСЛОМ</div><div>справа другое написание</div><div class="example">窋 空 穷 穵</div></td>
+    </tr>
+    <tr id="radiator">
+      <th scope="row">98</th>
+      <td class="key-symbols"><span class="fs-1 me-1">皿</span></td>
+      <td class="key-images"><div><img src="../images/keys/radiator.png" alt="БАТАРЕЯ" loading="lazy"></div></td>
+      <td><div>БАТАРЕЯ</div><div>радиаторная, чугунная, которая обогревает зимой</div><div class="example">盔 盤 盖</div></td>
+    </tr>
+    <tr id="cake">
+      <th scope="row">99</th>
+      <td class="key-symbols"><span class="fs-1 me-1">血</span></td>
+      <td class="key-images"><div><img src="../images/keys/cake.png" alt="ТОРТ" loading="lazy"></div></td>
+      <td><div>ТОРТ</div><div>со свечкой</div><div class="example">衁 衈</div></td>
+    </tr>
+    <tr id="motorcyclist">
+      <th scope="row">100</th>
+      <td class="key-symbols"><span class="fs-1 me-1">气</span></td>
+      <td class="key-images"><div><img src="../images/keys/motorcyclist.png" alt="МОТОЦИКЛИСТ" loading="lazy"></div></td>
+      <td><div>МОТОЦИКЛИСТ</div><div></div><div class="example">汽 氣</div></td>
+    </tr>
+    <tr id="rice">
+      <th scope="row">101</th>
+      <td class="key-symbols"><span class="fs-1 me-1">米</span></td>
+      <td class="key-images"><div><img src="../images/keys/rice.png" alt="РИС" loading="lazy"></div></td>
+      <td><div>РИС</div><div>еще зеленые колосья</div><div class="example">籵 粢 类</div></td>
+    </tr>
+    <tr id="scissors">
+      <th scope="row">102</th>
+      <td class="key-symbols"><span class="fs-1 me-1">廾</span></td>
+      <td class="key-images"><div><img src="../images/keys/scissors.png" alt="НОЖНИЦЫ" loading="lazy"></div></td>
+      <td><div>НОЖНИЦЫ</div><div>визуально мало общего, зато радикал похож на букву &quot;Н&quot; - ножницы</div><div class="example">馵</div></td>
+    </tr>
+    <tr id="torii">
+      <th scope="row">103</th>
+      <td class="key-symbols"><span class="fs-1 me-1">开</span></td>
+      <td class="key-images"><div><img src="../images/keys/torii.png" alt="ЯПОНСКИЕ ВОРОТА" loading="lazy"></div></td>
+      <td><div>ЯПОНСКИЕ ВОРОТА</div><div>тории, стоят перед синто святилищем</div><div class="example">形</div></td>
+    </tr>
+    <tr id="grind">
+      <th scope="row">104</th>
+      <td class="key-symbols"><span class="fs-1 me-1">爿</span><span class="fs-2 text-body-secondary me-1">丬</span></td>
+      <td class="key-images"><div><img src="../images/keys/grind.png" alt="ЗУБРИЛА" loading="lazy"></div></td>
+      <td><div>ЗУБРИЛА</div><div>ботан, справа другое написание радикала</div><div class="example">牄 将</div></td>
+    </tr>
+    <tr id="karateka">
+      <th scope="row">105</th>
+      <td class="key-symbols"><span class="fs-1 me-1">片</span></td>
+      <td class="key-images"><div><img src="../images/keys/karateka.png" alt="КАРАТИСТ" loading="lazy"></div></td>
+      <td><div>КАРАТИСТ</div><div></div><div class="example">牊 版</div></td>
+    </tr>
+    <tr id="athlete">
+      <th scope="row">106</th>
+      <td class="key-symbols"><span class="fs-1 me-1">立</span></td>
+      <td class="key-images"><div><img src="../images/keys/athlete.png" alt="АТЛЕТ" loading="lazy"></div></td>
+      <td><div>АТЛЕТ</div><div>сидит на шпагате</div><div class="example">竑 竟 竖</div></td>
+    </tr>
+    <tr id="hockey_goal">
+      <th scope="row">107</th>
+      <td class="key-symbols"><span class="fs-1 me-1">风</span><span class="fs-2 text-body-secondary me-1">風</span></td>
+      <td class="key-images"><div><img src="../images/keys/hockey_goal.png" alt="ХОККЕЙНЫЕ ВОРОТА" loading="lazy"></div></td>
+      <td><div>ХОККЕЙНЫЕ ВОРОТА</div><div>справа традиционное написание радикала.</div><div class="example">飑 颱 飀 飙</div></td>
+    </tr>
+    <tr id="ear">
+      <th scope="row">108</th>
+      <td class="key-symbols"><span class="fs-1 me-1">耳</span></td>
+      <td class="key-images"><div><img src="../images/keys/ear.png" alt="УХО" loading="lazy"></div></td>
+      <td><div>УХО</div><div></div><div class="example">聐 聂 耷</div></td>
+    </tr>
+    <tr id="kimono">
+      <th scope="row">109</th>
+      <td class="key-symbols"><span class="fs-1 me-1">衣</span><span class="fs-2 text-body-secondary me-1">衤</span></td>
+      <td class="key-images"><div><img src="../images/keys/kimono.png" alt="КИМОНО" loading="lazy"></div></td>
+      <td><div>КИМОНО</div><div>справа  другое написание радикала, встречаются часто оба. Можно одно кодировать как &quot;женское кимоно&quot;, другое как &quot;мужское&quot;. Также радикал справа можно кодировать как &quot;трансвестит&quot;, похож на радикал &quot;топ-модель&quot;, только со штучкой:)</div><div class="example">衵 裂 裞 袁 表</div></td>
+    </tr>
+    <tr id="gangster">
+      <th scope="row">110</th>
+      <td class="key-symbols"><span class="fs-1 me-1">氏</span></td>
+      <td class="key-images"><div><img src="../images/keys/gangster.png" alt="МАФИОЗИ" loading="lazy"></div></td>
+      <td><div>МАФИОЗИ</div><div>с автоматом</div><div class="example">氐 婚</div></td>
+    </tr>
+    <tr id="wiseman">
+      <th scope="row">111</th>
+      <td class="key-symbols"><span class="fs-1 me-1">京</span></td>
+      <td class="key-images"><div><img src="../images/keys/wiseman.png" alt="МУДРЫЙ КИТАЙСКИЙ СТАРИЧОК" loading="lazy"></div></td>
+      <td><div>МУДРЫЙ КИТАЙСКИЙ СТАРИЧОК</div><div>с усами Фу Манчу и козлиной бородкой</div><div class="example">影 惊</div></td>
+    </tr>
+    <tr id="horse">
+      <th scope="row">112</th>
+      <td class="key-symbols"><span class="fs-1 me-1">马</span><span class="fs-2 text-body-secondary me-1">馬</span></td>
+      <td class="key-images"><div><img src="../images/keys/horse.png" alt="ЛОШАДЬ" loading="lazy"></div></td>
+      <td><div>ЛОШАДЬ</div><div>можно запомнить по очертаниям парящей лошади. Справа традиционное написание радикала. Кодировать как &quot;старая лошадь&quot;</div><div class="example">驭 骆 騃 駑 馵</div></td>
+    </tr>
+    <tr id="bird">
+      <th scope="row">113</th>
+      <td class="key-symbols"><span class="fs-1 me-1">鸟</span><span class="fs-2 text-body-secondary me-1">鳥</span></td>
+      <td class="key-images"><div><img src="../images/keys/bird.png" alt="ПТИЦА" loading="lazy"></div></td>
+      <td><div>ПТИЦА</div><div>справа традиционное написание радикала. Кодировать как &quot;старая птица&quot;</div><div class="example">鸡 鸳 鳭 鴄</div></td>
+    </tr>
+    <tr id="mole">
+      <th scope="row">114</th>
+      <td class="key-symbols"><span class="fs-1 me-1">谷</span></td>
+      <td class="key-images"><div><img src="../images/keys/mole.png" alt="КРОТ" loading="lazy"></div></td>
+      <td><div>КРОТ</div><div>задравший мордочку</div><div class="example">容</div></td>
+    </tr>
+    <tr id="fisher">
+      <th scope="row">115</th>
+      <td class="key-symbols"><span class="fs-1 me-1">也</span></td>
+      <td class="key-images"><div><img src="../images/keys/fisher.png" alt="РЫБАК" loading="lazy"></div></td>
+      <td><div>РЫБАК</div><div>рыбак с поломанной удочкой или с удочкой на рогатине</div><div class="example">地</div></td>
+    </tr>
+    <tr id="imp">
+      <th scope="row">116</th>
+      <td class="key-symbols"><span class="fs-1 me-1">革</span></td>
+      <td class="key-images"><div><img src="../images/keys/imp.png" alt="ЧЕРТИК" loading="lazy"></div></td>
+      <td><div>ЧЕРТИК</div><div>в шпагате</div><div class="example">靸 鞮 鞶</div></td>
+    </tr>
+    <tr id="crusader">
+      <th scope="row">117</th>
+      <td class="key-symbols"><span class="fs-1 me-1">黄</span></td>
+      <td class="key-images"><div><img src="../images/keys/crusader.png" alt="КРЕСТОНОСЕЦ" loading="lazy"></div></td>
+      <td><div>КРЕСТОНОСЕЦ</div><div></div><div class="example">黈 黉</div></td>
+    </tr>
+    <tr id="mazai">
+      <th scope="row">118</th>
+      <td class="key-symbols"><span class="fs-1 me-1">足</span><span class="fs-2 text-body-secondary me-1">⻊</span></td>
+      <td class="key-images"><div><img src="../images/keys/mazai.png" alt="ДЕД МАЗАЙ" loading="lazy"></div></td>
+      <td><div>ДЕД МАЗАЙ</div><div>справа другое написание радикала</div><div class="example">促 踐</div></td>
+    </tr>
+    <tr id="mazai_wife">
+      <th scope="row">119</th>
+      <td class="key-symbols"><span class="fs-1 me-1">疋</span><span class="fs-2 text-body-secondary me-1">𤴔</span></td>
+      <td class="key-images"><div><img src="../images/keys/mazai_wife.png" alt="ЖЕНА МАЗАЯ" loading="lazy"></div></td>
+      <td><div>ЖЕНА МАЗАЯ</div><div>справа другое написание радикала</div><div class="example">疐 疏</div></td>
+    </tr>
+    <tr id="heart">
+      <th scope="row">120</th>
+      <td class="key-symbols"><span class="fs-1 me-1">心</span><span class="fs-2 text-body-secondary me-1">忄</span></td>
+      <td class="key-images"><div><img src="../images/keys/heart.png" alt="СЕРДЦЕ" loading="lazy"></div></td>
+      <td><div>СЕРДЦЕ</div><div>справа другое написание. В мнемофразах кодировать как &quot;маленькое сердце&quot;.</div><div class="example">思 怕 愛 总 悝</div></td>
+    </tr>
+    <tr id="hand">
+      <th scope="row">121</th>
+      <td class="key-symbols"><span class="fs-1 me-1">手</span><span class="fs-2 text-body-secondary me-1">扌</span></td>
+      <td class="key-images"><div><img src="../images/keys/hand.png" alt="РУКА" loading="lazy"></div></td>
+      <td><div>РУКА</div><div>справа другое написание радикала, кодируем как &quot;рука без пальца&quot;</div><div class="example">扬 挐 揫 打</div></td>
+    </tr>
+    <tr id="landmine">
+      <th scope="row">122</th>
+      <td class="key-symbols"><span class="fs-1 me-1">而</span></td>
+      <td class="key-images"><div><img src="../images/keys/landmine.png" alt="МИНА" loading="lazy"></div></td>
+      <td><div>МИНА</div><div></div><div class="example">耑 耐</div></td>
+    </tr>
+    <tr id="superdynamite">
+      <th scope="row">123</th>
+      <td class="key-symbols"><span class="fs-1 me-1">面</span></td>
+      <td class="key-images"><div><img src="../images/keys/superdynamite.png" alt="СУПЕР ДИНАМИТ" loading="lazy"></div></td>
+      <td><div>СУПЕР ДИНАМИТ</div><div>динамит и взрыватель в одном флаконе, стрелка уеб.метра присутствует</div><div class="example">靦 靥</div></td>
+    </tr>
+    <tr id="colibry">
+      <th scope="row">124</th>
+      <td class="key-symbols"><span class="fs-1 me-1">飞</span><span class="fs-2 text-body-secondary me-1">飛</span></td>
+      <td class="key-images"><div><img src="../images/keys/colibry.png" alt="КОЛИБРИ" loading="lazy"></div></td>
+      <td><div>КОЛИБРИ</div><div>справа традиционное написание радикала, используется редко</div><div class="example"></div></td>
+    </tr>
+    <tr id="plug">
+      <th scope="row">125</th>
+      <td class="key-symbols"><span class="fs-1 me-1">匚</span></td>
+      <td class="key-images"><div><img src="../images/keys/plug.png" alt="ШТЕПСЕЛЬ" loading="lazy"></div></td>
+      <td><div>ШТЕПСЕЛЬ</div><div></div><div class="example">区 區</div></td>
+    </tr>
+    <tr id="pitchfork">
+      <th scope="row">126</th>
+      <td class="key-symbols"><span class="fs-1 me-1">丩</span></td>
+      <td class="key-images"><div><img src="../images/keys/pitchfork.png" alt="ВИЛЫ" loading="lazy"></div></td>
+      <td><div>ВИЛЫ</div><div></div><div class="example">叫 收</div></td>
+    </tr>
+    <tr id="snowboarder">
+      <th scope="row">127</th>
+      <td class="key-symbols"><span class="fs-1 me-1">专</span></td>
+      <td class="key-images"><div><img src="../images/keys/snowboarder.png" alt="СНОУБОРДИСТ" loading="lazy"></div></td>
+      <td><div>СНОУБОРДИСТ</div><div></div><div class="example">转</div></td>
+    </tr>
+    <tr id="voivode">
+      <th scope="row">128</th>
+      <td class="key-symbols"><span class="fs-1 me-1">身</span></td>
+      <td class="key-images"><div><img src="../images/keys/voivode.png" alt="ВОЕВОДА" loading="lazy"></div></td>
+      <td><div>ВОЕВОДА</div><div></div><div class="example">躲 躽</div></td>
+    </tr>
+    <tr id="sexual_maniac">
+      <th scope="row">129</th>
+      <td class="key-symbols"><span class="fs-1 me-1">讠</span></td>
+      <td class="key-images"><div><img src="../images/keys/sexual_maniac.png" alt="СЕКСУАЛЬНЫЙ МАНЬЯК" loading="lazy"></div></td>
+      <td><div>СЕКСУАЛЬНЫЙ МАНЬЯК</div><div>эксгибиционист, со стояком</div><div class="example">访 认</div></td>
+    </tr>
+    <tr id="boss">
+      <th scope="row">130</th>
+      <td class="key-symbols"><span class="fs-1 me-1">舟</span><span class="fs-2 text-body-secondary me-1">丹</span></td>
+      <td class="key-images"><div><img src="../images/keys/boss.png" alt="БОСС БИЗНЕСМЕН" loading="lazy"></div></td>
+      <td><div>БОСС БИЗНЕСМЕН</div><div>с чубчиком и в галстуке, справа - он же без галстука и чубчика</div><div class="example">舢 艋 坍</div></td>
+    </tr>
+    <tr id="glazier">
+      <th scope="row">131</th>
+      <td class="key-symbols"><span class="fs-1 me-1">毋</span></td>
+      <td class="key-images"><div><img src="../images/keys/glazier.png" alt="СТЕКОЛЬЩИК" loading="lazy"></div></td>
+      <td><div>СТЕКОЛЬЩИК</div><div></div><div class="example">毐</div></td>
+    </tr>
+    <tr id="tennis_players">
+      <th scope="row">132</th>
+      <td class="key-symbols"><span class="fs-1 me-1">母</span></td>
+      <td class="key-images"><div><img src="../images/keys/tennis_players.png" alt="ТЕННИСИСТЫ" loading="lazy"></div></td>
+      <td><div>ТЕННИСИСТЫ</div><div>это другое написание предыдущего радикала</div><div class="example">每</div></td>
+    </tr>
+    <tr id="chieftain">
+      <th scope="row">133</th>
+      <td class="key-symbols"><span class="fs-1 me-1">长</span><span class="fs-2 text-body-secondary me-1">镸</span><span class="fs-2 text-body-secondary me-1">長</span></td>
+      <td class="key-images"><div><img src="../images/keys/chieftain.png" alt="ВОЖДЬ" loading="lazy"></div></td>
+      <td><div>ВОЖДЬ</div><div>справа традиционное написание радикала, кодируем как &quot;старый вождь&quot;</div><div class="example">张 镺 張</div></td>
+    </tr>
+    <tr id="standard_bearer">
+      <th scope="row">134</th>
+      <td class="key-symbols"><span class="fs-1 me-1">艮</span></td>
+      <td class="key-images"><div><img src="../images/keys/standard_bearer.png" alt="ЗНАМЕНОСЕЦ" loading="lazy"></div></td>
+      <td><div>ЗНАМЕНОСЕЦ</div><div></div><div class="example">艰 银 良</div></td>
+    </tr>
+    <tr id="electric_train">
+      <th scope="row">135</th>
+      <td class="key-symbols"><span class="fs-1 me-1">靑</span></td>
+      <td class="key-images"><div><img src="../images/keys/electric_train.png" alt="ЭЛЕКТРИЧКА" loading="lazy"></div></td>
+      <td><div>ЭЛЕКТРИЧКА</div><div></div><div class="example">靚 靖</div></td>
+    </tr>
+    <tr id="field">
+      <th scope="row">136</th>
+      <td class="key-symbols"><span class="fs-1 me-1">田</span></td>
+      <td class="key-images"><div><img src="../images/keys/field.png" alt="ПОЛЕ" loading="lazy"></div></td>
+      <td><div>ПОЛЕ</div><div></div><div class="example">甸 畲 畾</div></td>
+    </tr>
+    <tr id="chimes">
+      <th scope="row">137</th>
+      <td class="key-symbols"><span class="fs-1 me-1">骨</span><span class="fs-2 text-body-secondary me-1">骨</span></td>
+      <td class="key-images"><div><img src="../images/keys/chimes.png" alt="КУРАНТЫ" loading="lazy"></div></td>
+      <td><div>КУРАНТЫ</div><div>3-этажная башня с часами. Внимание: в зависимости от шрифта и локали, могут показывать 5:45 или 6:15</div><div class="example">髅 骻</div></td>
+    </tr>
+    <tr id="hindu">
+      <th scope="row">138</th>
+      <td class="key-symbols"><span class="fs-1 me-1">里</span></td>
+      <td class="key-images"><div><img src="../images/keys/hindu.png" alt="ИНДУС В ЧАЛМЕ" loading="lazy"></div></td>
+      <td><div>ИНДУС В ЧАЛМЕ</div><div></div><div class="example">野 量</div></td>
+    </tr>
+    <tr id="hindu_nails">
+      <th scope="row">139</th>
+      <td class="key-symbols"><span class="fs-1 me-1">黑</span></td>
+      <td class="key-images"><div><img src="../images/keys/hindu_nails.png" alt="ЙОГ" loading="lazy"></div></td>
+      <td><div>ЙОГ</div><div>йог, факир на углях или гвоздях</div><div class="example">黠 黨 黴</div></td>
+    </tr>
+    <tr id="mountains">
+      <th scope="row">140</th>
+      <td class="key-symbols"><span class="fs-1 me-1">山</span></td>
+      <td class="key-images"><div><img src="../images/keys/mountains.png" alt="ГОРЫ" loading="lazy"></div></td>
+      <td><div>ГОРЫ</div><div></div><div class="example">岨 岩 嵇</div></td>
+    </tr>
+    <tr id="hobo">
+      <th scope="row">141</th>
+      <td class="key-symbols"><span class="fs-1 me-1">见</span><span class="fs-2 text-body-secondary me-1">見</span></td>
+      <td class="key-images"><div><img src="../images/keys/hobo.png" alt="СТАРЫЙ БОМЖ" loading="lazy"></div><div><img src="../images/keys/hobo_old.png" alt="СТАРЫЙ БОМЖ" loading="lazy"></div></td>
+      <td><div>СТАРЫЙ БОМЖ</div><div>со сломанной ножкой, справа традиционное написание радикала - &quot;бомж в полосатой коробке&quot;</div><div class="example">览 觇 親 覛</div></td>
+    </tr>
+    <tr id="orphan">
+      <th scope="row">142</th>
+      <td class="key-symbols"><span class="fs-1 me-1">贝</span><span class="fs-2 text-body-secondary me-1">貝</span></td>
+      <td class="key-images"><div><img src="../images/keys/orphan.png" alt="СИРОТА" loading="lazy"></div><div><img src="../images/keys/orphan_striped.png" alt="СИРОТА" loading="lazy"></div></td>
+      <td><div>СИРОТА</div><div>ножки целые, живет в коробке, справа традиционное написание радикала &quot;сирота в полосатой коробке&quot;</div><div class="example">负 责 買 貹 賏</div></td>
+    </tr>
+    <tr id="legionary">
+      <th scope="row">143</th>
+      <td class="key-symbols"><span class="fs-1 me-1">页</span><span class="fs-2 text-body-secondary me-1">頁</span></td>
+      <td class="key-images"><div><img src="../images/keys/legionary.png" alt="РИМСКИЙ ЛЕГИОНЕР" loading="lazy"></div></td>
+      <td><div>РИМСКИЙ ЛЕГИОНЕР</div><div>справа традиционное написание радикала - &quot;легионер с полосатым щитом&quot;</div><div class="example">頄 颍 頇</div></td>
+    </tr>
+    <tr id="mandarin">
+      <th scope="row">144</th>
+      <td class="key-symbols"><span class="fs-1 me-1">高</span></td>
+      <td class="key-images"><div><img src="../images/keys/mandarin.png" alt="МАНДАРИН" loading="lazy"></div></td>
+      <td><div>МАНДАРИН</div><div>это важный китайский чиновник</div><div class="example">髜</div></td>
+    </tr>
+    <tr id="stingray">
+      <th scope="row">145</th>
+      <td class="key-symbols"><span class="fs-1 me-1">电</span></td>
+      <td class="key-images"><div><img src="../images/keys/stingray.png" alt="ЭЛЕКТРИЧЕСКИЙ СКАТ" loading="lazy"></div></td>
+      <td><div>ЭЛЕКТРИЧЕСКИЙ СКАТ</div><div>действительно может ударить электрическим током</div><div class="example">龟</div></td>
+    </tr>
+    <tr id="evil_twin">
+      <th scope="row">146</th>
+      <td class="key-symbols"><span class="fs-1 me-1">习</span></td>
+      <td class="key-images"><div><img src="../images/keys/evil_twin.png" alt="БРАТ-БЛИЗНЕЦ" loading="lazy"></div></td>
+      <td><div>БРАТ-БЛИЗНЕЦ</div><div></div><div class="example">习</div></td>
+    </tr>
+    <tr id="evil_twins">
+      <th scope="row">147</th>
+      <td class="key-symbols"><span class="fs-1 me-1">羽</span><span class="fs-2 text-body-secondary me-1">羽</span></td>
+      <td class="key-images"><div><img src="../images/keys/evil_twins.png" alt="ЗЛЫЕ БЛИЗНЕЦЫ" loading="lazy"></div></td>
+      <td><div>ЗЛЫЕ БЛИЗНЕЦЫ</div><div>справа другое написание радикала</div><div class="example">羿 翜 翕</div></td>
+    </tr>
+    <tr id="retort">
+      <th scope="row">148</th>
+      <td class="key-symbols"><span class="fs-1 me-1">去</span></td>
+      <td class="key-images"><div><img src="../images/keys/retort.png" alt="КОЛБА" loading="lazy"></div></td>
+      <td><div>КОЛБА</div><div></div><div class="example">脚 法</div></td>
+    </tr>
+    <tr id="stork">
+      <th scope="row">149</th>
+      <td class="key-symbols"><span class="fs-1 me-1">䒑</span></td>
+      <td class="key-images"><div><img src="../images/keys/stork.png" alt="АИСТ" loading="lazy"></div></td>
+      <td><div>АИСТ</div><div>в полете</div><div class="example">前</div></td>
+    </tr>
+    <tr id="armoured_vehicle">
+      <th scope="row">150</th>
+      <td class="key-symbols"><span class="fs-1 me-1">齿</span><span class="fs-2 text-body-secondary me-1">齒</span></td>
+      <td class="key-images"><div><img src="../images/keys/armoured_vehicle.png" alt="БРОНЕВИК" loading="lazy"></div></td>
+      <td><div>БРОНЕВИК</div><div>это такая военная машина. Спереди - пулемет, сзади - антенна, внутри - экипаж. Справа традиционное написание радикала, кодируем как &quot;старый броневик&quot;</div><div class="example">龀 齙</div></td>
+    </tr>
+    <tr id="musketeer">
+      <th scope="row">151</th>
+      <td class="key-symbols"><span class="fs-1 me-1">矢</span></td>
+      <td class="key-images"><div><img src="../images/keys/musketeer.png" alt="МУШКЕТЕР" loading="lazy"></div></td>
+      <td><div>МУШКЕТЕР</div><div>с пером на шляпе</div><div class="example">知 矫 矣</div></td>
+    </tr>
+    <tr id="musketeer_idiot">
+      <th scope="row">152</th>
+      <td class="key-symbols"><span class="fs-1 me-1">缶</span></td>
+      <td class="key-images"><div><img src="../images/keys/musketeer_idiot.png" alt="МУШКЕТЕР-ДУРАЧОК" loading="lazy"></div></td>
+      <td><div>МУШКЕТЕР-ДУРАЧОК</div><div></div><div class="example">缸 缹 罂</div></td>
+    </tr>
+    <tr id="vivandiere">
+      <th scope="row">153</th>
+      <td class="key-symbols"><span class="fs-1 me-1">辶</span></td>
+      <td class="key-images"><div><img src="../images/keys/vivandiere.png" alt="МАРКИТАНТКА" loading="lazy"></div></td>
+      <td><div>МАРКИТАНТКА</div><div>хм...девица легкого поведения</div><div class="example">边 迻 迿 迈</div></td>
+    </tr>
+    <tr id="bride">
+      <th scope="row">154</th>
+      <td class="key-symbols"><span class="fs-1 me-1">廴</span></td>
+      <td class="key-images"><div><img src="../images/keys/bride.png" alt="НЕВЕСТА" loading="lazy"></div></td>
+      <td><div>НЕВЕСТА</div><div></div><div class="example">延 建</div></td>
+    </tr>
+    <tr id="rain">
+      <th scope="row">155</th>
+      <td class="key-symbols"><span class="fs-1 me-1">雨</span></td>
+      <td class="key-images"><div><img src="../images/keys/rain.png" alt="ДОЖДИК" loading="lazy"></div></td>
+      <td><div>ДОЖДИК</div><div>капает за окном</div><div class="example">雪 需</div></td>
+    </tr>
+    <tr id="queen_of_spades">
+      <th scope="row">156</th>
+      <td class="key-symbols"><span class="fs-1 me-1">禾</span></td>
+      <td class="key-images"><div><img src="../images/keys/queen_of_spades.png" alt="ПИКОВАЯ ДАМА" loading="lazy"></div></td>
+      <td><div>ПИКОВАЯ ДАМА</div><div></div><div class="example">秃 程 稷</div></td>
+    </tr>
+    <tr id="claws">
+      <th scope="row">157</th>
+      <td class="key-symbols"><span class="fs-1 me-1">彡</span></td>
+      <td class="key-images"><div><img src="../images/keys/claws.png" alt="КОГТИ" loading="lazy"></div></td>
+      <td><div>КОГТИ</div><div></div><div class="example">彭 影 彦</div></td>
+    </tr>
+    <tr id="mouse">
+      <th scope="row">158</th>
+      <td class="key-symbols"><span class="fs-1 me-1">鼠</span></td>
+      <td class="key-images"><div><img src="../images/keys/mouse.png" alt="МЫШЬ" loading="lazy"></div></td>
+      <td><div>МЫШЬ</div><div></div><div class="example">鼭 鼬</div></td>
+    </tr>
+    <tr id="tick">
+      <th scope="row">159</th>
+      <td class="key-symbols"><span class="fs-1 me-1">韦</span><span class="fs-2 text-body-secondary me-1">韋</span></td>
+      <td class="key-images"><div><img src="../images/keys/tick.png" alt="КЛЕЩ" loading="lazy"></div></td>
+      <td><div>КЛЕЩ</div><div>справа традиционное написание, кодируем &quot;старый клещ&quot;</div><div class="example">韧 衛 韎 韏</div></td>
+    </tr>
+    <tr id="river">
+      <th scope="row">160</th>
+      <td class="key-symbols"><span class="fs-1 me-1">巛</span><span class="fs-2 text-body-secondary me-1">川</span></td>
+      <td class="key-images"><div><img src="../images/keys/river.png" alt="РЕКА" loading="lazy"></div></td>
+      <td><div>РЕКА</div><div>справа другое написание радикала</div><div class="example">巡 巢 州</div></td>
+    </tr>
+    <tr id="jew">
+      <th scope="row">161</th>
+      <td class="key-symbols"><span class="fs-1 me-1">两</span></td>
+      <td class="key-images"><div><img src="../images/keys/jew.png" alt="ЕВРЕЙ С ПЕЙСАМИ" loading="lazy"></div></td>
+      <td><div>ЕВРЕЙ С ПЕЙСАМИ</div><div>ну как же нам без пары евреев:)</div><div class="example">辆</div></td>
+    </tr>
+    <tr id="boxers">
+      <th scope="row">162</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𤇾</span></td>
+      <td class="key-images"><div><img src="../images/keys/boxers.png" alt="БОКСЕРЫ" loading="lazy"></div></td>
+      <td><div>БОКСЕРЫ</div><div>на ринге</div><div class="example">勞</div></td>
+    </tr>
+    <tr id="tiara">
+      <th scope="row">163</th>
+      <td class="key-symbols"><span class="fs-1 me-1">龸</span></td>
+      <td class="key-images"><div><img src="../images/keys/tiara.png" alt="ТИАРА" loading="lazy"></div></td>
+      <td><div>ТИАРА</div><div>корона такая</div><div class="example">常 尝</div></td>
+    </tr>
+    <tr id="pen">
+      <th scope="row">164</th>
+      <td class="key-symbols"><span class="fs-1 me-1">肀</span><span class="fs-2 text-body-secondary me-1">聿</span></td>
+      <td class="key-images"><div><img src="../images/keys/pen.png" alt="ПИШУЩАЯ РУЧКА" loading="lazy"></div><div><img src="../images/keys/fountain_pen.png" alt="ПИШУЩАЯ РУЧКА" loading="lazy"></div></td>
+      <td><div>ПИШУЩАЯ РУЧКА</div><div>справа традиционное написание, кодируем как &quot;перьевая ручка&quot;</div><div class="example">唐 肆</div></td>
+    </tr>
+    <tr id="roof">
+      <th scope="row">165</th>
+      <td class="key-symbols"><span class="fs-1 me-1">亼</span></td>
+      <td class="key-images"><div><img src="../images/keys/roof.png" alt="КРЫША" loading="lazy"></div></td>
+      <td><div>КРЫША</div><div>крыша доме</div><div class="example">偷</div></td>
+    </tr>
+    <tr id="fascist">
+      <th scope="row">166</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𥫗</span></td>
+      <td class="key-images"><div><img src="../images/keys/fascist.png" alt="ФАШИСТЫ" loading="lazy"></div></td>
+      <td><div>ФАШИСТЫ</div><div>фашисты с автоматами, ходят по одному, по двое, редко по трое...</div><div class="example">筤 笸 蓝</div></td>
+    </tr>
+    <tr id="peaked_cap">
+      <th scope="row">167</th>
+      <td class="key-symbols"><span class="fs-1 me-1">龴</span></td>
+      <td class="key-images"><div><img src="../images/keys/peaked_cap.png" alt="ФУРАЖКА" loading="lazy"></div></td>
+      <td><div>ФУРАЖКА</div><div></div><div class="example">予</div></td>
+    </tr>
+    <tr id="fire">
+      <th scope="row">168</th>
+      <td class="key-symbols"><span class="fs-1 me-1">火</span><span class="fs-2 text-body-secondary me-1">灬</span></td>
+      <td class="key-images"><div><img src="../images/keys/fire.png" alt="КОСТЕР" loading="lazy"></div><div><img src="../images/keys/flame.png" alt="КОСТЕР" loading="lazy"></div><div><img src="../images/keys/charcoal.png" alt="КОСТЕР" loading="lazy"></div></td>
+      <td><div>КОСТЕР</div><div>справа другое написание этого радикала, можно кодировать как просто &quot;огонь&quot; или УГЛИ</div><div class="example">烛 热 炃 焱 烋</div></td>
+    </tr>
+    <tr id="hoe">
+      <th scope="row">169</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𠂉</span></td>
+      <td class="key-images"><div><img src="../images/keys/hoe.png" alt="ТЯПКА" loading="lazy"></div></td>
+      <td><div>ТЯПКА</div><div>мотыга, кетмень, кому как удобнее</div><div class="example">斿 旃</div></td>
+    </tr>
+    <tr id="scarecrow">
+      <th scope="row">170</th>
+      <td class="key-symbols"><span class="fs-1 me-1">辛</span></td>
+      <td class="key-images"><div><img src="../images/keys/scarecrow.png" alt="ПУГАЛО" loading="lazy"></div></td>
+      <td><div>ПУГАЛО</div><div></div><div class="example">辞辩</div></td>
+    </tr>
+    <tr id="katana">
+      <th scope="row">171</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𠂇</span></td>
+      <td class="key-images"><div><img src="../images/keys/katana.png" alt="КАТАНА" loading="lazy"></div></td>
+      <td><div>КАТАНА</div><div>меч японский с ножнами</div><div class="example">有</div></td>
+    </tr>
+    <tr id="cricket">
+      <th scope="row">172</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/cricket-rad.png" alt="Радикал: СВЕРЧОК" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/cricket.png" alt="СВЕРЧОК" loading="lazy"></div></td>
+      <td><div>СВЕРЧОК</div><div>очень воспитанный и культурный, играет на скрипке</div><div class="example">在</div></td>
+    </tr>
+    <tr id="broken_bedside_table">
+      <th scope="row">173</th>
+      <td class="key-symbols"><span class="fs-1 me-1">臼</span></td>
+      <td class="key-images"><div><img src="../images/keys/broken_bedside_table.png" alt="СЛОМАННАЯ ТУМБОЧКА" loading="lazy"></div></td>
+      <td><div>СЛОМАННАЯ ТУМБОЧКА</div><div></div><div class="example">臿 舁 舀 臾</div></td>
+    </tr>
+    <tr id="cactus">
+      <th scope="row">174</th>
+      <td class="key-symbols"><span class="fs-1 me-1">屮</span><span class="fs-2 text-body-secondary me-1">屮</span></td>
+      <td class="key-images"><div><img src="../images/keys/cactus.png" alt="КАКТУС" loading="lazy"></div></td>
+      <td><div>КАКТУС</div><div>справа другое написание</div><div class="example">屰</div></td>
+    </tr>
+    <tr id="spaceship">
+      <th scope="row">175</th>
+      <td class="key-symbols"><span class="fs-1 me-1">臣</span><span class="fs-2 text-body-secondary me-1">巨</span></td>
+      <td class="key-images"><div><img src="../images/keys/spaceship.png" alt="КОСМОЛЕТ" loading="lazy"></div><div><img src="../images/keys/spaceship_light.png" alt="КОСМОЛЕТ" loading="lazy"></div></td>
+      <td><div>КОСМОЛЕТ</div><div>справа легкий космолетик</div><div class="example">臥 臩</div></td>
+    </tr>
+    <tr id="barbwire">
+      <th scope="row">176</th>
+      <td class="key-symbols"><span class="fs-1 me-1">艹</span></td>
+      <td class="key-images"><div><img src="../images/keys/barbwire.png" alt="КОЛЮЧАЯ ПРОВОЛОКА" loading="lazy"></div></td>
+      <td><div>КОЛЮЧАЯ ПРОВОЛОКА</div><div>можно еще терновый венок, обычно этот радикал пишется сверху иероглифа.</div><div class="example">芀 芺 茔</div></td>
+    </tr>
+    <tr id="hair">
+      <th scope="row">177</th>
+      <td class="key-symbols"><span class="fs-1 me-1">髟</span></td>
+      <td class="key-images"><div><img src="../images/keys/hair.png" alt="ВОЛОСЫ" loading="lazy"></div></td>
+      <td><div>ВОЛОСЫ</div><div>левая часть - вождь</div><div class="example">髡 髻</div></td>
+    </tr>
+    <tr id="georgian">
+      <th scope="row">178</th>
+      <td class="key-symbols"><span class="fs-1 me-1">西</span><span class="fs-2 text-body-secondary me-1">⻃</span><span class="fs-2 text-body-secondary me-1">酉</span></td>
+      <td class="key-images"><div><img src="../images/keys/georgian.png" alt="МОЛОДОЙ ГРУЗИН" loading="lazy"></div></td>
+      <td><div>МОЛОДОЙ ГРУЗИН</div><div>в бурке и кепке-аэродроме, крайний правый - старый грузин</div><div class="example">洒 要 醅</div></td>
+    </tr>
+    <tr id="hunchback_horse">
+      <th scope="row">179</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𠃓</span></td>
+      <td class="key-images"><div><img src="../images/keys/hunchback_horse.png" alt="КОНЕК-ГОРБУНОК" loading="lazy"></div></td>
+      <td><div>КОНЕК-ГОРБУНОК</div><div>ууу...как его скрючило :)</div><div class="example">场</div></td>
+    </tr>
+    <tr id="border_guard_dog">
+      <th scope="row">180</th>
+      <td class="key-symbols"><span class="fs-1 me-1">止</span><span class="fs-2 text-body-secondary me-1">上</span></td>
+      <td class="key-images"><div><img src="../images/keys/border_guard_dog.png" alt="ПОГРАНИЧНИК С СОБАКОЙ" loading="lazy"></div></td>
+      <td><div>ПОГРАНИЧНИК С СОБАКОЙ</div><div>справа пограничник без собаки</div><div class="example">正 此 歪 歭</div></td>
+    </tr>
+    <tr id="ram">
+      <th scope="row">181</th>
+      <td class="key-symbols"><span class="fs-1 me-1">羊</span><span class="fs-2 text-body-secondary me-1">⺷</span><span class="fs-2 text-body-secondary me-1">⺶</span></td>
+      <td class="key-images"><div><img src="../images/keys/ram.png" alt="БАРАН" loading="lazy"></div></td>
+      <td><div>БАРАН</div><div>справа другие написания радикала</div><div class="example">羔 美 羳 羖</div></td>
+    </tr>
+    <tr id="cow">
+      <th scope="row">182</th>
+      <td class="key-symbols"><span class="fs-1 me-1">牛</span></td>
+      <td class="key-images"><div><img src="../images/keys/cow.png" alt="КОРОВА" loading="lazy"></div></td>
+      <td><div>КОРОВА</div><div></div><div class="example">牝 犁 牟</div></td>
+    </tr>
+    <tr id="pig">
+      <th scope="row">183</th>
+      <td class="key-symbols"><span class="fs-1 me-1">豕</span></td>
+      <td class="key-images"><div><img src="../images/keys/pig.png" alt="СВИНЬЯ" loading="lazy"></div></td>
+      <td><div>СВИНЬЯ</div><div>а такой красивый иероглиф :)</div><div class="example">象 豬</div></td>
+    </tr>
+    <tr id="courtier">
+      <th scope="row">184</th>
+      <td class="key-symbols"><span class="fs-1 me-1">豸</span></td>
+      <td class="key-images"><div><img src="../images/keys/courtier.png" alt="ПРИДВОРНЫЙ" loading="lazy"></div></td>
+      <td><div>ПРИДВОРНЫЙ</div><div>в поклоне</div><div class="example">豻 貓</div></td>
+    </tr>
+    <tr id="fish">
+      <th scope="row">185</th>
+      <td class="key-symbols"><span class="fs-1 me-1">鱼</span><span class="fs-2 text-body-secondary me-1">魚</span></td>
+      <td class="key-images"><div><img src="../images/keys/fish.png" alt="РЫБКА" loading="lazy"></div></td>
+      <td><div>РЫБКА</div><div>справа традиционное написание радикала, &quot;старая рыбка&quot;</div><div class="example">魡 鲨</div></td>
+    </tr>
+    <tr id="ghost">
+      <th scope="row">186</th>
+      <td class="key-symbols"><span class="fs-1 me-1">鬼</span></td>
+      <td class="key-images"><div><img src="../images/keys/ghost.png" alt="ПРИЗРАК" loading="lazy"></div></td>
+      <td><div>ПРИЗРАК</div><div></div><div class="example">魆 鬿</div></td>
+    </tr>
+    <tr id="nefertiti_grandmother">
+      <th scope="row">187</th>
+      <td class="key-symbols"><span class="fs-1 me-1">用</span></td>
+      <td class="key-images"><div><img src="../images/keys/nefertiti_grandmother.png" alt="БАБУШКА НЕФЕРТИТИ" loading="lazy"></div></td>
+      <td><div>БАБУШКА НЕФЕРТИТИ</div><div></div><div class="example">甬 甮</div></td>
+    </tr>
+    <tr id="suitecase">
+      <th scope="row">188</th>
+      <td class="key-symbols"><span class="fs-1 me-1">由</span></td>
+      <td class="key-images"><div><img src="../images/keys/suitecase.png" alt="ЧЕМОДАН" loading="lazy"></div></td>
+      <td><div>ЧЕМОДАН</div><div></div><div class="example">油</div></td>
+    </tr>
+    <tr id="merchant_trunk">
+      <th scope="row">189</th>
+      <td class="key-symbols"><span class="fs-1 me-1">典</span></td>
+      <td class="key-images"><div><img src="../images/keys/merchant_trunk.png" alt="БАУЛ ЧЕЛНОКА" loading="lazy"></div></td>
+      <td><div>БАУЛ ЧЕЛНОКА</div><div>такой весь клетчатый</div><div class="example">典</div></td>
+    </tr>
+    <tr id="crocodile_in_hemp">
+      <th scope="row">190</th>
+      <td class="key-symbols"><span class="fs-1 me-1">麻</span></td>
+      <td class="key-images"><div><img src="../images/keys/crocodile_in_hemp.png" alt="КРОКОДИЛ В КОНОПЛЕ" loading="lazy"></div></td>
+      <td><div>КРОКОДИЛ В КОНОПЛЕ</div><div></div><div class="example">磨</div></td>
+    </tr>
+    <tr id="humped_nose">
+      <th scope="row">191</th>
+      <td class="key-symbols"><span class="fs-1 me-1">幺</span><span class="fs-2 text-body-secondary me-1">乡</span></td>
+      <td class="key-images"><div><img src="../images/keys/humped_nose.png" alt="НОС С ГОРБИНКОЙ" loading="lazy"></div></td>
+      <td><div>НОС С ГОРБИНКОЙ</div><div>справа другое написание радикала</div><div class="example">幼 鄉</div></td>
+    </tr>
+    <tr id="runny_nose">
+      <th scope="row">192</th>
+      <td class="key-symbols"><span class="fs-1 me-1">纟</span><span class="fs-2 text-body-secondary me-1">糹</span></td>
+      <td class="key-images"><div><img src="../images/keys/runny_nose.png" alt="СОПЛИВЫЙ НОС" loading="lazy"></div></td>
+      <td><div>СОПЛИВЫЙ НОС</div><div>справа традиционное написание радикала, встречаются часто оба.</div><div class="example">红 紋 素</div></td>
+    </tr>
+    <tr id="plow">
+      <th scope="row">193</th>
+      <td class="key-symbols"><span class="fs-1 me-1">耒</span></td>
+      <td class="key-images"><div><img src="../images/keys/plow.png" alt="ПЛУГ" loading="lazy"></div></td>
+      <td><div>ПЛУГ</div><div></div><div class="example">耙 耠</div></td>
+    </tr>
+    <tr id="ladder">
+      <th scope="row">194</th>
+      <td class="key-symbols"><span class="fs-1 me-1">目</span></td>
+      <td class="key-images"><div><img src="../images/keys/ladder.png" alt="ЛЕСТНИЦА" loading="lazy"></div></td>
+      <td><div>ЛЕСТНИЦА</div><div></div><div class="example">盱 看 瞿</div></td>
+    </tr>
+    <tr id="comb">
+      <th scope="row">195</th>
+      <td class="key-symbols"><span class="fs-1 me-1">乍</span></td>
+      <td class="key-images"><div><img src="../images/keys/comb.png" alt="РАСЧЕСКА" loading="lazy"></div></td>
+      <td><div>РАСЧЕСКА</div><div></div><div class="example">作</div></td>
+    </tr>
+    <tr id="witch">
+      <th scope="row">196</th>
+      <td class="key-symbols"><span class="fs-1 me-1">香</span></td>
+      <td class="key-images"><div><img src="../images/keys/witch.png" alt="ВЕДЬМА" loading="lazy"></div></td>
+      <td><div>ВЕДЬМА</div><div>состоит из мнемоключей &quot;дама пиковая&quot; и &quot;солнце&quot;</div><div class="example">馣 馧</div></td>
+    </tr>
+    <tr id="icarus">
+      <th scope="row">197</th>
+      <td class="key-symbols"><span class="fs-1 me-1">音</span></td>
+      <td class="key-images"><div><img src="../images/keys/icarus.png" alt="ИКАР" loading="lazy"></div></td>
+      <td><div>ИКАР</div><div>состоит из мнемоключиков атлет и солнце.</div><div class="example">韶</div></td>
+    </tr>
+    <tr id="pterodactyl">
+      <th scope="row">198</th>
+      <td class="key-symbols"><span class="fs-1 me-1">隹</span></td>
+      <td class="key-images"><div><img src="../images/keys/pterodactyl.png" alt="ЗУБАСТИК ПТЕРОДАКТИЛЬ" loading="lazy"></div></td>
+      <td><div>ЗУБАСТИК ПТЕРОДАКТИЛЬ</div><div></div><div class="example">难 谁</div></td>
+    </tr>
+    <tr id="taekwondist">
+      <th scope="row">199</th>
+      <td class="key-symbols"><span class="fs-1 me-1">戈</span></td>
+      <td class="key-images"><div><img src="../images/keys/taekwondist.png" alt="ТХЭКВОНДИСТ" loading="lazy"></div></td>
+      <td><div>ТХЭКВОНДИСТ</div><div>типа каратиста, только лупит в основном ногами</div><div class="example">我 饿</div></td>
+    </tr>
+    <tr id="paw">
+      <th scope="row">200</th>
+      <td class="key-symbols"><span class="fs-1 me-1">爫</span></td>
+      <td class="key-images"><div><img src="../images/keys/paw.png" alt="ЛАПКА" loading="lazy"></div></td>
+      <td><div>ЛАПКА</div><div>тигра, кошки или медведя</div><div class="example">爱 摇</div></td>
+    </tr>
+    <tr id="knee">
+      <th scope="row">201</th>
+      <td class="key-symbols"><span class="fs-1 me-1">フ</span></td>
+      <td class="key-images"><div><img src="../images/keys/knee.png" alt="КОЛЕНКА" loading="lazy"></div></td>
+      <td><div>КОЛЕНКА</div><div></div><div class="example">今</div></td>
+    </tr>
+    <tr id="antenna">
+      <th scope="row">202</th>
+      <td class="key-symbols"><span class="fs-1 me-1">非</span></td>
+      <td class="key-images"><div><img src="../images/keys/antenna.png" alt="АНТЕННА" loading="lazy"></div></td>
+      <td><div>АНТЕННА</div><div></div><div class="example">罪</div></td>
+    </tr>
+    <tr id="forelock">
+      <th scope="row">203</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⺈</span></td>
+      <td class="key-images"><div><img src="../images/keys/forelock.png" alt="ЧУБЧИК" loading="lazy"></div></td>
+      <td><div>ЧУБЧИК</div><div></div><div class="example">角 危</div></td>
+    </tr>
+    <tr id="yakuza">
+      <th scope="row">204</th>
+      <td class="key-symbols"><span class="fs-1 me-1">生</span></td>
+      <td class="key-images"><div><img src="../images/keys/yakuza.png" alt="ЯКУДЗА" loading="lazy"></div></td>
+      <td><div>ЯКУДЗА</div><div>такой японский мафиози</div><div class="example">甡 姓</div></td>
+    </tr>
+    <tr id="robber">
+      <th scope="row">205</th>
+      <td class="key-symbols"><span class="fs-1 me-1">牙</span></td>
+      <td class="key-images"><div><img src="../images/keys/robber.png" alt="ГРАБИТЕЛЬ" loading="lazy"></div></td>
+      <td><div>ГРАБИТЕЛЬ</div><div>с кинжалом в плаще</div><div class="example">牚</div></td>
+    </tr>
+    <tr id="jumper">
+      <th scope="row">206</th>
+      <td class="key-symbols"><span class="fs-1 me-1">耂</span><span class="fs-2 text-body-secondary me-1">老</span></td>
+      <td class="key-images"><div><img src="../images/keys/jumper.png" alt="ПРЫГУН" loading="lazy"></div></td>
+      <td><div>ПРЫГУН</div><div>справа другое написание радикала, кодируем как &quot;прыгун-матросик&quot;, так как снизу сидит матросик</div><div class="example">者 姥</div></td>
+    </tr>
+    <tr id="head">
+      <th scope="row">207</th>
+      <td class="key-symbols"><span class="fs-1 me-1">头</span></td>
+      <td class="key-images"><div><img src="../images/keys/head.png" alt="ГОЛОВА" loading="lazy"></div></td>
+      <td><div>ГОЛОВА</div><div>изображение затянувшего 2 косяка укурка, у которого от прихода текут по лицу пот, сопли и слюна.</div><div class="example">买</div></td>
+    </tr>
+    <tr id="fly">
+      <th scope="row">208</th>
+      <td class="key-symbols"><span class="fs-1 me-1">虫</span></td>
+      <td class="key-images"><div><img src="../images/keys/fly.png" alt="МУХА" loading="lazy"></div></td>
+      <td><div>МУХА</div><div></div><div class="example">虺 蛪</div></td>
+    </tr>
+    <tr id="dragonfly">
+      <th scope="row">209</th>
+      <td class="key-symbols"><span class="fs-1 me-1">中</span></td>
+      <td class="key-images"><div><img src="../images/keys/dragonfly.png" alt="СТРЕКОЗА" loading="lazy"></div></td>
+      <td><div>СТРЕКОЗА</div><div>&quot;муха&quot; без хвоста</div><div class="example">钟</div></td>
+    </tr>
+    <tr id="bricks">
+      <th scope="row">210</th>
+      <td class="key-symbols"><span class="fs-1 me-1">鼻</span></td>
+      <td class="key-images"><div><img src="../images/keys/bricks.png" alt="КИРПИЧИ ДЛЯ КАРАТИСТА" loading="lazy"></div></td>
+      <td><div>КИРПИЧИ ДЛЯ КАРАТИСТА</div><div></div><div class="example">齀 鼾</div></td>
+    </tr>
+    <tr id="dinosaur">
+      <th scope="row">211</th>
+      <td class="key-symbols"><span class="fs-1 me-1">亡</span></td>
+      <td class="key-images"><div><img src="../images/keys/dinosaur.png" alt="ДИНОЗАВР" loading="lazy"></div></td>
+      <td><div>ДИНОЗАВР</div><div></div><div class="example">忙 忘</div></td>
+    </tr>
+    <tr id="triplane">
+      <th scope="row">212</th>
+      <td class="key-symbols"><span class="fs-1 me-1">龶</span></td>
+      <td class="key-images"><div><img src="../images/keys/triplane.png" alt="ТРИПЛАН" loading="lazy"></div></td>
+      <td><div>ТРИПЛАН</div><div>это самолет с тремя крыльями друг над дружкой</div><div class="example">毒</div></td>
+    </tr>
+    <tr id="king">
+      <th scope="row">213</th>
+      <td class="key-symbols"><span class="fs-1 me-1">王</span></td>
+      <td class="key-images"><div><img src="../images/keys/king.png" alt="КОРОЛЬ" loading="lazy"></div></td>
+      <td><div>КОРОЛЬ</div><div></div><div class="example">玡 珨 国</div></td>
+    </tr>
+    <tr id="bridge">
+      <th scope="row">214</th>
+      <td class="key-symbols"><span class="fs-1 me-1">共</span><span class="fs-2 text-body-secondary me-1">其</span></td>
+      <td class="key-images"><div><img src="../images/keys/bridge.png" alt="МОСТ" loading="lazy"></div></td>
+      <td><div>МОСТ</div><div>через реку, простой одноуровневый, справа &quot;мост в 3 пролета&quot;</div><div class="example">異 期</div></td>
+    </tr>
+    <tr id="razor">
+      <th scope="row">215</th>
+      <td class="key-symbols"><span class="fs-1 me-1">早</span></td>
+      <td class="key-images"><div><img src="../images/keys/razor.png" alt="БРИТВА" loading="lazy"></div></td>
+      <td><div>БРИТВА</div><div></div><div class="example">章</div></td>
+    </tr>
+    <tr id="mammoth">
+      <th scope="row">216</th>
+      <td class="key-symbols"><span class="fs-1 me-1">及</span></td>
+      <td class="key-images"><div><img src="../images/keys/mammoth.png" alt="МАМОНТ" loading="lazy"></div></td>
+      <td><div>МАМОНТ</div><div></div><div class="example">吸</div></td>
+    </tr>
+    <tr id="dragon">
+      <th scope="row">217</th>
+      <td class="key-symbols"><span class="fs-1 me-1">龙</span><span class="fs-2 text-body-secondary me-1">龍</span></td>
+      <td class="key-images"><div><img src="../images/keys/dragon.png" alt="ДРАКОН" loading="lazy"></div></td>
+      <td><div>ДРАКОН</div><div>справа традиционное написание радикала</div><div class="example">袭 籠</div></td>
+    </tr>
+    <tr id="reed">
+      <th scope="row">218</th>
+      <td class="key-symbols"><span class="fs-1 me-1">业</span></td>
+      <td class="key-images"><div><img src="../images/keys/reed.png" alt="КАМЫШИ" loading="lazy"></div></td>
+      <td><div>КАМЫШИ</div><div></div><div class="example">亚</div></td>
+    </tr>
+    <tr id="flying_dutchman">
+      <th scope="row">219</th>
+      <td class="key-symbols"><span class="fs-1 me-1">走</span></td>
+      <td class="key-images"><div><img src="../images/keys/flying_dutchman.png" alt="ЛЕТУЧИЙ ГОЛЛАНДЕЦ" loading="lazy"></div></td>
+      <td><div>ЛЕТУЧИЙ ГОЛЛАНДЕЦ</div><div></div><div class="example">赸 趕</div></td>
+    </tr>
+    <tr id="marabou">
+      <th scope="row">220</th>
+      <td class="key-symbols"><span class="fs-1 me-1">久</span><span class="fs-2 text-body-secondary me-1">ス</span></td>
+      <td class="key-images"><div><img src="../images/keys/marabou.png" alt="МАРАБУ" loading="lazy"></div></td>
+      <td><div>МАРАБУ</div><div>такая африканская птица, справа &quot;безголовый марабу&quot;</div><div class="example">畝 轻</div></td>
+    </tr>
+    <tr id="restaurant">
+      <th scope="row">221</th>
+      <td class="key-symbols"><span class="fs-1 me-1">食</span><span class="fs-2 text-body-secondary me-1">飠⻞</span></td>
+      <td class="key-images"><div><img src="../images/keys/restaurant.png" alt="КИТАЙСКИЙ РЕСТОРАН" loading="lazy"></div></td>
+      <td><div>КИТАЙСКИЙ РЕСТОРАН</div><div>справа как радикал</div><div class="example">飧 餇 餘</div></td>
+    </tr>
+    <tr id="jockey">
+      <th scope="row">222</th>
+      <td class="key-symbols"><span class="fs-1 me-1">饣</span></td>
+      <td class="key-images"><div><img src="../images/keys/jockey.png" alt="ЖОКЕЙ" loading="lazy"></div></td>
+      <td><div>ЖОКЕЙ</div><div>это упрощенное написание предыдущего радикала</div><div class="example">饴 饱</div></td>
+    </tr>
+    <tr id="pagoda">
+      <th scope="row">223</th>
+      <td class="key-symbols"><span class="fs-1 me-1">金</span></td>
+      <td class="key-images"><div><img src="../images/keys/pagoda.png" alt="ЗОЛОТАЯ ПАГОДА" loading="lazy"></div></td>
+      <td><div>ЗОЛОТАЯ ПАГОДА</div><div></div><div class="example">釕 鋈</div></td>
+    </tr>
+    <tr id="royal_jockey">
+      <th scope="row">224</th>
+      <td class="key-symbols"><span class="fs-1 me-1">钅</span></td>
+      <td class="key-images"><div><img src="../images/keys/royal_jockey.png" alt="КОРОЛЕВСКИЙ ЖОКЕЙ" loading="lazy"></div></td>
+      <td><div>КОРОЛЕВСКИЙ ЖОКЕЙ</div><div>это упрощенное написание предыдущего радикала</div><div class="example">钇 钊</div></td>
+    </tr>
+    <tr id="minister">
+      <th scope="row">225</th>
+      <td class="key-symbols"><span class="fs-1 me-1">赤</span><span class="fs-2 text-body-secondary me-1">亦𰁜</span></td>
+      <td class="key-images"><div><img src="../images/keys/minister.png" alt="МИНИСТР" loading="lazy"></div><div><img src="../images/keys/minister_nohat.png" alt="МИНИСТР" loading="lazy"></div></td>
+      <td><div>МИНИСТР</div><div>справа замминистр без шапки</div><div class="example">赧 迹 弯</div></td>
+    </tr>
+    <tr id="skates">
+      <th scope="row">226</th>
+      <td class="key-symbols"><span class="fs-1 me-1">兆</span></td>
+      <td class="key-images"><div><img src="../images/keys/skates.png" alt="КОНЬКИ" loading="lazy"></div></td>
+      <td><div>КОНЬКИ</div><div></div><div class="example">跳</div></td>
+    </tr>
+    <tr id="cyclist">
+      <th scope="row">227</th>
+      <td class="key-symbols"><span class="fs-1 me-1">与</span><span class="fs-2 text-body-secondary me-1" lang="ja">与</span></td>
+      <td class="key-images"><div><img src="../images/keys/cyclist.png" alt="ВЕЛОСИПЕДИСТ" loading="lazy"></div></td>
+      <td><div>ВЕЛОСИПЕДИСТ</div><div>справа написание другим шрифтом</div><div class="example">写</div></td>
+    </tr>
+    <tr id="fish_skeleton">
+      <th scope="row">228</th>
+      <td class="key-symbols"><span class="fs-1 me-1">至</span></td>
+      <td class="key-images"><div><img src="../images/keys/fish_skeleton.png" alt="СКЕЛЕТ РЫБЫ" loading="lazy"></div></td>
+      <td><div>СКЕЛЕТ РЫБЫ</div><div></div><div class="example">致 臸 臷</div></td>
+    </tr>
+    <tr id="colosseum">
+      <th scope="row">229</th>
+      <td class="key-symbols"><span class="fs-1 me-1">無</span></td>
+      <td class="key-images"><div><img src="../images/keys/colosseum.png" alt="КОЛИЗЕЙ" loading="lazy"></div></td>
+      <td><div>КОЛИЗЕЙ</div><div>это арена в Риме, где рубились гладиаторы. Внизу угли от пожара</div><div class="example">舞</div></td>
+    </tr>
+    <tr id="stool">
+      <th scope="row">230</th>
+      <td class="key-symbols"><span class="fs-1 me-1">丌</span><span class="fs-2 text-body-secondary me-1">兀</span></td>
+      <td class="key-images"><div><img src="../images/keys/stool.png" alt="ТАБУРЕТ" loading="lazy"></div><div><img src="../images/keys/stool_broken.png" alt="ТАБУРЕТ" loading="lazy"></div></td>
+      <td><div>ТАБУРЕТ</div><div>справа &quot;поломанный табурет&quot;</div><div class="example">亓 尧</div></td>
+    </tr>
+    <tr id="boundary_post">
+      <th scope="row">231</th>
+      <td class="key-symbols"><span class="fs-1 me-1">且</span></td>
+      <td class="key-images"><div><img src="../images/keys/boundary_post.png" alt="ПОГРАНИЧНЫЙ СТОЛБИК" loading="lazy"></div></td>
+      <td><div>ПОГРАНИЧНЫЙ СТОЛБИК</div><div></div><div class="example">抯</div></td>
+    </tr>
+    <tr id="elbow">
+      <th scope="row">232</th>
+      <td class="key-symbols"><span class="fs-1 me-1">ㄥ</span></td>
+      <td class="key-images"><div><img src="../images/keys/elbow.png" alt="ЛОКОТЬ" loading="lazy"></div></td>
+      <td><div>ЛОКОТЬ</div><div></div><div class="example">东</div></td>
+    </tr>
+    <tr id="tattoo">
+      <th scope="row">233</th>
+      <td class="key-symbols"><span class="fs-1 me-1">亥</span></td>
+      <td class="key-images"><div><img src="../images/keys/tattoo.png" alt="ТАТУИРОВКА" loading="lazy"></div></td>
+      <td><div>ТАТУИРОВКА</div><div></div><div class="example">侅</div></td>
+    </tr>
+    <tr id="blaster">
+      <th scope="row">234</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/blaster-rad.svg" alt="Радикал: ПИСТОЛЕТ-БЛАСТЕР" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/blaster.png" alt="ПИСТОЛЕТ-БЛАСТЕР" loading="lazy"></div></td>
+      <td><div>ПИСТОЛЕТ-БЛАСТЕР</div><div></div><div class="example">可</div></td>
+    </tr>
+    <tr id="desk_drawers">
+      <th scope="row">235</th>
+      <td class="key-symbols"><span class="fs-1 me-1">㠯</span></td>
+      <td class="key-images"><div><img src="../images/keys/desk_drawers.png" alt="ТУМБОЧКА" loading="lazy"></div></td>
+      <td><div>ТУМБОЧКА</div><div>с выдвинутыми ящиками</div><div class="example">官</div></td>
+    </tr>
+    <tr id="mowgli">
+      <th scope="row">236</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⺧</span></td>
+      <td class="key-images"><div><img src="../images/keys/mowgli.png" alt="МАУГЛИ" loading="lazy"></div></td>
+      <td><div>МАУГЛИ</div><div></div><div class="example">告</div></td>
+    </tr>
+    <tr id="swallow">
+      <th scope="row">237</th>
+      <td class="key-symbols"><span class="fs-1 me-1">⺌</span></td>
+      <td class="key-images"><div><img src="../images/keys/swallow.png" alt="ЛАСТОЧКА" loading="lazy"></div></td>
+      <td><div>ЛАСТОЧКА</div><div></div><div class="example">光 当</div></td>
+    </tr>
+    <tr id="glasses">
+      <th scope="row">238</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𫩏</span></td>
+      <td class="key-images"><div><img src="../images/keys/glasses.png" alt="ОЧКИ" loading="lazy"></div></td>
+      <td><div>ОЧКИ</div><div></div><div class="example">象</div></td>
+    </tr>
+    <tr id="road">
+      <th scope="row">239</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/road-rad.png" alt="Радикал: ДОРОГА" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/road.png" alt="ДОРОГА" loading="lazy"></div></td>
+      <td><div>ДОРОГА</div><div></div><div class="example">兵</div></td>
+    </tr>
+    <tr id="boat">
+      <th scope="row">240</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/boat-rad.png" alt="Радикал: ЛОДКА" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/boat.png" alt="ЛОДКА" loading="lazy"></div></td>
+      <td><div>ЛОДКА</div><div></div><div class="example">之</div></td>
+    </tr>
+    <tr id="skirt">
+      <th scope="row">241</th>
+      <td class="key-symbols"><span class="fs-1 me-1">分</span></td>
+      <td class="key-images"><div><img src="../images/keys/skirt.png" alt="ЮБОЧКА" loading="lazy"></div></td>
+      <td><div>ЮБОЧКА</div><div></div><div class="example">份</div></td>
+    </tr>
+    <tr id="eyes">
+      <th scope="row">242</th>
+      <td class="key-symbols"><span class="fs-1 me-1">丷</span></td>
+      <td class="key-images"><div><img src="../images/keys/eyes.png" alt="ГЛАЗКИ" loading="lazy"></div></td>
+      <td><div>ГЛАЗКИ</div><div>Глазки, рожки, усики и тому подобное</div><div class="example">併 兑</div></td>
+    </tr>
+    <tr id="paws_little">
+      <th scope="row">243</th>
+      <td class="key-symbols"><span class="fs-1 me-1">八</span></td>
+      <td class="key-images"><div><img src="../images/keys/paws_little.png" alt="НОЖКИ" loading="lazy"></div></td>
+      <td><div>НОЖКИ</div><div>Ножки, лапки, пальчики и тому подобное</div><div class="example">帜</div></td>
+    </tr>
+    <tr id="e_letter">
+      <th scope="row">244</th>
+      <td class="key-symbols"><span class="fs-1 me-1">𠀉</span></td>
+      <td class="key-images"><div><img src="../images/keys/e_letter.png" alt="БУКВА Е" loading="lazy"></div></td>
+      <td><div>БУКВА Е</div><div></div><div class="example">印</div></td>
+    </tr>
+    <tr id="log_with_twig">
+      <th scope="row">245</th>
+      <td class="key-symbols"><span class="fs-1 me-1">卜</span></td>
+      <td class="key-images"><div><img src="../images/keys/log_with_twig.png" alt="СУЧОК, ЧУРКА, ЧУРБАН" loading="lazy"></div></td>
+      <td><div>СУЧОК, ЧУРКА, ЧУРБАН</div><div>или, на что еще там похоже</div><div class="example">扑</div></td>
+    </tr>
+    <tr id="leaf">
+      <th scope="row">246</th>
+      <td class="key-symbols"><span class="fs-1 me-1">㇒</span></td>
+      <td class="key-images"><div><img src="../images/keys/leaf.png" alt="ЛИСТИК" loading="lazy"></div></td>
+      <td><div>ЛИСТИК</div><div></div><div class="example">乎 币</div></td>
+    </tr>
+    <tr id="boat_hook">
+      <th scope="row">247</th>
+      <td class="key-symbols"><span class="fs-1 me-1">乛</span></td>
+      <td class="key-images"><div><img src="../images/keys/boat_hook.png" alt="БАГОР" loading="lazy"></div></td>
+      <td><div>БАГОР</div><div></div><div class="example">买</div></td>
+    </tr>
+    <tr id="machinegun">
+      <th scope="row">248</th>
+      <td class="key-symbols"><span class="fs-1 me-1"><img src="../images/keys/sym/machgun-rad.png" alt="Радикал: ПУЛЕМЕТ" width="40" loading="lazy"></span></td>
+      <td class="key-images"><div><img src="../images/keys/machinegun.png" alt="ПУЛЕМЕТ" loading="lazy"></div></td>
+      <td><div>ПУЛЕМЕТ</div><div></div><div class="example">虍</div></td>
+    </tr>
+    <tr id="helmet">
+      <th scope="row">249</th>
+      <td class="key-symbols"><span class="fs-1 me-1">龷</span></td>
+      <td class="key-images"><div><img src="../images/keys/helmet.png" alt="ШЛЕМ" loading="lazy"></div></td>
+      <td><div>ШЛЕМ</div><div></div><div class="example">散</div></td>
+    </tr>
+    <tr id="bars">
+      <th scope="row">250</th>
+      <td class="key-symbols"><span class="fs-1 me-1">井</span></td>
+      <td class="key-images"><div><img src="../images/keys/bars.png" alt="РЕШЕТКА" loading="lazy"></div></td>
+      <td><div>РЕШЕТКА</div><div></div><div class="example">讲</div></td>
+    </tr>
 	  </tbody>
 	</table>
 	

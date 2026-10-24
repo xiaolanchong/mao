@@ -1,0 +1,30 @@
+{
+  "character": "必",
+  "pinyin": [
+    "bi4"
+  ],
+  "meaning": [
+    "непременно, обязательно; неизбежно; необходимо"
+  ],
+  "components": [
+    {
+      "key": "сердце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "心",
+      "丿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

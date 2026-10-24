@@ -1,0 +1,35 @@
+{
+  "character": "史",
+  "pinyin": [
+    "shi3"
+  ],
+  "meaning": [
+    "история"
+  ],
+  "components": [
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "中",
+      "乂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

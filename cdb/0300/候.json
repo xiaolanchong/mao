@@ -1,0 +1,42 @@
+{
+  "character": "候",
+  "pinyin": [
+    "hou4"
+  ],
+  "meaning": [
+    "1) ждать; ожидать; 2) время; сезон"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "вилы",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мушкетер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "丨",
+      "丩",
+      "矢"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

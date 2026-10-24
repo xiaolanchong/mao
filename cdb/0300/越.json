@@ -1,0 +1,36 @@
+{
+  "character": "越",
+  "pinyin": [
+    "yue4"
+  ],
+  "meaning": [
+    "перейти через; преодолеть (напр., барьер)"
+  ],
+  "components": [
+    {
+      "key": "летучий голландец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "багор",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "走",
+      "戈",
+      "𠄌"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

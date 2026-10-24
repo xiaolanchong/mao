@@ -1,0 +1,35 @@
+{
+  "character": "较",
+  "pinyin": [
+    "jiao4"
+  ],
+  "meaning": [
+    "1) сравнительно; по сравнению с кем-либо/чем-либо; относительно; 2) более"
+  ],
+  "components": [
+    {
+      "key": "телега",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отец",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "车",
+      "交"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "线",
+  "pinyin": [
+    "xian4"
+  ],
+  "meaning": [
+    "линия; нить"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "戈",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

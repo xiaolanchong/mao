@@ -1,0 +1,27 @@
+{
+  "character": "身",
+  "pinyin": [
+    "shen1"
+  ],
+  "meaning": [
+    "тело"
+  ],
+  "components": [
+    {
+      "key": "воевода",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Воевода прятал под своим зеленым (1 тон) камзолом сытое и упитанное ТЕЛО.",
+      2
+    ]
+  ],
+  "video": null
+}

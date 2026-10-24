@@ -1,0 +1,44 @@
+{
+  "character": "便",
+  "pinyin": [
+    "bian4",
+    "pian2"
+  ],
+  "meaning": [
+    "удобный; удобно; затем"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сабля турецкая",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "一",
+      "丿",
+      "㇒",
+      "日"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,47 @@
+{
+  "character": "使",
+  "pinyin": [
+    "shi3"
+  ],
+  "meaning": [
+    "применять, использовать; заставить"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "САБЛЯ ТУРЕЦКАЯ",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "turk_sabre",
+      "口",
+      "㇒"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Рот проглотил листик, но поперхнулся, тогда худой человечек ИСПОЛЬЗОВАЛ саблю, чтобы достать его из горла, он ЗАСТАВИЛ рта проглотить её и острием протолкнул лист.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -3,7 +3,7 @@
     sym:
       - char:
           rad: ⼂
-    name: ПЧЕЛКА
+    name: ПЧЕЛА
     images: bee.png
     text: В зависимости от создаваемой мнемосценки ее можно заменять на другие мелкие
       предметы.
@@ -395,9 +395,9 @@
     sym:
       - char:
           rad: ⼟
-    name: РОСТОК ИЗ ЗЕМЛИ
+    name: РОСТОК 
     images: sprout.png
-    text: ''
+    text: 'из земли'
     examples: 坭 坐
 - key:
     id: bomber
@@ -516,9 +516,9 @@
     sym:
       - char:
           rad: 寸
-    name: ПОДЪЕМНЫЙ КРАН С КРЮКОМ
+    name: КРАН
     images: crane.png
-    text: ''
+    text: 'подъемный кран, с крюком'
     examples: 尉 封 寺
 - key:
     id: roman_flag
@@ -913,9 +913,9 @@
     sym:
       - char:
           rad: 月
-    name: ЛУНОЛИКАЯ НЕФЕРТИТИ
+    name: НЕФЕРТИТИ
     images: nefertiti.png
-    text: с короной, это в Египте была царица такая
+    text: была такая луноликая египетская царица, в короне
     examples: 期 望
 - key:
     id: woman_with_shoulderyoke
@@ -1193,8 +1193,8 @@
           rad: 飛
     name: КОЛИБРИ
     images: colibry.png
-    text: ''
-    examples: справа традиционное написание радикала, используется редко
+    text: справа традиционное написание радикала, используется редко
+    examples: 
 - key:
     id: plug
     sym:
@@ -1505,7 +1505,7 @@
     sym:
       - char:
           rad: 禾
-    name: ДАМА ПИКОВАЯ
+    name: ПИКОВАЯ ДАМА
     images: queen_of_spades.png
     text: ''
     examples: 秃 程 稷
@@ -1594,18 +1594,18 @@
     sym:
       - char:
           rad: 亼
-    name: КРЫША ДОМА
+    name: КРЫША
     images: roof.png
-    text: ''
+    text: 'крыша доме'
     examples: 偷
 - key:
     id: fascist
     sym:
       - char:
           rad: 𥫗
-    name: АВТОМАТЧИК, ФАШИСТ
+    name: ФАШИСТЫ
     images: fascist.png
-    text: ''
+    text: 'фашисты с автоматами, ходят по одному, по двое, редко по трое...'
     examples: 筤 笸 蓝
 - key:
     id: peaked_cap
@@ -1736,7 +1736,7 @@
     sym:
       - char:
           rad: 𠃓
-    name: КОНЕК ГОРБУНОК
+    name: КОНЕК-ГОРБУНОК
     images: hunchback_horse.png
     text: ууу...как его скрючило :)
     examples: 场
@@ -1919,7 +1919,7 @@
     sym:
       - char:
           rad: 隹
-    name: ЗУБАСТИК ПТЕРОДАКТЕЛЬ
+    name: ЗУБАСТИК ПТЕРОДАКТИЛЬ
     images: pterodactyl.png
     text: ''
     examples: 难 谁
@@ -1993,7 +1993,7 @@
           rad: 耂
       - char:
           rad: 老
-    name: ПРЫГУН БУБКА
+    name: ПРЫГУН
     images: jumper.png
     text: справа другое написание радикала, кодируем как "прыгун-матросик", так как
       снизу сидит матросик
@@ -2208,7 +2208,7 @@
     sym:
       - char:
           rad: 至
-    name: СКЕЛЕТ-РЫБКА
+    name: СКЕЛЕТ РЫБЫ
     images: fish_skeleton.png
     text: ''
     examples: 致 臸 臷
@@ -2338,18 +2338,18 @@
     sym:
       - char:
           rad: 丷
-    name: ГЛАЗКИ, РОЖКИ, УСИКИ
+    name: ГЛАЗКИ
     images: eyes.png
-    text: и тому подобное
+    text: Глазки, рожки, усики и тому подобное
     examples: 併 兑
 - key:
     id: paws_little
     sym:
       - char:
           rad: 八
-    name: НОЖКИ, ЛАПКИ, ПАЛЬЧИКИ
+    name: НОЖКИ
     images: paws_little.png
-    text: и тому подобное
+    text: Ножки, лапки, пальчики и тому подобное
     examples: 帜
 - key:
     id: e_letter

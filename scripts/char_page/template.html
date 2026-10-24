@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru" data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Иероглиф — МАО</title>
+  <link rel="icon" href="../pagoda.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <style>
+    main { max-width: 850px !important; }
+    .character { font-size: clamp(3rem, 10vw, 5rem); line-height: 1.2; }
+    .story { font-size: 1.2rem; line-height: 1.9; white-space: pre-wrap; }
+    .compound { text-decoration: underline dotted; }
+    .tone-1 { color: #75d69c; }
+    .tone-2 { color: #ff858c; }
+    .tone-3 { color: #527de0; }
+    .tone-4 { color: var(--bs-body-color); }
+    video { max-height: 520px; background: #111; }
+  </style>
+</head>
+<body>
+<main class="container py-4 py-md-5">
+  <nav aria-label="Навигация" class="mb-4"><a href="../">МАО</a> / <a href="char_list.html">Иероглифы</a></nav>
+  <form class="d-flex gap-2 mb-4" action="hanzi.html" method="get">
+    <label for="query" class="visually-hidden">Иероглиф</label>
+    <input id="query" name="h" class="form-control" placeholder="Введите иероглиф, например 想" required>
+    <button class="btn btn-outline-light" type="submit">Открыть</button>
+  </form>
+  <nav id="character-band" aria-label="Соседние иероглифы" class="d-flex flex-wrap align-items-center justify-content-center gap-2 mb-4 fs-4" lang="zh-Hans" hidden></nav>
+  <p id="status" role="status" aria-live="polite">Введите иероглиф для просмотра.</p>
+  <article id="content" hidden>
+    <header class="mb-4"><h1 class="d-flex align-items-baseline gap-3 flex-wrap"><span id="character" class="character" lang="zh-Hans"></span><span id="pinyin" class="fs-2 text-body-secondary"></span></h1><h2 id="meaning" class="fs-3 mt-3"></h2></header>
+    <p><strong>Структура:</strong> <span id="structure" lang="zh-Hans"></span></p>
+    <p><strong>Мнемоключи:</strong> <span id="components"></span></p>
+    <section class="my-4"><h2 class="fs-5">Мнемоническая история</h2><div id="mnemonic" class="story"></div></section>
+    <section class="my-4"><h2 class="fs-5">Видео</h2><div id="video"></div></section>
+  </article>
+  <noscript>Для загрузки данных иероглифа включите JavaScript.</noscript>
+</main>
+<script id="character-index" type="application/json">{{INDEX}}</script>
+<script id="key-data" type="application/json">{{KEYS}}</script>
+<script id="character-order" type="application/json">{{CHARACTERS}}</script>
+<script src="../src/char_page.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "character": "图",
+  "pinyin": [
+    "tu2"
+  ],
+  "meaning": [
+    "рисунок, картина, изображение"
+  ],
+  "components": [
+    {
+      "key": "ограда",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "какашки",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пчела"
+    },
+    {
+      "key": "какашки",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пчела"
+    }
+  ],
+  "structure": {
+    "once": [
+      "囗",
+      "夂",
+      "丶",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Какающий страус Эму, в медной (2 тон) рамке, Это знаменитая КАРТИНА самого Энди Таккера.",
+      2
+    ]
+  ],
+  "video": null
+}

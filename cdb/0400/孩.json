@@ -1,0 +1,30 @@
+{
+  "character": "孩",
+  "pinyin": [
+    "hai2"
+  ],
+  "meaning": [
+    "ребёнок, дитя"
+  ],
+  "components": [
+    {
+      "key": "египетский посох",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "татуировка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "子",
+      "亥"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

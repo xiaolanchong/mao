@@ -1,0 +1,45 @@
+{
+  "character": "离",
+  "pinyin": [
+    "li2"
+  ],
+  "meaning": [
+    "разлучаться; расставаться; отстоять от; от; без"
+  ],
+  "components": [
+    {
+      "key": "кастрюля",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кости",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "турник",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "КУЛЕК КОНФЕТ",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "禸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

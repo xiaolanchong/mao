@@ -1,0 +1,40 @@
+{
+  "character": "落",
+  "pinyin": [
+    "luo4"
+  ],
+  "meaning": [
+    "опадать; ронять (листья, слёзы)"
+  ],
+  "components": [
+    {
+      "key": "колючая проволока",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艹",
+      "洛"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "character": "据",
+  "pinyin": [
+    "ju4"
+  ],
+  "meaning": [
+    "основываться, опираться; полагаться; в соответствии с; согласно; на основании; по"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "могилка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "居"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

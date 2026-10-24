@@ -1,0 +1,35 @@
+{
+  "character": "则",
+  "pinyin": [
+    "ze2"
+  ],
+  "meaning": [
+    "закон; правило; образец; норма"
+  ],
+  "components": [
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "贝",
+      "刂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Сирота владеет мечом по правилам, правила пишуться кровью (2 тон) тех, кто их не соблюдает",
+      2
+    ]
+  ],
+  "video": null
+}

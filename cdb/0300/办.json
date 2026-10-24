@@ -1,0 +1,30 @@
+{
+  "character": "办",
+  "pinyin": [
+    "ban4"
+  ],
+  "meaning": [
+    "делать; совершать; сделать; выполнить"
+  ],
+  "components": [
+    {
+      "key": "автомат калашникова",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "восемь",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "力",
+      "八"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

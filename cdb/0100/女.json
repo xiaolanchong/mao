@@ -1,0 +1,27 @@
+{
+  "character": "女",
+  "pinyin": [
+    "nü3"
+  ],
+  "meaning": [
+    "женщина"
+  ],
+  "components": [
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Женщина, девушка с голубыми (3 тон) волосами, Мальвина",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,42 @@
+{
+  "character": "接",
+  "pinyin": [
+    "jie1"
+  ],
+  "meaning": [
+    "1. вблизи",
+    "2. соединить"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "атлет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "立",
+      "女"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Я своими руками отрываю ручки ножки и голову у атлета и девушки, это мои деревянные (1 тон) куколки. Затем я все это пытаюсь СОЕДИНИТЬ вместе.",
+      2
+    ]
+  ],
+  "video": null
+}

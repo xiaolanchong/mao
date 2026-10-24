@@ -1,0 +1,29 @@
+{
+  "character": "七",
+  "pinyin": [
+    "qi1"
+  ],
+  "meaning": [
+    "семь"
+  ],
+  "components": [
+    {
+      "key": "матросик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "匕"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Матросик СЕМЬ раз отмерил ленту для своей бескозырки и отрезал.",
+      2
+    ]
+  ],
+  "video": null
+}

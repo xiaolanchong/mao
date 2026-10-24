@@ -1,0 +1,27 @@
+{
+  "character": "风",
+  "pinyin": [
+    "feng1"
+  ],
+  "meaning": [
+    "1)ветер; 2)передавать(ся)"
+  ],
+  "components": [
+    {
+      "key": "хоккейные ворота",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Только ВЕТЕР гуляет в хоккейных воротах летом на пустыре.",
+      2
+    ]
+  ],
+  "video": null
+}

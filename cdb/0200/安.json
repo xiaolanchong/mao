@@ -1,0 +1,35 @@
+{
+  "character": "安",
+  "pinyin": [
+    "an1"
+  ],
+  "meaning": [
+    "спокойный, тихий"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "女"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Если надеть на голову девушки деревянный(1 тон) берет, и прибить его гвоздиком, она становится СПОКОЙНОЙ и ТИХОЙ",
+      2
+    ]
+  ],
+  "video": null
+}

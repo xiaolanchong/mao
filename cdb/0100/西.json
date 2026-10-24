@@ -1,0 +1,27 @@
+{
+  "character": "西",
+  "pinyin": [
+    "xi1"
+  ],
+  "meaning": [
+    "запад"
+  ],
+  "components": [
+    {
+      "key": "МОЛОДОЙ ГРУЗИН",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Грузин давно просился на ЗАПАД, но так как он деревянная (1 тон) чурка, его туда не берут.",
+      2
+    ]
+  ],
+  "video": null
+}

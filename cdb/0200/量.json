@@ -1,0 +1,40 @@
+{
+  "character": "量",
+  "pinyin": [
+    "liang2"
+  ],
+  "meaning": [
+    "мерить, измерять"
+  ],
+  "components": [
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ИНДУС В ЧАЛМЕ",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "日",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Индус, скинув свою чалму, кидал весь день медное (2 тон) копье в солнце. Таким способом он хотел ИЗМЕРИТЬ, ОЦЕНИТЬ ВМЕСТИМОСТЬ, ЕМКОСТЬ этого солнца.",
+      2
+    ]
+  ],
+  "video": null
+}

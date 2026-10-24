@@ -1,0 +1,36 @@
+{
+  "character": "治",
+  "pinyin": [
+    "zhi4"
+  ],
+  "meaning": [
+    "управлять; лечить"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "厶",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

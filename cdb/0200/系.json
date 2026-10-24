@@ -1,0 +1,36 @@
+{
+  "character": "系",
+  "pinyin": [
+    "xi4"
+  ],
+  "meaning": [
+    "1) завязывать; связывать; привязывать 2) система, факультет; 3) иметь отношение"
+  ],
+  "components": [
+    {
+      "key": "НОС С ГОРБИНКОЙ",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "МАЛЕНЬКИЙ САМОЛЕТИК",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "㇒",
+      "幺",
+      "小"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

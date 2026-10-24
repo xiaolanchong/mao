@@ -1,0 +1,36 @@
+{
+  "character": "往",
+  "pinyin": [
+    "wang3"
+  ],
+  "meaning": [
+    "направляться куда-либо"
+  ],
+  "components": [
+    {
+      "key": "пюпитр",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "彳",
+      "王",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

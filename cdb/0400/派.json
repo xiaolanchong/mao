@@ -1,0 +1,35 @@
+{
+  "character": "派",
+  "pinyin": [
+    "pai4"
+  ],
+  "meaning": [
+    "группировка; партия; фракция; школа (напр., научная)"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крокодильчик слепой",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мафиози",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,47 @@
+{
+  "character": "资",
+  "pinyin": [
+    "zi1"
+  ],
+  "meaning": [
+    "капитал; средства"
+  ],
+  "components": [
+    {
+      "key": "теннисная ракетка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冫",
+      "⺈",
+      "人",
+      "贝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Сирота предлагает чубатому человечку свою ракетку в качестве уставного КАПИТАЛА или заемных СРЕДСТВ для их общего бизнеса.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "character": "况",
+  "pinyin": [
+    "kuang4"
+  ],
+  "meaning": [
+    "положение, обстановка"
+  ],
+  "components": [
+    {
+      "key": "теннисная ракетка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поломанная ножка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冫",
+      "兄"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

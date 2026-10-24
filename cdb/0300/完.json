@@ -1,0 +1,36 @@
+{
+  "character": "完",
+  "pinyin": [
+    "wan2"
+  ],
+  "meaning": [
+    "1) полный; целый; цельный; 2) завершить, закончить"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "табурет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "一",
+      "兀"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

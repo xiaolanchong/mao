@@ -1,0 +1,30 @@
+{
+  "character": "单",
+  "pinyin": [
+    "dan1"
+  ],
+  "meaning": [
+    "единственный; одинокий"
+  ],
+  "components": [
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бритва",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "丷",
+      "早"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

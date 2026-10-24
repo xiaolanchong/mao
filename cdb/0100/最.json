@@ -1,0 +1,41 @@
+{
+  "character": "最",
+  "pinyin": [
+    "zuì"
+  ],
+  "meaning": [
+    "самый; больше всего"
+  ],
+  "components": [
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ухо",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "曰",
+      "耳",
+      "又"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Пузан БОЛЬШЕ ВСЕГО любил валяться на солнце и греть пузо до черноты (4 тон), но от этого у него выросли только САМЫЕ большие в мире уши уши.",
+      2
+    ]
+  ],
+  "video": null
+}
