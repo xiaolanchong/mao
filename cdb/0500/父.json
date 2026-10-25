@@ -1,0 +1,24 @@
+{
+  "character": "父",
+  "pinyin": [
+    "fu4"
+  ],
+  "meaning": [
+    "отец"
+  ],
+  "components": [
+    {
+      "key": "отец",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "父"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

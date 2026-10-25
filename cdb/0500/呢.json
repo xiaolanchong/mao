@@ -1,0 +1,35 @@
+{
+  "character": "呢",
+  "pinyin": [
+    "ne"
+  ],
+  "meaning": [
+    "конечная частица, акцентирующая, ссылающаяся на кого-либо, что-либо, имеющая утвердительный, вопросительный и побудительный смысл (вопрос же?)"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "матросик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "尼"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,30 @@
+{
+  "character": "足",
+  "pinyin": [
+    "zu2"
+  ],
+  "meaning": [
+    "нога; ступня; достаточный"
+  ],
+  "components": [
+    {
+      "key": "дед Мазай",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "龰"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Мазай притопывает ступнями, ногти на которых выкрашены в красный (2 тон) лак",
+      2
+    ]
+  ],
+  "video": "video/mnemonics/0500/足.mp4"
+}

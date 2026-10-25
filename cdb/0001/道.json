@@ -10,7 +10,7 @@
   ],
   "components": [
     {
-      "key": "Маркитантка",
+      "key": "маркитантка",
       "ad_hoc": false,
       "position": null
     },
@@ -130,5 +130,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0001/道.mp4"
 }

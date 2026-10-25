@@ -1,0 +1,35 @@
+{
+  "character": "岁",
+  "pinyin": [
+    "sui4"
+  ],
+  "meaning": [
+    "год (возраста)"
+  ],
+  "components": [
+    {
+      "key": "горы",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кенгуру",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "山",
+      "夕"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Многие ГОДЫ кенгуру жил под знаменитой черной (4 тон) горой, недалеко от Сиднея и вот 5 ЛЕТ назад он издох",
+      2
+    ]
+  ],
+  "video": null
+}

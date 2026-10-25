@@ -1,0 +1,30 @@
+{
+  "character": "吧",
+  "pinyin": [
+    "ba"
+  ],
+  "meaning": [
+    "модальная частица риорич. вопроса, предложения; звукоподр. хрусту, треску, хлопку, выстрелу; бах; трах; хлоп"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "очкарик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "巴"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

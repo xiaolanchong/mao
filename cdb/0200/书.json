@@ -19,7 +19,9 @@
     }
   ],
   "structure": {
-    "once": [],
+    "once": [
+      "书"
+    ],
     "radical": []
   },
   "mnemonic": [

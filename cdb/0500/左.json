@@ -1,0 +1,30 @@
+{
+  "character": "左",
+  "pinyin": [
+    "zuo3"
+  ],
+  "meaning": [
+    "левый"
+  ],
+  "components": [
+    {
+      "key": "катана",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𠂇",
+      "工"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

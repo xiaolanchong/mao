@@ -1,0 +1,30 @@
+{
+  "character": "击",
+  "pinyin": [
+    "ji1"
+  ],
+  "meaning": [
+    "бить; ударять"
+  ],
+  "components": [
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "горы",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "山"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

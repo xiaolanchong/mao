@@ -1,0 +1,35 @@
+{
+  "character": "群",
+  "pinyin": [
+    "qun2"
+  ],
+  "meaning": [
+    "толпа; скопление; стадо; табун; также сч. сл."
+  ],
+  "components": [
+    {
+      "key": "пишущая ручка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "баран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "君",
+      "羊"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

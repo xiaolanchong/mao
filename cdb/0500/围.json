@@ -1,0 +1,35 @@
+{
+  "character": "围",
+  "pinyin": [
+    "wei2"
+  ],
+  "meaning": [
+    "окружать, огородить"
+  ],
+  "components": [
+    {
+      "key": "ограда",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "клещ",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "囗",
+      "韦"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Клеща нужно ОГОРОДИТЬ медной (2 тон) оградой. Только так его можно ОКРУЖИТЬ и поймать",
+      2
+    ]
+  ],
+  "video": null
+}

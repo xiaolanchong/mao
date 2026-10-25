@@ -1,0 +1,30 @@
+{
+  "character": "血",
+  "pinyin": [
+    "xie3"
+  ],
+  "meaning": [
+    "кровь"
+  ],
+  "components": [
+    {
+      "key": "торт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "皿",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Из торта с голубыми (3 тон) кремовыми розочками потекла КРОВЬ. С днем рождения !.",
+      2
+    ]
+  ],
+  "video": "video/mnemonics/0500/血.mp4"
+}

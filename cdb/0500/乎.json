@@ -1,0 +1,35 @@
+{
+  "character": "乎",
+  "pinyin": [
+    "hu1"
+  ],
+  "meaning": [
+    "фразовая частица в вэньяне - вопрос, удивление, предположение"
+  ],
+  "components": [
+    {
+      "key": "отбойный молоток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "㇒",
+      "丷"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

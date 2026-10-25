@@ -1,0 +1,31 @@
+{
+  "character": "律",
+  "pinyin": [
+    "lü4"
+  ],
+  "meaning": [
+    "закон; право"
+  ],
+  "components": [
+    {
+      "key": "пюпитр",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "перьевая ручка",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пишущая ручка"
+    }
+  ],
+  "structure": {
+    "once": [
+      "彳",
+      "聿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

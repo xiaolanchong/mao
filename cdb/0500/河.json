@@ -1,0 +1,40 @@
+{
+  "character": "河",
+  "pinyin": [
+    "he2"
+  ],
+  "meaning": [
+    "река"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "可"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "В рот вставили красный (2 тон) пластмассовый пистолет брызгалку. И прыскают водой. Вода смешивается со слюнями, течет и превращается в бурную РЕКУ",
+      2
+    ]
+  ],
+  "video": null
+}

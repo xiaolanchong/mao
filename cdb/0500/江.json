@@ -1,0 +1,35 @@
+{
+  "character": "江",
+  "pinyin": [
+    "jiang1"
+  ],
+  "meaning": [
+    "река"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "工"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Гантелю кидаем в РЕКУ покрытую зеленой (1тон) тиной. Всплеск брызг. На лицо попадают капли с запахом болота.",
+      2
+    ]
+  ],
+  "video": null
+}

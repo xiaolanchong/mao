@@ -1,0 +1,35 @@
+{
+  "character": "引",
+  "pinyin": [
+    "yin3"
+  ],
+  "meaning": [
+    "вести, направлять"
+  ],
+  "components": [
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "弓",
+      "丨"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Взяв длинный кнут и массивный кол, уже можно ВЕСТИ за собой людей, хотя лучше НАПРАВИТЬ их к голубым (3 тон) горам Тянь-Шаня.",
+      2
+    ]
+  ],
+  "video": null
+}

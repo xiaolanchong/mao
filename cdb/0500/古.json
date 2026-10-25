@@ -1,0 +1,30 @@
+{
+  "character": "古",
+  "pinyin": [
+    "gu3"
+  ],
+  "meaning": [
+    "древний"
+  ],
+  "components": [
+    {
+      "key": "могилка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Эта могилка с голубым стеклянным (3 тон) крестом самая ДРЕВНЯЯ, СТАРИННАЯ на этом кладбище.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,30 @@
+{
+  "character": "排",
+  "pinyin": [
+    "pai2"
+  ],
+  "meaning": [
+    "1) расставлять; располагать в ряд; 2) хлопать; 3) устраивать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "антенна",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "非"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

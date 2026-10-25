@@ -1,0 +1,40 @@
+{
+  "character": "属",
+  "pinyin": [
+    "shu3"
+  ],
+  "meaning": [
+    "1) относиться к; входить в; подчиняться; принадлежать; 2) быть рожденным в год..."
+  ],
+  "components": [
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "муха",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "турник",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "尸",
+      "禹"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

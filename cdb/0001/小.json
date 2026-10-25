@@ -8,13 +8,15 @@
   ],
   "components": [
     {
-      "key": "МАЛЕНЬКИЙ САМОЛЕТИК",
+      "key": "маленький самолетик",
       "ad_hoc": false,
       "position": null
     }
   ],
   "structure": {
-    "once": [],
+    "once": [
+      "小"
+    ],
     "radical": []
   },
   "mnemonic": [

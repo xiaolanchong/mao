@@ -1,0 +1,40 @@
+{
+  "character": "演",
+  "pinyin": [
+    "yan3"
+  ],
+  "meaning": [
+    "представлять; показывать (на сцене); выступать; актёрское представление"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чемодан",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "寅"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

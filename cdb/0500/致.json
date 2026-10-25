@@ -1,0 +1,30 @@
+{
+  "character": "致",
+  "pinyin": [
+    "zhi4"
+  ],
+  "meaning": [
+    "1) адресовать; направлять; передавать (напр., привет); 2) посылать, появляться, достигать"
+  ],
+  "components": [
+    {
+      "key": "скелет рыбы",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "至",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

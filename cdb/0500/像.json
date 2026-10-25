@@ -1,0 +1,40 @@
+{
+  "character": "像",
+  "pinyin": [
+    "xiang4"
+  ],
+  "meaning": [
+    "1) портрет; картина; статуя; 2) быть похожим"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "очки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "свинья",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "象"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "character": "希",
+  "pinyin": [
+    "xi1"
+  ],
+  "meaning": [
+    "надеяться; надежда; редкий"
+  ],
+  "components": [
+    {
+      "key": "кости",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "катана",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "флаг-штандарт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "乂",
+      "布"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

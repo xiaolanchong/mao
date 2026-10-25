@@ -1,0 +1,41 @@
+{
+  "character": "坐",
+  "pinyin": [
+    "zuo4"
+  ],
+  "meaning": [
+    "сидеть, сесть"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "土",
+      "人",
+      "人"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Как только росток из земли подрос, откуда ни возьмись, прибежали два негра (4 тон) и СЕЛИ на него, весело переглядываясь.",
+      2
+    ]
+  ],
+  "video": null
+}

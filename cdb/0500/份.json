@@ -1,0 +1,30 @@
+{
+  "character": "份",
+  "pinyin": [
+    "fen4"
+  ],
+  "meaning": [
+    "часть; пай; доля; порция; сч. сл."
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "юбочка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

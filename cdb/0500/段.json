@@ -1,0 +1,30 @@
+{
+  "character": "段",
+  "pinyin": [
+    "duan4"
+  ],
+  "meaning": [
+    "часть чего-либо"
+  ],
+  "components": [
+    {
+      "key": "расческа",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "Наполеон",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "殳"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

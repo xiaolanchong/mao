@@ -1,0 +1,30 @@
+{
+  "character": "故",
+  "pinyin": [
+    "gu4"
+  ],
+  "meaning": [
+    "причина; повод"
+  ],
+  "components": [
+    {
+      "key": "могилка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "古",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

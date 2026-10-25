@@ -1,0 +1,40 @@
+{
+  "character": "续",
+  "pinyin": [
+    "xu4"
+  ],
+  "meaning": [
+    "продлевать; продолжать; продолжение (напр., книги)"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "багор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "голова",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "卖"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

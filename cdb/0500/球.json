@@ -1,0 +1,40 @@
+{
+  "character": "球",
+  "pinyin": [
+    "qiu2"
+  ],
+  "meaning": [
+    "шар; сфера; земной шар; мяч"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "王",
+      "求"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

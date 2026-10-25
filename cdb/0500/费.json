@@ -1,0 +1,46 @@
+{
+  "character": "费",
+  "pinyin": [
+    "fei4"
+  ],
+  "meaning": [
+    "1) тратить; расходовать",
+    "2) расходы; издержки; плата"
+  ],
+  "components": [
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "弗",
+      "贝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Сироту бьют кнутом, за то, что он РАСТРАТИЛ деньги своего приюта, купив на них чугунный(4 тон) кол и фомку. Вот такая ПЛАТА за удовольствие быть обладателем кола и фомки",
+      2
+    ]
+  ],
+  "video": "video/mnemonics/0500/费.mp4"
+}

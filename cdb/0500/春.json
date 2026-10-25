@@ -1,0 +1,41 @@
+{
+  "character": "春",
+  "pinyin": [
+    "chun1"
+  ],
+  "meaning": [
+    "весна"
+  ],
+  "components": [
+    {
+      "key": "3",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "8",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "三",
+      "八",
+      "日"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ВЕСНОЙ восьмого марте (8.3) ярко светит солнце зеленые побеги из под снега",
+      2
+    ]
+  ],
+  "video": null
+}

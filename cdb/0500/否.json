@@ -1,0 +1,30 @@
+{
+  "character": "否",
+  "pinyin": [
+    "fou3"
+  ],
+  "meaning": [
+    "нет; отрицать"
+  ],
+  "components": [
+    {
+      "key": "нет",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "不",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

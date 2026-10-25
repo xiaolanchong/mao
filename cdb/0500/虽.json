@@ -1,0 +1,35 @@
+{
+  "character": "虽",
+  "pinyin": [
+    "sui1"
+  ],
+  "meaning": [
+    "хотя, хоть, пусть"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "муха",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "虫"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Мне в рот залетает жирная зеленая (1 тон) муха. И ХОТЯ мне это не нравиться. ПУСТЬ залетает. Я толерантный по жизни.",
+      2
+    ]
+  ],
+  "video": null
+}

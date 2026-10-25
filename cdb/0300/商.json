@@ -18,20 +18,22 @@
       "position": null
     },
     {
-      "key": "рот",
+      "key": "ножки",
       "ad_hoc": false,
       "position": null
     },
     {
-      "key": "ножки",
+      "key": "рот",
       "ad_hoc": false,
       "position": null
     }
   ],
   "structure": {
     "once": [
-      "□",
-      "冏"
+      "立",
+      "冂",
+      "八",
+      "口"
     ],
     "radical": []
   },

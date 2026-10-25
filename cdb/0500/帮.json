@@ -1,0 +1,35 @@
+{
+  "character": "帮",
+  "pinyin": [
+    "bang1"
+  ],
+  "meaning": [
+    "помогать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "флаг-штандарт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "邦",
+      "巾"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

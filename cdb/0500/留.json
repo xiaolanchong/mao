@@ -1,0 +1,35 @@
+{
+  "character": "留",
+  "pinyin": [
+    "liu2"
+  ],
+  "meaning": [
+    "задержать(ся); оставлять, оставаться"
+  ],
+  "components": [
+    {
+      "key": "G",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "автомат \"шмайсер\"",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поле",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "卯",
+      "田"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

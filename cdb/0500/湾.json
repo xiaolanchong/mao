@@ -1,0 +1,41 @@
+{
+  "character": "湾",
+  "pinyin": [
+    "wan1"
+  ],
+  "meaning": [
+    "залив, бухта"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "замминистра",
+      "ad_hoc": false,
+      "position": null,
+      "target": "министр"
+    },
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "弯"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Замминистр, полностью голый, взял кнут и начал стегать им по воде, брызги воды летели в разные стороны. Так в этой БУХТЕ, ЗАЛИВЕ еще его деды ловили вкуснейших зеленых (1 тон) черепах",
+      2
+    ]
+  ],
+  "video": "video/mnemonics/0500/湾.mp4"
+}

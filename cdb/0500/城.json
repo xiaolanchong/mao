@@ -1,0 +1,35 @@
+{
+  "character": "城",
+  "pinyin": [
+    "cheng2"
+  ],
+  "meaning": [
+    "(городская) стена; город"
+  ],
+  "components": [
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "стул",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "土",
+      "成"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

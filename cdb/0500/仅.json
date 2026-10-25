@@ -1,0 +1,30 @@
+{
+  "character": "仅",
+  "pinyin": [
+    "jin3"
+  ],
+  "meaning": [
+    "только; всего лишь"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "又"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

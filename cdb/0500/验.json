@@ -1,0 +1,35 @@
+{
+  "character": "验",
+  "pinyin": [
+    "yan4"
+  ],
+  "meaning": [
+    "проверять; исследовать; изучать"
+  ],
+  "components": [
+    {
+      "key": "лошадь",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ж/д стрелка",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "马",
+      "佥"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

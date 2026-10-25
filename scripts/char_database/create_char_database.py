@@ -242,8 +242,8 @@ def main() -> None:
     parser.add_argument('--keys', type=Path,
                         default=SCRIPT_DIR.parent.parent / 'src' / 'key_list.yaml',
                         help='YAML database of valid mnemonic key IDs')
-    parser.add_argument('--limit', type=int, default=500,
-                        help='Maximum number of unique character files to generate (default: 500)')
+    parser.add_argument('--limit', type=int, default=600,
+                        help='Maximum number of unique character files to generate (default: 600)')
     parser.add_argument('--refresh-structure', action='store_true',
                         help='Update structure in all existing NNNN/*.json files only')
     parser.add_argument('--refresh-videos', action='store_true',

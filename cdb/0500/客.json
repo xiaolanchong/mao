@@ -1,0 +1,40 @@
+{
+  "character": "客",
+  "pinyin": [
+    "ke4"
+  ],
+  "meaning": [
+    "гость, клиент"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "各"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "В черном берете (спецназ:) Черный (4 тон) страус, ясен перец, что из Африки, всегда желанный ГОСТЬ в моем рту. Хавал я таких ГОСТЕЙ спецназовцев.",
+      2
+    ]
+  ],
+  "video": null
+}

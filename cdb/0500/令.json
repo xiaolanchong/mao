@@ -1,0 +1,35 @@
+{
+  "character": "令",
+  "pinyin": [
+    "ling4"
+  ],
+  "meaning": [
+    "приказ; декрет; приказывать"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "фуражка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亽",
+      "龴"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

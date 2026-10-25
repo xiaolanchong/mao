@@ -1,0 +1,30 @@
+{
+  "character": "批",
+  "pinyin": [
+    "pi1"
+  ],
+  "meaning": [
+    "наложить резолюцию; санкционировать, утвердить"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "матросики",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "比"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

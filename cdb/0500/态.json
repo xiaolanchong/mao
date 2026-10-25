@@ -1,0 +1,35 @@
+{
+  "character": "态",
+  "pinyin": [
+    "tai4"
+  ],
+  "meaning": [
+    "состояние, положение"
+  ],
+  "components": [
+    {
+      "key": "великан",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сердце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "太",
+      "心"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

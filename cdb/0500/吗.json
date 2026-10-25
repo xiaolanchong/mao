@@ -1,0 +1,30 @@
+{
+  "character": "吗",
+  "pinyin": [
+    "ma"
+  ],
+  "meaning": [
+    "что?"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лошадь",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "马"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

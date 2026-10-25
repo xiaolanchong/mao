@@ -1,0 +1,30 @@
+{
+  "character": "维",
+  "pinyin": [
+    "wei2"
+  ],
+  "meaning": [
+    "связывать; соединять"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "зубастик птеродактиль",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "隹"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

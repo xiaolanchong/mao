@@ -1,0 +1,36 @@
+{
+  "character": "倒",
+  "pinyin": [
+    "dao3",
+    "dao4"
+  ],
+  "meaning": [
+    "падать; опрокидывать(ся); переворачиваться; противоположный"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "скелет рыбы",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "到"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}
