@@ -220,15 +220,24 @@
     images: scythe.png
     text: ''
     examples: 疗
+#- key:
+#    id: ankh
+#    sym:
+#      - char:
+#          rad: 子
+#    name: ЕГИПЕТСКИЙ ПОСОХ
+#    images: ankh.png
+#    text: или крест-анх, странная такая штука, непонятная
+#    examples: 孰 學
 - key:
-    id: ankh
+    id: child
     sym:
       - char:
           rad: 子
-    name: ЕГИПЕТСКИЙ ПОСОХ
-    images: ankh.png
-    text: или крест-анх, странная такая штука, непонятная
-    examples: 孰 學
+    name: РЕБЕНОК
+    images: child.png
+    text: ''
+    examples: 字 孰
 - key:
     id: chinup_bars
     sym:

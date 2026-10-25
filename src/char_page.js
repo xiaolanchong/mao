@@ -45,6 +45,11 @@ function keyLink(text, id) {
 function render(data) {
   document.title = `${data.character} — МАО`;
   el('character').textContent = data.character;
+  const encodedCharacter = encodeURIComponent(data.character);
+  el('dictionary-bkrs').href = `https://bkrs.info/slovo.php?ch=${encodedCharacter}`;
+  el('dictionary-mdbg').href = `https://www.mdbg.net/chinese/dictionary?page=chardict&cdcanoce=0&cdqchi=${encodedCharacter}`;
+  const unicodeCode = data.character.codePointAt(0).toString(16).toUpperCase();
+  el('dictionary-gxdq').href = `https://www.gxdq.com/zidian/${unicodeCode}.html`;
   el('pinyin').replaceChildren();
   data.pinyin.forEach((reading, index) => {
     if (index) el('pinyin').append(' / ');
