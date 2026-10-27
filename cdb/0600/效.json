@@ -1,0 +1,36 @@
+{
+  "character": "效",
+  "ranking": 682,
+  "pinyin": [
+    "xiao4"
+  ],
+  "meaning": [
+    "эффект; результат"
+  ],
+  "components": [
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "交",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

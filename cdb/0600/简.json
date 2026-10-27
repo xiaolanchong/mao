@@ -1,0 +1,36 @@
+{
+  "character": "简",
+  "ranking": 646,
+  "pinyin": [
+    "jian3"
+  ],
+  "meaning": [
+    "1) бамбуковые дощечки для письма (в древнем Китае); 2) простой"
+  ],
+  "components": [
+    {
+      "key": "фашисты",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дверь",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺮",
+      "间"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

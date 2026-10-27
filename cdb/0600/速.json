@@ -1,0 +1,37 @@
+{
+  "character": "速",
+  "ranking": 621,
+  "pinyin": [
+    "su4"
+  ],
+  "meaning": [
+    "скоро, быстро; быстрый"
+  ],
+  "components": [
+    {
+      "key": "маркитантка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "辶",
+      "木",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

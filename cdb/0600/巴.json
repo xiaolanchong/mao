@@ -1,0 +1,25 @@
+{
+  "character": "巴",
+  "ranking": 610,
+  "pinyin": [
+    "ba1"
+  ],
+  "meaning": [
+    "прилипать, приставать, присыхать"
+  ],
+  "components": [
+    {
+      "key": "очкарик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "巴"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

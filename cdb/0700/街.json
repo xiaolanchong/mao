@@ -1,0 +1,41 @@
+{
+  "character": "街",
+  "ranking": 793,
+  "pinyin": [
+    "jie1"
+  ],
+  "meaning": [
+    "улица"
+  ],
+  "components": [
+    {
+      "key": "консерватория",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "行",
+      "圭"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "На зеленой (1 тон) УЛИЦЕ из трещины пробились два ростка и тянулись к музыке, доносившейся из консерватории.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,31 @@
+{
+  "character": "阳",
+  "ranking": 620,
+  "pinyin": [
+    "yang2"
+  ],
+  "meaning": [
+    "солнце, ян (мужское начало в китайской философии)"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "Солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "日"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

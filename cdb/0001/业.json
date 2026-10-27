@@ -1,5 +1,6 @@
 {
   "character": "业",
+  "ranking": 99,
   "pinyin": [
     "ye4"
   ],
@@ -56,5 +57,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0100/业.mp4"
 }

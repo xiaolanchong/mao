@@ -1,0 +1,36 @@
+{
+  "character": "充",
+  "ranking": 691,
+  "pinyin": [
+    "chong1"
+  ],
+  "meaning": [
+    "полный; наполненный"
+  ],
+  "components": [
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поломанная ножка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亠",
+      "允"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

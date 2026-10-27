@@ -1,5 +1,6 @@
 {
   "character": "任",
+  "ranking": 247,
   "pinyin": [
     "ren4"
   ],
@@ -19,7 +20,7 @@
       "position": null
     },
     {
-      "key": "росток",
+      "key": "бомбардировщик",
       "ad_hoc": false,
       "position": null
     }
@@ -27,7 +28,8 @@
   "structure": {
     "once": [
       "亻",
-      "壬"
+      "㇒",
+      "士"
     ],
     "radical": []
   },

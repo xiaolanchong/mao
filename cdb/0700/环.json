@@ -1,0 +1,41 @@
+{
+  "character": "环",
+  "ranking": 786,
+  "pinyin": [
+    "huan2"
+  ],
+  "meaning": [
+    "кольцо, окружать"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "стрелка",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "王",
+      "不"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "У короля было медное (2 тон) КОЛЬЦО всевластия. Он подумал: \"Я воспользуюсь когда меня ОКРУЖАТ, а минутная стрелка укажет на копье\"",
+      2
+    ]
+  ],
+  "video": null
+}

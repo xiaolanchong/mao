@@ -1,0 +1,36 @@
+{
+  "character": "错",
+  "ranking": 704,
+  "pinyin": [
+    "cuo4"
+  ],
+  "meaning": [
+    "ошибка, неправильно"
+  ],
+  "components": [
+    {
+      "key": "королевский жокей",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "шлем",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "钅",
+      "昔"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

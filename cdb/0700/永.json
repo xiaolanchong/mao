@@ -1,0 +1,31 @@
+{
+  "character": "永",
+  "ranking": 760,
+  "pinyin": [
+    "yong3"
+  ],
+  "meaning": [
+    "вечный; длительный; долгий; навечно; вечно; всегда; перед отрицанием никогда"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

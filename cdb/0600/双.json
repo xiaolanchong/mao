@@ -1,0 +1,36 @@
+{
+  "character": "双",
+  "ranking": 603,
+  "pinyin": [
+    "shuang1"
+  ],
+  "meaning": [
+    "пара, дубль, два, оба, двойной"
+  ],
+  "components": [
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "又",
+      "又"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ДВА пуза, ОБА вымазанных в зеленке (1 тон), это всегда весело.",
+      2
+    ]
+  ],
+  "video": null
+}

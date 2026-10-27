@@ -1,0 +1,36 @@
+{
+  "character": "余",
+  "ranking": 740,
+  "pinyin": [
+    "yu2"
+  ],
+  "meaning": [
+    "оставаться в остатке; излишний; с лишним; свыше"
+  ],
+  "components": [
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "人",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

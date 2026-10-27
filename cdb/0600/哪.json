@@ -1,0 +1,37 @@
+{
+  "character": "哪",
+  "ranking": 633,
+  "pinyin": [
+    "na3",
+    "nei3"
+  ],
+  "meaning": [
+    "какой; который"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "Нефертити",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "那"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

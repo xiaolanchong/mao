@@ -1,0 +1,31 @@
+{
+  "character": "细",
+  "ranking": 676,
+  "pinyin": [
+    "xi4"
+  ],
+  "meaning": [
+    "тонкий, мелкий"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поле",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "田"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

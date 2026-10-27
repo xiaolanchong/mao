@@ -1,0 +1,27 @@
+{
+  "character": "假",
+  "ranking": 747,
+  "pinyin": [
+    "jia3",
+    "jia4"
+  ],
+  "meaning": [
+    "ложный; фальшивый; поддельный; отпуск"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "叚"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,31 @@
+{
+  "character": "优",
+  "ranking": 766,
+  "pinyin": [
+    "you1"
+  ],
+  "meaning": [
+    "прекрасный; превосходный; отличный"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "старый монах",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "尤"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

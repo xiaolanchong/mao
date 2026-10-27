@@ -1,0 +1,41 @@
+{
+  "character": "害",
+  "ranking": 654,
+  "pinyin": [
+    "hai4"
+  ],
+  "meaning": [
+    "вред; зло; бедствие; нанести вред"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "3",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

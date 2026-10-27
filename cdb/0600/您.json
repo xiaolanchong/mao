@@ -1,0 +1,41 @@
+{
+  "character": "您",
+  "ranking": 696,
+  "pinyin": [
+    "nin2"
+  ],
+  "meaning": [
+    "Вы; Вам (местоимение второго лица единственного числа)"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сердце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "你",
+      "心"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

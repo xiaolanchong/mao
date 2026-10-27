@@ -1,0 +1,36 @@
+{
+  "character": "织",
+  "ranking": 645,
+  "pinyin": [
+    "zhi1"
+  ],
+  "meaning": [
+    "ткать"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "只"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

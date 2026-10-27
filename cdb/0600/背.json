@@ -1,0 +1,37 @@
+{
+  "character": "背",
+  "ranking": 674,
+  "pinyin": [
+    "bei4",
+    "bei1"
+  ],
+  "meaning": [
+    "1) bèi спина; зад 2) повернуться спиной 3) за спиной, тайком 4) нарушать, идти в разрез 6) читать, заучивать наизусть 7) bēi нести на спине; взвалить на спину"
+  ],
+  "components": [
+    {
+      "key": "матросик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "столик",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "Нефертити",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "北",
+      "月"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

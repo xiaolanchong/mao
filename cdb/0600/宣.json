@@ -1,0 +1,41 @@
+{
+  "character": "宣",
+  "ranking": 662,
+  "pinyin": [
+    "xuan1"
+  ],
+  "meaning": [
+    "объявлять; декларировать"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "亘"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

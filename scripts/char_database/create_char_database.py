@@ -89,6 +89,11 @@ def validate_key_ids(records, key_ids: set[str], key_names: set[str] | None = No
                     if not value.rstrip('*').strip():
                         errors.append(f'{record["character"]} (CSV number {record["_number"]}), '
                                       f'Key {column}: empty ad hoc key')
+                elif '@' in value:
+                    name, _, character = value.partition('@')
+                    if not name.strip() or len(character.strip()) != 1:
+                        errors.append(f'{record["character"]} (CSV number {record["_number"]}), '
+                                      f'Key {column}: expected name@character, got {value!r}')
                 else:
                     target = value.partition('/')[2].strip() if '/' in value else value
                     if target.casefold() not in key_names and target not in key_ids:
@@ -174,6 +179,10 @@ def parse_component(value: str) -> dict:
     ad_hoc = value.endswith('*')
     if ad_hoc:
         return {'key': value.rstrip('*').strip(), 'ad_hoc': True, 'position': None}
+    if '@' in value:
+        name, _, character = value.partition('@')
+        return {'key': name.strip(), 'ad_hoc': False, 'position': None,
+                'character': character.strip()}
     name, separator, target = value.partition('/')
     component = {'key': name.strip(), 'ad_hoc': False, 'position': None}
     if separator:
@@ -216,6 +225,7 @@ def read_characters(path: Path, videos: dict[str, str]) -> list[dict]:
                 '_number': number,
                 '_key_values': [row[column].strip() for column in component_columns],
                 'character': character,
+                'ranking': number,
                 'pinyin': row[1].split(),
                 'meaning': [part.strip() for part in row[4].split('\n')
                             if part.strip()],
@@ -242,8 +252,8 @@ def main() -> None:
     parser.add_argument('--keys', type=Path,
                         default=SCRIPT_DIR.parent.parent / 'src' / 'key_list.yaml',
                         help='YAML database of valid mnemonic key IDs')
-    parser.add_argument('--limit', type=int, default=600,
-                        help='Maximum number of unique character files to generate (default: 600)')
+    parser.add_argument('--limit', type=int, default=800,
+                        help='Maximum number of unique character files to generate (default: 800)')
     parser.add_argument('--refresh-structure', action='store_true',
                         help='Update structure in all existing NNNN/*.json files only')
     parser.add_argument('--refresh-videos', action='store_true',

@@ -1,0 +1,46 @@
+{
+  "character": "停",
+  "ranking": 639,
+  "pinyin": [
+    "ting2"
+  ],
+  "meaning": [
+    "останавливать(ся); прекращать(ся)"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кайло",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "亭"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,37 @@
+{
+  "character": "卡",
+  "ranking": 800,
+  "pinyin": [
+    "ka3"
+  ],
+  "meaning": [
+    "звук ка, карта"
+  ],
+  "components": [
+    {
+      "key": "пограничник без собаки",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пограничник с собакой"
+    },
+    {
+      "key": "сучок",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "上",
+      "卜"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "верх и низ соединились в одном иероглифе! КАк? У меня на КАРТЕ морей (3 тон) такого нет",
+      2
+    ]
+  ],
+  "video": null
+}

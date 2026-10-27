@@ -1,0 +1,36 @@
+{
+  "character": "卖",
+  "ranking": 656,
+  "pinyin": [
+    "mai4"
+  ],
+  "meaning": [
+    "продавец; продать"
+  ],
+  "components": [
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "багор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "голова",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "买"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

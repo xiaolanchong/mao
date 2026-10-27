@@ -1,5 +1,6 @@
 {
   "character": "者",
+  "ranking": 101,
   "pinyin": [
     "zhe3"
   ],
@@ -53,5 +54,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0100/者.mp4"
 }

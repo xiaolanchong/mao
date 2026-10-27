@@ -1,0 +1,31 @@
+{
+  "character": "养",
+  "ranking": 722,
+  "pinyin": [
+    "yang3"
+  ],
+  "meaning": [
+    "кормить; содержать"
+  ],
+  "components": [
+    {
+      "key": "баран",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ласты",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

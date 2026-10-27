@@ -1,0 +1,36 @@
+{
+  "character": "杂",
+  "ranking": 777,
+  "pinyin": [
+    "za2"
+  ],
+  "meaning": [
+    "1) смешанный; смесь; 2) разнообразный; разный"
+  ],
+  "components": [
+    {
+      "key": "9",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "九",
+      "朩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

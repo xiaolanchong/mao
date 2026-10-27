@@ -1,0 +1,31 @@
+{
+  "character": "卫",
+  "ranking": 749,
+  "pinyin": [
+    "wei4"
+  ],
+  "meaning": [
+    "защищать; охранять; защита"
+  ],
+  "components": [
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "一"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

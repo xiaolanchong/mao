@@ -1,0 +1,41 @@
+{
+  "character": "陈",
+  "ranking": 700,
+  "pinyin": [
+    "chen2"
+  ],
+  "meaning": [
+    "расставлять, располагать"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "локоть",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "东"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

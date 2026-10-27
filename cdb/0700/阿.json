@@ -1,0 +1,36 @@
+{
+  "character": "阿",
+  "ranking": 703,
+  "pinyin": [
+    "a1"
+  ],
+  "meaning": [
+    "служит для записи звука «a»"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "可"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

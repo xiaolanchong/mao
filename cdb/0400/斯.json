@@ -1,5 +1,6 @@
 {
   "character": "斯",
+  "ranking": 439,
   "pinyin": [
     "si1"
   ],
@@ -7,6 +8,11 @@
     "этот; это"
   ],
   "components": [
+    {
+      "key": "мост",
+      "ad_hoc": false,
+      "position": null
+    },
     {
       "key": "гиббон",
       "ad_hoc": false,

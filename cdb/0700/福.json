@@ -1,0 +1,26 @@
+{
+  "character": "福",
+  "ranking": 772,
+  "pinyin": [
+    "fu2"
+  ],
+  "meaning": [
+    "счастье; благополучие; удача"
+  ],
+  "components": [
+    {
+      "key": "топ-модель",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "礻",
+      "畐"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

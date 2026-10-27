@@ -1,0 +1,36 @@
+{
+  "character": "甚",
+  "ranking": 664,
+  "pinyin": [
+    "shen4"
+  ],
+  "meaning": [
+    "очень; весьма; чрезвычайно"
+  ],
+  "components": [
+    {
+      "key": "мост",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "угол",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "甘",
+      "匹"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

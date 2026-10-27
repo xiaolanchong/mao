@@ -1,0 +1,31 @@
+{
+  "character": "项",
+  "ranking": 672,
+  "pinyin": [
+    "xiang4"
+  ],
+  "meaning": [
+    "пункт (изделие); шея (тыльная сторона)"
+  ],
+  "components": [
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "римский легионер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "工",
+      "页"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

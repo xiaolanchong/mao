@@ -1,5 +1,6 @@
 {
   "character": "书",
+  "ranking": 230,
   "pinyin": [
     "shu1"
   ],
@@ -20,7 +21,8 @@
   ],
   "structure": {
     "once": [
-      "书"
+      "书",
+      "丶"
     ],
     "radical": []
   },

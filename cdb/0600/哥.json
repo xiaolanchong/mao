@@ -1,0 +1,46 @@
+{
+  "character": "哥",
+  "ranking": 678,
+  "pinyin": [
+    "ge1"
+  ],
+  "meaning": [
+    "старший брат"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "可",
+      "可"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Два орущих рта, наставив друг на друга пистолеты, ссорятся. Это СТАРШИЕ БРАТЬЯ не поделили банку вкуснючей зеленки(1 тон).",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,5 +1,6 @@
 {
   "character": "工",
+  "ranking": 55,
   "pinyin": [
     "gong1"
   ],
@@ -55,5 +56,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0001/工.mp4"
 }

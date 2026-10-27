@@ -1,0 +1,36 @@
+{
+  "character": "武",
+  "ranking": 750,
+  "pinyin": [
+    "wu3"
+  ],
+  "meaning": [
+    "военный"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "вратарь",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пограничник с собакой",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "止"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

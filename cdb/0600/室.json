@@ -1,0 +1,31 @@
+{
+  "character": "室",
+  "ranking": 657,
+  "pinyin": [
+    "shi4"
+  ],
+  "meaning": [
+    "комната"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "скелет рыбы",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "至"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "诗",
+  "ranking": 763,
+  "pinyin": [
+    "shi1"
+  ],
+  "meaning": [
+    "стих; стихотворение; стихи; поэзия"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "寺"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

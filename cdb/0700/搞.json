@@ -1,0 +1,31 @@
+{
+  "character": "搞",
+  "ranking": 776,
+  "pinyin": [
+    "gao3"
+  ],
+  "meaning": [
+    "делать; заниматься; работать (в какой-либо области)"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мандарин",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "高"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

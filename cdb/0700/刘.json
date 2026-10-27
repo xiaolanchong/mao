@@ -1,0 +1,36 @@
+{
+  "character": "刘",
+  "ranking": 787,
+  "pinyin": [
+    "liu2"
+  ],
+  "meaning": [
+    "фамилия Лю"
+  ],
+  "components": [
+    {
+      "key": "строитель",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "文",
+      "刂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Строитель по фамилии Лю носил с собой меч, потому что говорил: \"Никогда не знаешь, когда стройка превратится в эпический бой!\"",
+      2
+    ]
+  ],
+  "video": null
+}

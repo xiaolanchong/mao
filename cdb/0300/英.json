@@ -1,5 +1,6 @@
 {
   "character": "英",
+  "ranking": 364,
   "pinyin": [
     "ying1"
   ],
@@ -33,5 +34,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0300/英.mp4"
 }

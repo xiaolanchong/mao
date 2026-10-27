@@ -1,0 +1,36 @@
+{
+  "character": "益",
+  "ranking": 753,
+  "pinyin": [
+    "yi4"
+  ],
+  "meaning": [
+    "выгода; польза; полезный"
+  ],
+  "components": [
+    {
+      "key": "аист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "8",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "батарея",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "皿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

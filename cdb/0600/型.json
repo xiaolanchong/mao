@@ -1,0 +1,36 @@
+{
+  "character": "型",
+  "ranking": 679,
+  "pinyin": [
+    "xing2"
+  ],
+  "meaning": [
+    "форма для литья; модель"
+  ],
+  "components": [
+    {
+      "key": "японские ворота",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "刑",
+      "土"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

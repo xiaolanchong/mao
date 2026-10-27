@@ -1,0 +1,31 @@
+{
+  "character": "竟",
+  "ranking": 693,
+  "pinyin": [
+    "jing4"
+  ],
+  "meaning": [
+    "вопреки ожиданиям; всё-таки; оказывается; в конце концов"
+  ],
+  "components": [
+    {
+      "key": "атлет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "старый бомж",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "音",
+      "儿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

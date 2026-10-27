@@ -1,0 +1,31 @@
+{
+  "character": "升",
+  "ranking": 768,
+  "pinyin": [
+    "sheng1"
+  ],
+  "meaning": [
+    "поднимать(ся)"
+  ],
+  "components": [
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножницы",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艹",
+      "㇒"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

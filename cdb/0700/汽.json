@@ -1,0 +1,36 @@
+{
+  "character": "汽",
+  "ranking": 715,
+  "pinyin": [
+    "qi4"
+  ],
+  "meaning": [
+    "пар"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мотоциклист",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "气"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Черный (4 тон) мотоциклист мчался на огромной скорости и брызги воды, что на него попадали сразу превращались в ПАР",
+      2
+    ]
+  ],
+  "video": null
+}

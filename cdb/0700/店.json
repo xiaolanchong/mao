@@ -1,0 +1,31 @@
+{
+  "character": "店",
+  "ranking": 737,
+  "pinyin": [
+    "dian4"
+  ],
+  "meaning": [
+    "коммерческое заведение, напр., магазин; лавка; гостиница"
+  ],
+  "components": [
+    {
+      "key": "крокодил",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "танк",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "广",
+      "占"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,5 +1,6 @@
 {
   "character": "我",
+  "ranking": 8,
   "pinyin": [
     "wo3"
   ],
@@ -13,6 +14,11 @@
       "position": null
     },
     {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
       "key": "тхэквондист",
       "ad_hoc": false,
       "position": null
@@ -20,7 +26,8 @@
   ],
   "structure": {
     "once": [
-      "手",
+      "扌",
+      "㇒",
       "戈"
     ],
     "radical": []

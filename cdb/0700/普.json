@@ -1,0 +1,36 @@
+{
+  "character": "普",
+  "ranking": 765,
+  "pinyin": [
+    "pu3"
+  ],
+  "meaning": [
+    "всеобщий; универсальный"
+  ],
+  "components": [
+    {
+      "key": "аист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "камыши",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "並",
+      "日"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

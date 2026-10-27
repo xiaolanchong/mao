@@ -1,0 +1,41 @@
+{
+  "character": "坚",
+  "ranking": 759,
+  "pinyin": [
+    "jian1"
+  ],
+  "meaning": [
+    "крепкий; прочный; твёрдый"
+  ],
+  "components": [
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "土"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

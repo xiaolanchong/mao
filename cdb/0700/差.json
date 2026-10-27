@@ -1,0 +1,33 @@
+{
+  "character": "差",
+  "ranking": 707,
+  "pinyin": [
+    "cha4",
+    "cha1",
+    "chai1"
+  ],
+  "meaning": [
+    "1) различие; 2) нехватка; 3) плохо"
+  ],
+  "components": [
+    {
+      "key": "баран",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "羊",
+      "工"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

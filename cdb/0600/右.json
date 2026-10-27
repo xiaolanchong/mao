@@ -1,0 +1,36 @@
+{
+  "character": "右",
+  "ranking": 619,
+  "pinyin": [
+    "you4"
+  ],
+  "meaning": [
+    "право"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "катана",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𠂇",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Рот нужно нарезать мечом катаной только справа, это главное правила при приготовлении черного (4 тон) осьминога.",
+      2
+    ]
+  ],
+  "video": null
+}

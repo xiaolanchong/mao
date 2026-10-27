@@ -1,0 +1,36 @@
+{
+  "character": "班",
+  "ranking": 669,
+  "pinyin": [
+    "ban1"
+  ],
+  "meaning": [
+    "класс"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "玨",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

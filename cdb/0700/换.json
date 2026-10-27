@@ -1,0 +1,36 @@
+{
+  "character": "换",
+  "ranking": 725,
+  "pinyin": [
+    "huan4"
+  ],
+  "meaning": [
+    "менять; обменивать; разменивать (деньги)"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "штангист",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "奂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

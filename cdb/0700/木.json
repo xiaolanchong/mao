@@ -1,0 +1,31 @@
+{
+  "character": "木",
+  "ranking": 752,
+  "pinyin": [
+    "mu4"
+  ],
+  "meaning": [
+    "лес(древесина)"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "八"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ДЕРЕВО, в него попало молния и поэтому оно черное (4 тон)",
+      2
+    ]
+  ],
+  "video": null
+}

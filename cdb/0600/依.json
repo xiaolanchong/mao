@@ -1,0 +1,31 @@
+{
+  "character": "依",
+  "ranking": 684,
+  "pinyin": [
+    "yi1"
+  ],
+  "meaning": [
+    "опираться на что-либо; основываться на чём-либо"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кимоно",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "衣"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

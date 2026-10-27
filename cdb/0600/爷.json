@@ -1,0 +1,31 @@
+{
+  "character": "爷",
+  "ranking": 687,
+  "pinyin": [
+    "ye2"
+  ],
+  "meaning": [
+    "отец"
+  ],
+  "components": [
+    {
+      "key": "отец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "父",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

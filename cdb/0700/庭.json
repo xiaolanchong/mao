@@ -1,0 +1,41 @@
+{
+  "character": "庭",
+  "ranking": 796,
+  "pinyin": [
+    "ting2"
+  ],
+  "meaning": [
+    "двор, суд"
+  ],
+  "components": [
+    {
+      "key": "крокодил",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "невеста",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "广",
+      "廷"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Во ДВОРЕ шёл СУД: король рассматривал дело о том, кто съел земляничный (2 тон) пирог. Невеста клялась, что это крокодил. Крокодил только улыбался — и на зубах у него были крошки.",
+      2
+    ]
+  ],
+  "video": null
+}

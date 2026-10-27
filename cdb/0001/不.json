@@ -1,5 +1,6 @@
 {
   "character": "不",
+  "ranking": 4,
   "pinyin": [
     "bu4"
   ],
@@ -56,5 +57,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0001/不.mp4"
 }

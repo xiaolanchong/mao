@@ -1,0 +1,36 @@
+{
+  "character": "超",
+  "ranking": 671,
+  "pinyin": [
+    "chao1"
+  ],
+  "meaning": [
+    "превосходящий; супер; обгонять; перегонять; опережать; превышать"
+  ],
+  "components": [
+    {
+      "key": "летучий голландец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "автомат \"шмайсер\"",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "走",
+      "召"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

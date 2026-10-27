@@ -1,0 +1,46 @@
+{
+  "character": "脑",
+  "ranking": 648,
+  "pinyin": [
+    "nao3"
+  ],
+  "meaning": [
+    "мозг"
+  ],
+  "components": [
+    {
+      "key": "Нефертити",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кости",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кастрюля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "月",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Нефертити варит в кастрюли МОЗГовые косточки, время от времени приподнимает стеклянную (3 тон) крышку, чтобы втянуть своим шнобелем этот дурманящий аромат МОЗГОВ.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,26 @@
+{
+  "character": "占",
+  "ranking": 699,
+  "pinyin": [
+    "zhan1"
+  ],
+  "meaning": [
+    "гадать; предсказывать"
+  ],
+  "components": [
+    {
+      "key": "танк",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺊",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

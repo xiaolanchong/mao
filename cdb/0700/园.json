@@ -1,0 +1,36 @@
+{
+  "character": "园",
+  "ranking": 723,
+  "pinyin": [
+    "yuan2"
+  ],
+  "meaning": [
+    "сад; парк; огород"
+  ],
+  "components": [
+    {
+      "key": "ограда",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "табурет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "囗",
+      "元"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

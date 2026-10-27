@@ -1,0 +1,36 @@
+{
+  "character": "构",
+  "ranking": 748,
+  "pinyin": [
+    "gou4"
+  ],
+  "meaning": [
+    "строить, сооружать; конструировать"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "Буратино",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "勾"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

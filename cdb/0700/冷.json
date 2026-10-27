@@ -1,0 +1,41 @@
+{
+  "character": "冷",
+  "ranking": 773,
+  "pinyin": [
+    "leng3"
+  ],
+  "meaning": [
+    "холод"
+  ],
+  "components": [
+    {
+      "key": "теннисная ракетка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "фуражка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冫",
+      "令"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

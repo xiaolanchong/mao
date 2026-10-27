@@ -1,0 +1,31 @@
+{
+  "character": "订",
+  "ranking": 745,
+  "pinyin": [
+    "ding4"
+  ],
+  "meaning": [
+    "заключить; разработать; исправить"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кайло",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "丁"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

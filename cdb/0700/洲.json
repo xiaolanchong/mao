@@ -1,0 +1,31 @@
+{
+  "character": "洲",
+  "ranking": 798,
+  "pinyin": [
+    "zhou1"
+  ],
+  "meaning": [
+    "материк; континент"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "река",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "州"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

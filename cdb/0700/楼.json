@@ -1,0 +1,42 @@
+{
+  "character": "楼",
+  "ranking": 797,
+  "pinyin": [
+    "lou2"
+  ],
+  "meaning": [
+    "1. здание, дом",
+    "2. этаж"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рис",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "娄"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Девушка построила на дереве из риса и его ошметков, пяти ЭТАЖНОЕ ЗДАНИЕ. И зачем-то каждый ЭТАЖ безвкусно выкрасила красной (2 тон) краской",
+      2
+    ]
+  ],
+  "video": null
+}

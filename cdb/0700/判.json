@@ -1,0 +1,32 @@
+{
+  "character": "判",
+  "ranking": 756,
+  "pinyin": [
+    "pan4"
+  ],
+  "meaning": [
+    "решать, определять, выносить решение, приговор"
+  ],
+  "components": [
+    {
+      "key": "половина",
+      "ad_hoc": false,
+      "position": null,
+      "character": "半"
+    },
+    {
+      "key": "меч",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "半",
+      "刂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

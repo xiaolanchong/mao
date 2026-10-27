@@ -1,0 +1,36 @@
+{
+  "character": "笔",
+  "ranking": 720,
+  "pinyin": [
+    "bi3"
+  ],
+  "meaning": [
+    "кисть, карандаш, ручка"
+  ],
+  "components": [
+    {
+      "key": "фашисты",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "перо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺮",
+      "毛"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Фашисты из голубых (3 тон) перьев скручивают КИСТОЧКИ, КАРАНДАШИ, РУЧКИ которые затем и продают на базаре.",
+      2
+    ]
+  ],
+  "video": null
+}

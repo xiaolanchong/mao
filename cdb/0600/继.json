@@ -1,0 +1,36 @@
+{
+  "character": "继",
+  "ranking": 683,
+  "pinyin": [
+    "ji4"
+  ],
+  "meaning": [
+    "продолжать(ся); следовать за"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "угол",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "рис",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

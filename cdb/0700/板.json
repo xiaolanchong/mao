@@ -1,0 +1,36 @@
+{
+  "character": "板",
+  "ranking": 710,
+  "pinyin": [
+    "ban3"
+  ],
+  "meaning": [
+    "доска; плита"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крокодильчик слепой",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "反"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,46 @@
+{
+  "character": "座",
+  "ranking": 729,
+  "pinyin": [
+    "zuo4"
+  ],
+  "meaning": [
+    "место, сиденье"
+  ],
+  "components": [
+    {
+      "key": "крокодил",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "广",
+      "坐"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Крокодил Гена решил ПРИСЕСТЬ на росток из земли, он не заметил, что этом месте уже сидели два негритенка (4 тон). Он не долго раздумывая устроил себе СИДЕНЬЕ прямо на них.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "妈",
+  "ranking": 606,
+  "pinyin": [
+    "ma1"
+  ],
+  "meaning": [
+    "мама"
+  ],
+  "components": [
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лошадь",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "女",
+      "马"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Девушка с деревянной( 1тон) лошадью моя МАМА. Она сама ее выстругала мне на день рождения.",
+      2
+    ]
+  ],
+  "video": null
+}

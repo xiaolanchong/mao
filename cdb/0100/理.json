@@ -1,5 +1,6 @@
 {
   "character": "理",
+  "ranking": 105,
   "pinyin": [
     "li3"
   ],
@@ -114,5 +115,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0100/理.mp4"
 }

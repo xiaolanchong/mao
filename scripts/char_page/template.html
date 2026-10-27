@@ -11,6 +11,11 @@
     .character { font-size: clamp(3rem, 10vw, 5rem); line-height: 1.2; }
     .story { font-size: 1.2rem; line-height: 1.9; white-space: pre-wrap; }
     .compound { text-decoration: underline dotted; }
+    .frequency { display: inline-flex; gap: 4px; color: var(--bs-body-color); }
+    .frequency span { width: 7px; height: 24px; border: 1px solid currentColor; border-radius: 1px; }
+    .frequency[data-level="3"] span,
+    .frequency[data-level="2"] span:nth-child(-n+2),
+    .frequency[data-level="1"] span:first-child { background: currentColor; }
     .tone-1 { color: #75d69c; }
     .tone-2 { color: #ff858c; }
     .tone-3 { color: #527de0; }
@@ -29,7 +34,13 @@
   <nav id="character-band" aria-label="Соседние иероглифы" class="d-flex flex-wrap align-items-center justify-content-center gap-2 mb-4 fs-4" lang="zh-Hans" hidden></nav>
   <p id="status" role="status" aria-live="polite">Введите иероглиф для просмотра.</p>
   <article id="content" hidden>
-    <header class="mb-4"><h1 class="d-flex align-items-baseline gap-3 flex-wrap"><span id="character" class="character" lang="zh-Hans"></span><span id="pinyin" class="fs-2 text-body-secondary"></span></h1><h2 id="meaning" class="fs-3 mt-3"></h2></header>
+    <header class="mb-4">
+      <div class="d-flex align-items-center justify-content-between gap-3">
+        <h1 class="d-flex align-items-baseline gap-3 flex-wrap mb-0"><span id="character" class="character" lang="zh-Hans"></span><span id="pinyin" class="fs-2 text-body-secondary"></span></h1>
+        <span id="frequency" class="frequency flex-shrink-0" role="img" hidden><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></span>
+      </div>
+      <h2 id="meaning" class="fs-3 mt-3"></h2>
+    </header>
     <p><strong>Структура:</strong> <span id="structure" lang="zh-Hans"></span></p>
     <p><strong>Мнемоключи:</strong> <span id="components"></span></p>
     <section class="my-4"><h2 class="fs-5">Мнемоническая история</h2><div id="mnemonic" class="story"></div></section>

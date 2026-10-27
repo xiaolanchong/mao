@@ -1,0 +1,36 @@
+{
+  "character": "富",
+  "ranking": 692,
+  "pinyin": [
+    "fu4"
+  ],
+  "meaning": [
+    "богатый; разбогатеть"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поле",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "畐"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

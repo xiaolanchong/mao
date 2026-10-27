@@ -1,0 +1,36 @@
+{
+  "character": "波",
+  "ranking": 660,
+  "pinyin": [
+    "bo1"
+  ],
+  "meaning": [
+    "волна"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "казак с саблей",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "皮"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Казак шашкой водит по воде, и появляются ВОЛНЫ И РЯБЬ. Раздвигая при этом зеленую(1 тон) тину. Прямо идиллия.",
+      2
+    ]
+  ],
+  "video": null
+}

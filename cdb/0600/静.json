@@ -1,0 +1,36 @@
+{
+  "character": "静",
+  "ranking": 632,
+  "pinyin": [
+    "jing4"
+  ],
+  "meaning": [
+    "1) спокойный, неподвижный, тихий; 2) стихнуть; затихнуть"
+  ],
+  "components": [
+    {
+      "key": "электричка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пишущая ручка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "青",
+      "争"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,37 @@
+{
+  "character": "省",
+  "ranking": 615,
+  "pinyin": [
+    "sheng3",
+    "xing3"
+  ],
+  "meaning": [
+    "1) экономить; беречь; 2) провинция"
+  ],
+  "components": [
+    {
+      "key": "маленький самолетик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лестница",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "少",
+      "目"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

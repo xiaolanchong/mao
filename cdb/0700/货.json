@@ -1,0 +1,36 @@
+{
+  "character": "货",
+  "ranking": 767,
+  "pinyin": [
+    "huo4"
+  ],
+  "meaning": [
+    "товар; груз; товарный; грузовой"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "7",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "化",
+      "贝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

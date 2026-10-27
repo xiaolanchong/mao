@@ -1,5 +1,6 @@
 {
   "character": "动",
+  "ranking": 97,
   "pinyin": [
     "dong4"
   ],
@@ -97,5 +98,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0001/动.mp4"
 }

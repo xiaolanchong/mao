@@ -1,0 +1,31 @@
+{
+  "character": "雨",
+  "ranking": 751,
+  "pinyin": [
+    "yu3"
+  ],
+  "meaning": [
+    "дождь"
+  ],
+  "components": [
+    {
+      "key": "дождик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "帀",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Дождик за окном, и есть ДОЖДЬ. Весело капает за стеклом (3 тон)",
+      2
+    ]
+  ],
+  "video": null
+}

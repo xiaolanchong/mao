@@ -1,0 +1,36 @@
+{
+  "character": "评",
+  "ranking": 686,
+  "pinyin": [
+    "ping4"
+  ],
+  "meaning": [
+    "оценивать; давать оценку; характеризовать; критиковать"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отбойный молоток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "平"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

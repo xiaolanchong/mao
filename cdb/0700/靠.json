@@ -1,0 +1,36 @@
+{
+  "character": "靠",
+  "ranking": 754,
+  "pinyin": [
+    "kao4"
+  ],
+  "meaning": [
+    "зависеть; опираться; прислонять(ся)"
+  ],
+  "components": [
+    {
+      "key": "Маугли",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "антенна",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺧",
+      "啡"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

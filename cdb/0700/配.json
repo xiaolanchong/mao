@@ -1,0 +1,31 @@
+{
+  "character": "配",
+  "ranking": 775,
+  "pinyin": [
+    "pei4"
+  ],
+  "meaning": [
+    "сочетаться (браком); подходить друг другу (напр., о супружеской паре)"
+  ],
+  "components": [
+    {
+      "key": "молодой грузин",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "морской конек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "酉",
+      "己"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

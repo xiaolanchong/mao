@@ -1,0 +1,38 @@
+{
+  "character": "歌",
+  "ranking": 708,
+  "pinyin": [
+    "ge1"
+  ],
+  "meaning": [
+    "песня"
+  ],
+  "components": [
+    {
+      "key": "брат",
+      "ad_hoc": false,
+      "position": null,
+      "character": "哥"
+    },
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "哥",
+      "⺈",
+      "人"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "村",
+  "ranking": 607,
+  "pinyin": [
+    "cun1"
+  ],
+  "meaning": [
+    "деревня"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Дерево нужно выкорчевать, краном. И построить на этом месте ДЕРЕВНЮ, конечно из этого же дерева(1 тон)",
+      2
+    ]
+  ],
+  "video": null
+}

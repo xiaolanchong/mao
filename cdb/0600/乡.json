@@ -1,0 +1,31 @@
+{
+  "character": "乡",
+  "ranking": 613,
+  "pinyin": [
+    "xiang1"
+  ],
+  "meaning": [
+    "деревня; село"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "丿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "ключ",
+      2
+    ]
+  ],
+  "video": null
+}

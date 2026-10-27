@@ -1,0 +1,26 @@
+{
+  "character": "源",
+  "ranking": 713,
+  "pinyin": [
+    "yuan2"
+  ],
+  "meaning": [
+    "исток (напр., реки); источник (напр., света)"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "原"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

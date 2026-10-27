@@ -1,0 +1,31 @@
+{
+  "character": "印",
+  "ranking": 638,
+  "pinyin": [
+    "yin4"
+  ],
+  "meaning": [
+    "печать"
+  ],
+  "components": [
+    {
+      "key": "буква Е",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тесак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "卩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

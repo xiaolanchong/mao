@@ -1,0 +1,31 @@
+{
+  "character": "叶",
+  "ranking": 770,
+  "pinyin": [
+    "ye4"
+  ],
+  "meaning": [
+    "лист"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "十"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

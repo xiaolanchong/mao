@@ -1,0 +1,31 @@
+{
+  "character": "罗",
+  "ranking": 701,
+  "pinyin": [
+    "luo2"
+  ],
+  "meaning": [
+    "сеть (для ловли птиц); ловить сетью"
+  ],
+  "components": [
+    {
+      "key": "сетка теннисная",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кенгуру",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "罒",
+      "夕"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,32 @@
+{
+  "character": "米",
+  "ranking": 663,
+  "pinyin": [
+    "mi3"
+  ],
+  "meaning": [
+    "1. рис",
+    "2. метр"
+  ],
+  "components": [
+    {
+      "key": "рис",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "丷"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Рис он и есть РИС, но лучше его хранить в МЕТРОВЫХ стеклянных (3 тон) банках",
+      2
+    ]
+  ],
+  "video": null
+}

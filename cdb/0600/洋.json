@@ -1,0 +1,37 @@
+{
+  "character": "洋",
+  "ranking": 634,
+  "pinyin": [
+    "yang2"
+  ],
+  "meaning": [
+    "1. иностранный",
+    "2. океан"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "баран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "羊"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Водяного красного (2 тон) ИНОСТРАННОГО барана нам привезли из-за ОКЕАНА",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "免",
+  "ranking": 795,
+  "pinyin": [
+    "mian3"
+  ],
+  "meaning": [
+    "избежать; избавиться"
+  ],
+  "components": [
+    {
+      "key": "чубчик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "очки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ножки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺈",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

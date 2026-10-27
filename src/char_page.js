@@ -45,6 +45,16 @@ function keyLink(text, id) {
 function render(data) {
   document.title = `${data.character} — МАО`;
   el('character').textContent = data.character;
+  const ranking = data.ranking;
+  const frequency = el('frequency');
+  frequency.hidden = !Number.isInteger(ranking) || ranking < 1;
+  if (!frequency.hidden) {
+    const level = ranking <= 1000 ? 3 : ranking <= 2000 ? 2 : ranking <= 3000 ? 1 : 0;
+    const category = ['Редкие', 'Менее частые', 'Частые', 'Очень частые'][level];
+    frequency.dataset.level = level;
+    frequency.title = `Частотный ранг: ${ranking} — ${category}`;
+    frequency.setAttribute('aria-label', frequency.title);
+  }
   const encodedCharacter = encodeURIComponent(data.character);
   el('dictionary-bkrs').href = `https://bkrs.info/slovo.php?ch=${encodedCharacter}`;
   el('dictionary-mdbg').href = `https://www.mdbg.net/chinese/dictionary?page=chardict&cdcanoce=0&cdqchi=${encodedCharacter}`;
@@ -63,6 +73,13 @@ function render(data) {
   const components = data.components || [];
   components.forEach((component, index) => {
     if (index) el('components').append(', ');
+    if (component.character && !component.ad_hoc) {
+      const link = document.createElement('a');
+      link.textContent = component.key;
+      link.href = 'hanzi.html?h=' + encodeURIComponent(component.character);
+      el('components').append(link);
+      return;
+    }
     const target = component.target ?? component.key;
     const match = component.ad_hoc ? undefined : Object.entries(keys).find(([id, key]) => id === target || key.name.toLocaleLowerCase('ru') === target.toLocaleLowerCase('ru') || key.name.toLocaleLowerCase('ru').split(/[,;]/).some(name => name.trim() === target.toLocaleLowerCase('ru')));
     el('components').append(match ? keyLink(component.key, match[0]) : document.createTextNode(component.key));

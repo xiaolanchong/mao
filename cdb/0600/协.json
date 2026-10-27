@@ -1,0 +1,41 @@
+{
+  "character": "协",
+  "ranking": 695,
+  "pinyin": [
+    "xie2"
+  ],
+  "meaning": [
+    "кооперироваться; сотрудничать"
+  ],
+  "components": [
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "автомат Калашникова",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "十",
+      "办"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

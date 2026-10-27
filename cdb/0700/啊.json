@@ -1,0 +1,41 @@
+{
+  "character": "啊",
+  "ranking": 789,
+  "pinyin": [
+    "a"
+  ],
+  "meaning": [
+    "межд. удивления, удовлетворения"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "阿"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

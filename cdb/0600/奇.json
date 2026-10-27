@@ -1,0 +1,36 @@
+{
+  "character": "奇",
+  "ranking": 698,
+  "pinyin": [
+    "qi2"
+  ],
+  "meaning": [
+    "странный; нечётное число; нечётный"
+  ],
+  "components": [
+    {
+      "key": "великан",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пистолет-бластер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "大",
+      "可"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

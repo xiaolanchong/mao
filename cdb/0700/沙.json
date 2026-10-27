@@ -1,0 +1,32 @@
+{
+  "character": "沙",
+  "ranking": 771,
+  "pinyin": [
+    "sha1"
+  ],
+  "meaning": [
+    "песок"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "мало",
+      "ad_hoc": false,
+      "position": null,
+      "character": "少"
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "少"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

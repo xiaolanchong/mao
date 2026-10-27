@@ -1,5 +1,6 @@
 {
   "character": "电",
+  "ranking": 88,
   "pinyin": [
     "dian4"
   ],
@@ -38,5 +39,5 @@
       2
     ]
   ],
-  "video": null
+  "video": "video/mnemonics/0001/电.mp4"
 }

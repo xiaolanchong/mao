@@ -1,0 +1,41 @@
+{
+  "character": "夏",
+  "ranking": 705,
+  "pinyin": [
+    "xia4"
+  ],
+  "meaning": [
+    "лето"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лестница",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𦣻",
+      "夂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

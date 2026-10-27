@@ -1,0 +1,41 @@
+{
+  "character": "唱",
+  "ranking": 735,
+  "pinyin": [
+    "chang4"
+  ],
+  "meaning": [
+    "петь"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "昌"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Мой рот сразу начинает петь, если я вижу 2 солнца. Я так и назвал эту песню. Песнь о двух черных (4 тон) солнцах.",
+      2
+    ]
+  ],
+  "video": null
+}

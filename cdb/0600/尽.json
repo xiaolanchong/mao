@@ -1,0 +1,38 @@
+{
+  "character": "尽",
+  "ranking": 651,
+  "pinyin": [
+    "jin4"
+  ],
+  "meaning": [
+    "по возможности; всячески; как можно"
+  ],
+  "components": [
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "подпорка",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "какашки",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пчела"
+    }
+  ],
+  "structure": {
+    "once": [
+      "尸",
+      "㇏",
+      "⺀"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

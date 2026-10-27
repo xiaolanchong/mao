@@ -1,0 +1,46 @@
+{
+  "character": "朝",
+  "ranking": 785,
+  "pinyin": [
+    "chao2"
+  ],
+  "meaning": [
+    "обращённым к, династия, утро"
+  ],
+  "components": [
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "нефертити",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "龺",
+      "月"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Нефертити решила основать собственную ДИНАСТИЮ, она ОБРАТИЛАСЬ к народу УТРОМ, а в честь праздника 20 телег везли духовой оркестр медных (2 тон) труб",
+      2
+    ]
+  ],
+  "video": null
+}

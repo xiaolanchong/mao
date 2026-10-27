@@ -1,0 +1,46 @@
+{
+  "character": "读",
+  "ranking": 626,
+  "pinyin": [
+    "du2"
+  ],
+  "meaning": [
+    "читать"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "голова",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "багор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "卖"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Маньяк 10 раз ЧИТАЕТ инструкцию к пользованию багра, чтобы ловить своих жертв, но она не лезет в его тупенькую голову.",
+      2
+    ]
+  ],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "编",
+  "ranking": 738,
+  "pinyin": [
+    "bian1"
+  ],
+  "meaning": [
+    "коса; плести, сплетать"
+  ],
+  "components": [
+    {
+      "key": "сопливый нос",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бабушка Нефертити",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "纟",
+      "扁"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "检",
+  "ranking": 762,
+  "pinyin": [
+    "jian3"
+  ],
+  "meaning": [
+    "проверять; ревизовать"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ж/д стрелка",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "佥"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

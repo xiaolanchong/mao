@@ -1,0 +1,41 @@
+{
+  "character": "呼",
+  "ranking": 675,
+  "pinyin": [
+    "hu1"
+  ],
+  "meaning": [
+    "выдохнуть; кричать"
+  ],
+  "components": [
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "отбойный молоток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "口",
+      "乎"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "character": "质",
+  "ranking": 647,
+  "pinyin": [
+    "zhi4"
+  ],
+  "meaning": [
+    "качество; качественный"
+  ],
+  "components": [
+    {
+      "key": "крокодильчик слепой",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𣂑",
+      "贝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

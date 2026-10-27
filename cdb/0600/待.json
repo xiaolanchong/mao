@@ -1,0 +1,36 @@
+{
+  "character": "待",
+  "ranking": 612,
+  "pinyin": [
+    "dai4"
+  ],
+  "meaning": [
+    "пробыть; пребывать; задерживаться"
+  ],
+  "components": [
+    {
+      "key": "пюпитр",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "彳",
+      "寺"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

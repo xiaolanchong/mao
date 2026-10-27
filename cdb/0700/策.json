@@ -1,0 +1,37 @@
+{
+  "character": "策",
+  "ranking": 706,
+  "pinyin": [
+    "ce4"
+  ],
+  "meaning": [
+    "замысел; план; выход (из положения); тактический приём"
+  ],
+  "components": [
+    {
+      "key": "фашисты",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "турник",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "⺮",
+      "木",
+      "冂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}
