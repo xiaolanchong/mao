@@ -1,0 +1,31 @@
+{
+  "character": "祖",
+  "ranking": 876,
+  "pinyin": [
+    "zu3"
+  ],
+  "meaning": [
+    "дед; предок"
+  ],
+  "components": [
+    {
+      "key": "топ-модель",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пограничный столбик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "礻",
+      "且"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

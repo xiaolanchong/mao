@@ -1,0 +1,36 @@
+{
+  "character": "险",
+  "ranking": 895,
+  "pinyin": [
+    "xian3"
+  ],
+  "meaning": [
+    "опасный; опасность; риск"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крыша",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ж/д стрелка",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "佥"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

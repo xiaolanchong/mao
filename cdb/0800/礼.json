@@ -1,0 +1,32 @@
+{
+  "character": "礼",
+  "ranking": 854,
+  "pinyin": [
+    "li3"
+  ],
+  "meaning": [
+    "церемония; обряд; этикет; приличие"
+  ],
+  "components": [
+    {
+      "key": "топ-модель",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крючок",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пеликан"
+    }
+  ],
+  "structure": {
+    "once": [
+      "礻",
+      "乚"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

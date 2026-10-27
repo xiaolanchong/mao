@@ -1,0 +1,31 @@
+{
+  "character": "妇",
+  "ranking": 840,
+  "pinyin": [
+    "fu4"
+  ],
+  "meaning": [
+    "(замужняя) женщина"
+  ],
+  "components": [
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "комар",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "女",
+      "彐"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

@@ -1,0 +1,31 @@
+{
+  "character": "既",
+  "ranking": 826,
+  "pinyin": [
+    "ji4"
+  ],
+  "meaning": [
+    "уже, с тех пор"
+  ],
+  "components": [
+    {
+      "key": "китайский ресторан",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "старый монах",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "旡"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

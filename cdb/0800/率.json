@@ -1,0 +1,26 @@
+{
+  "character": "率",
+  "ranking": 880,
+  "pinyin": [
+    "shuai4"
+  ],
+  "meaning": [
+    "норма; тариф; ставка"
+  ],
+  "components": [
+    {
+      "key": "крышка от кастрюли",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亠",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

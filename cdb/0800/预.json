@@ -1,0 +1,41 @@
+{
+  "character": "预",
+  "ranking": 801,
+  "pinyin": [
+    "yu4"
+  ],
+  "meaning": [
+    "заранее; участвовать"
+  ],
+  "components": [
+    {
+      "key": "фуражка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кайло",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "римский легионер",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "予",
+      "页"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Легионер заранее пришёл участвовать в раскопках: надел фуражку, взял кайло… и понял, что забыл главное — где именно копать!",
+      2
+    ]
+  ],
+  "video": null
+}

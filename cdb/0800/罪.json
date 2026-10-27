@@ -1,0 +1,31 @@
+{
+  "character": "罪",
+  "ranking": 834,
+  "pinyin": [
+    "zui4"
+  ],
+  "meaning": [
+    "преступление; вина"
+  ],
+  "components": [
+    {
+      "key": "сетка теннисная",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "антенна",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "罒",
+      "非"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

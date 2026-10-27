@@ -1,0 +1,36 @@
+{
+  "character": "掉",
+  "ranking": 868,
+  "pinyin": [
+    "diao4"
+  ],
+  "meaning": [
+    "падать; выпадать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пулемет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бритва",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "卓"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

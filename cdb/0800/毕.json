@@ -1,0 +1,31 @@
+{
+  "character": "毕",
+  "ranking": 839,
+  "pinyin": [
+    "bi4"
+  ],
+  "meaning": [
+    "кончать, заканчивать"
+  ],
+  "components": [
+    {
+      "key": "матросики",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "десять",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "比",
+      "十"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

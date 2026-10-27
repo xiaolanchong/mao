@@ -1,0 +1,36 @@
+{
+  "character": "付",
+  "ranking": 885,
+  "pinyin": [
+    "fu4"
+  ],
+  "meaning": [
+    "платить"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "亻",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Худой человечек, обязан заПЛАТИТЬ рэкетирам-неграм (4 тон), чтобы его сняли с крюка крана.",
+      2
+    ]
+  ],
+  "video": null
+}

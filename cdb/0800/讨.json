@@ -1,0 +1,31 @@
+{
+  "character": "讨",
+  "ranking": 851,
+  "pinyin": [
+    "tao3"
+  ],
+  "meaning": [
+    "обсуждать; карать; идти войной"
+  ],
+  "components": [
+    {
+      "key": "сексуальный маньяк",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "讠",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

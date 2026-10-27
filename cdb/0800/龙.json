@@ -1,0 +1,32 @@
+{
+  "character": "龙",
+  "ranking": 856,
+  "pinyin": [
+    "long2"
+  ],
+  "meaning": [
+    "1. дракон",
+    "2 императорский"
+  ],
+  "components": [
+    {
+      "key": "дракон",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "匕"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Китайский красный (2 тон) ИМПЕРАТОРСКИЙ ДРАКОН",
+      2
+    ]
+  ],
+  "video": null
+}

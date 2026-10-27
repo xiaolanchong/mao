@@ -1,0 +1,31 @@
+{
+  "character": "宁",
+  "ranking": 875,
+  "pinyin": [
+    "ning2"
+  ],
+  "meaning": [
+    "тихий, спокойный; спокойствие; покой"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кайло",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "丁"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

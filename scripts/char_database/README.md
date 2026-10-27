@@ -12,7 +12,7 @@ Override with `--input` and `--output`. Explicit relative paths resolve from
 the current working directory.
 
 Use `--limit N` to generate only the first N unique characters in CSV order.
-Omitting it generates 500 characters; `--limit 0` writes only an empty index. Negative
+Omitting it generates 900 characters; `--limit 0` writes only an empty index. Negative
 limits are rejected. Existing files in the output directory are retained, so
 use a separate output directory for test runs.
 

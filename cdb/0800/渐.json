@@ -1,0 +1,36 @@
+{
+  "character": "渐",
+  "ranking": 809,
+  "pinyin": [
+    "jian4"
+  ],
+  "meaning": [
+    "постепенно"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "телега",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гиббон",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "氵",
+      "斩"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

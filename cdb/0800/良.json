@@ -1,0 +1,31 @@
+{
+  "character": "良",
+  "ranking": 877,
+  "pinyin": [
+    "liang2"
+  ],
+  "meaning": [
+    "1) хороший; замечательный; 2) очень; весьма"
+  ],
+  "components": [
+    {
+      "key": "знаменосец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艮",
+      "丶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

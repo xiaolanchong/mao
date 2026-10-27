@@ -1,0 +1,31 @@
+{
+  "character": "互",
+  "ranking": 825,
+  "pinyin": [
+    "hu4"
+  ],
+  "meaning": [
+    "взаимно; обоюдно; взаимный; друг другу"
+  ],
+  "components": [
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лыжник",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "一",
+      "彑"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

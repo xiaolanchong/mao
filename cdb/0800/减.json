@@ -1,0 +1,41 @@
+{
+  "character": "减",
+  "ranking": 817,
+  "pinyin": [
+    "jian3"
+  ],
+  "meaning": [
+    "вычитать; отнимать; минус"
+  ],
+  "components": [
+    {
+      "key": "теннисная ракетка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "冫",
+      "咸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

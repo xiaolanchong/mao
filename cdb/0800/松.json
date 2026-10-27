@@ -1,0 +1,36 @@
+{
+  "character": "松",
+  "ranking": 866,
+  "pinyin": [
+    "song1"
+  ],
+  "meaning": [
+    "сосна, свободный"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "8",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "公"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

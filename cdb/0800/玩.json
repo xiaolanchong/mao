@@ -1,0 +1,26 @@
+{
+  "character": "玩",
+  "ranking": 849,
+  "pinyin": [
+    "wan2"
+  ],
+  "meaning": [
+    "играть; забавляться"
+  ],
+  "components": [
+    {
+      "key": "король",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "王",
+      "元"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

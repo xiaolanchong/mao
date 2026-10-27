@@ -1,0 +1,36 @@
+{
+  "character": "控",
+  "ranking": 887,
+  "pinyin": [
+    "kong4"
+  ],
+  "meaning": [
+    "обвинять; контролировать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "баба с коромыслом",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "空"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

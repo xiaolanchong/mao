@@ -1,0 +1,41 @@
+{
+  "character": "肉",
+  "ranking": 878,
+  "pinyin": [
+    "rou4"
+  ],
+  "meaning": [
+    "мясо"
+  ],
+  "components": [
+    {
+      "key": "турник",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "仌",
+      "冂"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "На турнике висел человек, снизу подбежал другой человек и начал вырывать с висячего куски МЯСА и ПЛОТИ, которые он тут же складывал в черные (4 тон) полиэтиленовые мешки",
+      2
+    ]
+  ],
+  "video": null
+}

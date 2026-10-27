@@ -1,0 +1,26 @@
+{
+  "character": "牌",
+  "ranking": 864,
+  "pinyin": [
+    "pai2"
+  ],
+  "meaning": [
+    "табличка; вывеска; доска (напр., для рекламы); карты"
+  ],
+  "components": [
+    {
+      "key": "каратист",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "片",
+      "卑"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

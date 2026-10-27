@@ -1,0 +1,37 @@
+{
+  "character": "帝",
+  "ranking": 842,
+  "pinyin": [
+    "di4"
+  ],
+  "meaning": [
+    "император; божество"
+  ],
+  "components": [
+    {
+      "key": "атлет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "флаг-штандарт",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "冖",
+      "巾"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

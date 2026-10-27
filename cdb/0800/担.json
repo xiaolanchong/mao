@@ -1,0 +1,36 @@
+{
+  "character": "担",
+  "ranking": 815,
+  "pinyin": [
+    "dan1"
+  ],
+  "meaning": [
+    "нести (на плечах, коромысле)"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "旦"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

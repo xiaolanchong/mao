@@ -1,0 +1,31 @@
+{
+  "character": "尼",
+  "ranking": 882,
+  "pinyin": [
+    "ni2"
+  ],
+  "meaning": [
+    "монахиня"
+  ],
+  "components": [
+    {
+      "key": "топор",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "матросик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "尸",
+      "匕"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

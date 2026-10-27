@@ -1,0 +1,31 @@
+{
+  "character": "降",
+  "ranking": 872,
+  "pinyin": [
+    "jiang4"
+  ],
+  "meaning": [
+    "спускать(ся) вниз; снижать(ся); падать"
+  ],
+  "components": [
+    {
+      "key": "удочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "страус эму",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "阝",
+      "夅"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

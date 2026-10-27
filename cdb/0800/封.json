@@ -1,0 +1,41 @@
+{
+  "character": "封",
+  "ranking": 804,
+  "pinyin": [
+    "feng1"
+  ],
+  "meaning": [
+    "жаловать, дарить, даровать"
+  ],
+  "components": [
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "圭",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Краном ставят один росток из земли на другой. Это такие скульптуры из дерева (1 тон) нынче принято ДАРИТЬ, ДАРОВАТЬ своим возлюбленным у крановщиков.",
+      2
+    ]
+  ],
+  "video": null
+}

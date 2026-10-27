@@ -1,0 +1,34 @@
+{
+  "character": "睡",
+  "ranking": 867,
+  "pinyin": [
+    "shui4"
+  ],
+  "meaning": [
+    "спать"
+  ],
+  "components": [
+    {
+      "key": "лестница",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "目",
+      "㇒",
+      "十",
+      "士",
+      "艹"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

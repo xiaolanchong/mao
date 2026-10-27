@@ -1,0 +1,41 @@
+{
+  "character": "弟",
+  "ranking": 820,
+  "pinyin": [
+    "di4"
+  ],
+  "meaning": [
+    "младший брат"
+  ],
+  "components": [
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "丷",
+      "𢎨"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

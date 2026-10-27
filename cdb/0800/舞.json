@@ -1,0 +1,31 @@
+{
+  "character": "舞",
+  "ranking": 890,
+  "pinyin": [
+    "wu3"
+  ],
+  "meaning": [
+    "танец; танцевать"
+  ],
+  "components": [
+    {
+      "key": "колизей",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кенгуру",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "舛"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

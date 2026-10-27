@@ -1,0 +1,36 @@
+{
+  "character": "介",
+  "ranking": 833,
+  "pinyin": [
+    "jie4"
+  ],
+  "meaning": [
+    "находиться между кем-либо/чем-либо"
+  ],
+  "components": [
+    {
+      "key": "человек",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "人",
+      "□"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

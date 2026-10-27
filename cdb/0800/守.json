@@ -1,0 +1,31 @@
+{
+  "character": "守",
+  "ranking": 823,
+  "pinyin": [
+    "shou3"
+  ],
+  "meaning": [
+    "охранять; защищать; оборонять"
+  ],
+  "components": [
+    {
+      "key": "берет",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кран",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "宀",
+      "寸"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

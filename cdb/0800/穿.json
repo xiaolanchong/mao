@@ -1,0 +1,31 @@
+{
+  "character": "穿",
+  "ranking": 847,
+  "pinyin": [
+    "chuan1"
+  ],
+  "meaning": [
+    "1) пронзить; пробить (насквозь); насквозь; 2) одевать"
+  ],
+  "components": [
+    {
+      "key": "баба с коромыслом",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "призрак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "穴",
+      "牙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

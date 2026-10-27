@@ -1,0 +1,36 @@
+{
+  "character": "移",
+  "ranking": 870,
+  "pinyin": [
+    "yi2"
+  ],
+  "meaning": [
+    "перемещать; передвигать"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кенгуру",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кенгуру",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "禾",
+      "多"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

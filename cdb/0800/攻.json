@@ -1,0 +1,37 @@
+{
+  "character": "攻",
+  "ranking": 860,
+  "pinyin": [
+    "gong1"
+  ],
+  "meaning": [
+    "1. нападать, атаковать",
+    "2. штудировать, учиться"
+  ],
+  "components": [
+    {
+      "key": "гантеля",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "工",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Нам выдавали специальные гантели, и УЧИЛИ НАПАДАТЬ на хвостатых цапель в болоте.",
+      2
+    ]
+  ],
+  "video": null
+}

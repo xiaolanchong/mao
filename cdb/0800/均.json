@@ -1,0 +1,41 @@
+{
+  "character": "均",
+  "ranking": 803,
+  "pinyin": [
+    "Jun1"
+  ],
+  "meaning": [
+    "равный; в равной мере; поровну"
+  ],
+  "components": [
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "буратино",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "土",
+      "匀"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

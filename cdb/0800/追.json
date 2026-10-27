@@ -1,0 +1,36 @@
+{
+  "character": "追",
+  "ranking": 865,
+  "pinyin": [
+    "zhui1"
+  ],
+  "meaning": [
+    "гнаться; преследовать; догонять"
+  ],
+  "components": [
+    {
+      "key": "маркитантка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тумбочка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "辶",
+      "𠂤"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

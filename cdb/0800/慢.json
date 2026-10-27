@@ -1,0 +1,46 @@
+{
+  "character": "慢",
+  "ranking": 874,
+  "pinyin": [
+    "man4"
+  ],
+  "meaning": [
+    "медленный"
+  ],
+  "components": [
+    {
+      "key": "сердце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сетка теннисная",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пузо",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "忄",
+      "曼"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Пузан под жарким солнцем, кидал свое сердечко через теннисную сетку, и смотрел как оно МЕДЛЕННО перекатывается и подпрыгивает. Сердечко уже стало грязным и почерневшим (4 тон) от такого обращения",
+      2
+    ]
+  ],
+  "video": null
+}

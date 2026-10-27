@@ -1,0 +1,36 @@
+{
+  "character": "施",
+  "ranking": 845,
+  "pinyin": [
+    "shi1"
+  ],
+  "meaning": [
+    "осуществлять; проводить в жизнь"
+  ],
+  "components": [
+    {
+      "key": "футболист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тяпка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рыбак",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "方",
+      "㐌"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

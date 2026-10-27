@@ -1,0 +1,31 @@
+{
+  "character": "丰",
+  "ranking": 884,
+  "pinyin": [
+    "feng1"
+  ],
+  "meaning": [
+    "богатый, обильный"
+  ],
+  "components": [
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "3",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "三",
+      "丨"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

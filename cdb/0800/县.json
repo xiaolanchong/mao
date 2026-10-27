@@ -1,0 +1,36 @@
+{
+  "character": "县",
+  "ranking": 899,
+  "pinyin": [
+    "xian4"
+  ],
+  "meaning": [
+    "уезд; уездный"
+  ],
+  "components": [
+    {
+      "key": "пограничный столбик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "且",
+      "厶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Каждому УЕЗДУ полагается по по кулю конфет, который кидают на чернозем (4 тон) под пограничный столб.",
+      2
+    ]
+  ],
+  "video": null
+}

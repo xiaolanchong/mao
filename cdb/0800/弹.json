@@ -1,0 +1,37 @@
+{
+  "character": "弹",
+  "ranking": 829,
+  "pinyin": [
+    "dan4",
+    "tan2"
+  ],
+  "meaning": [
+    "шарик; комочек; играть на струнных инструментах"
+  ],
+  "components": [
+    {
+      "key": "кнут",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "бритва",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "弓",
+      "单"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

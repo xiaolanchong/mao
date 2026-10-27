@@ -1,0 +1,36 @@
+{
+  "character": "私",
+  "ranking": 892,
+  "pinyin": [
+    "si1"
+  ],
+  "meaning": [
+    "частный; личный"
+  ],
+  "components": [
+    {
+      "key": "пиковая дама",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кулек конфет",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "禾",
+      "厶"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Дама припрятала куль конфет и ни с кем делится не собирается. Это ЧАСТНЫЙ и глубоко ЛИЧНЫЙ секрет дамы.",
+      2
+    ]
+  ],
+  "video": null
+}

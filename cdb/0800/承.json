@@ -1,0 +1,37 @@
+{
+  "character": "承",
+  "ranking": 811,
+  "pinyin": [
+    "cheng2"
+  ],
+  "meaning": [
+    "принять; подпирать (снизу)"
+  ],
+  "components": [
+    {
+      "key": "вода",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "коса",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "3",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "水",
+      "了",
+      "三"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

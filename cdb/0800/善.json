@@ -1,0 +1,43 @@
+{
+  "character": "善",
+  "ranking": 802,
+  "pinyin": [
+    "shan4"
+  ],
+  "meaning": [
+    "добро; доброта; добрый; хороший"
+  ],
+  "components": [
+    {
+      "key": "баран",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "глазки",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рот",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "羊",
+      "丷",
+      "一",
+      "口"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

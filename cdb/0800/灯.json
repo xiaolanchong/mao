@@ -1,0 +1,36 @@
+{
+  "character": "灯",
+  "ranking": 889,
+  "pinyin": [
+    "deng1"
+  ],
+  "meaning": [
+    "лампа, фонарь"
+  ],
+  "components": [
+    {
+      "key": "костер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кайло",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "火",
+      "丁"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Огонь перекинулся на деревянное (1 тон) кайло, оно хорошо загорелось, и теперь его можно использовать в качестве ЛАМПЫ, правда, недолго.",
+      2
+    ]
+  ],
+  "video": null
+}

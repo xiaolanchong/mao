@@ -1,0 +1,41 @@
+{
+  "character": "翻",
+  "ranking": 838,
+  "pinyin": [
+    "fan1"
+  ],
+  "meaning": [
+    "1) опрокидывать(ся); перевёртываться; 2) переводить; расшифровывать"
+  ],
+  "components": [
+    {
+      "key": "листик",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "рис",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "поле",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "злые близнецы",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "番",
+      "羽"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

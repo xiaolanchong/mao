@@ -1,0 +1,36 @@
+{
+  "character": "贵",
+  "ranking": 832,
+  "pinyin": [
+    "gui4"
+  ],
+  "meaning": [
+    "дорогой"
+  ],
+  "components": [
+    {
+      "key": "стрекоза",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "сирота",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "𠀐",
+      "贝"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

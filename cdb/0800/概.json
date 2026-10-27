@@ -1,0 +1,36 @@
+{
+  "character": "概",
+  "ranking": 873,
+  "pinyin": [
+    "gai4"
+  ],
+  "meaning": [
+    "обобщать; обобщение"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "китайский ресторан",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "старый монах",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "既"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

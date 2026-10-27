@@ -1,0 +1,36 @@
+{
+  "character": "述",
+  "ranking": 843,
+  "pinyin": [
+    "shu4"
+  ],
+  "meaning": [
+    "рассказывать; излагать; описывать"
+  ],
+  "components": [
+    {
+      "key": "маркитантка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "辶",
+      "术"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

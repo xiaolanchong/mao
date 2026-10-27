@@ -1,0 +1,41 @@
+{
+  "character": "置",
+  "ranking": 837,
+  "pinyin": [
+    "zhi4"
+  ],
+  "meaning": [
+    "положить; поместить; перен. поставить"
+  ],
+  "components": [
+    {
+      "key": "сетка теннисная",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "лестница",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "кол",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "罒",
+      "直"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

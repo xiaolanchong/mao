@@ -1,0 +1,31 @@
+{
+  "character": "幸",
+  "ranking": 883,
+  "pinyin": [
+    "xing4"
+  ],
+  "meaning": [
+    "счастье; удача; к счастью"
+  ],
+  "components": [
+    {
+      "key": "10",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "пугало",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "土",
+      "𢆉"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

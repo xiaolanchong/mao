@@ -1,0 +1,41 @@
+{
+  "character": "威",
+  "ranking": 818,
+  "pinyin": [
+    "wei1"
+  ],
+  "meaning": [
+    "величие; могущество, мощь"
+  ],
+  "components": [
+    {
+      "key": "ломик-фомка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "тхэквондист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "копье",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "戌",
+      "女"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

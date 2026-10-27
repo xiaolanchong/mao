@@ -1,0 +1,31 @@
+{
+  "character": "姐",
+  "ranking": 830,
+  "pinyin": [
+    "jie3"
+  ],
+  "meaning": [
+    "старшая сестра"
+  ],
+  "components": [
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пограничный столбик",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "女",
+      "且"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

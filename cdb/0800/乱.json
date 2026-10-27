@@ -1,0 +1,37 @@
+{
+  "character": "乱",
+  "ranking": 814,
+  "pinyin": [
+    "luan4"
+  ],
+  "meaning": [
+    "беспорядочный, хаотичный; как попало"
+  ],
+  "components": [
+    {
+      "key": "язык",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "крючок",
+      "ad_hoc": false,
+      "position": null,
+      "target": "пеликан"
+    }
+  ],
+  "structure": {
+    "once": [
+      "舌",
+      "乚"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Кто-то злой подвесил меня на крючок за язык, теперь я вишу и БЕСПОРЯДОСНО барахтаюсь, а язык весь почернел (4 тон).",
+      2
+    ]
+  ],
+  "video": null
+}

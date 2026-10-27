@@ -1,0 +1,46 @@
+{
+  "character": "模",
+  "ranking": 812,
+  "pinyin": [
+    "mo2"
+  ],
+  "meaning": [
+    "образец; стандарт; подражать"
+  ],
+  "components": [
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "колючая проволока",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "солнце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "великан",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "木",
+      "莫"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Великан привязал к дереву проволокой красный круг и заявил:\n— Это образец солнца, подражайте ему!\nСолнце выглянуло из-за туч и рассмеялось:\n— Ха-ха, ну ты мастер!",
+      2
+    ]
+  ],
+  "video": null
+}

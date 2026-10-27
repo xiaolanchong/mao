@@ -1,0 +1,36 @@
+{
+  "character": "菜",
+  "ranking": 852,
+  "pinyin": [
+    "cai4"
+  ],
+  "meaning": [
+    "овощи; блюдо"
+  ],
+  "components": [
+    {
+      "key": "колючая проволока",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "лапка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "дерево",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "艹",
+      "采"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

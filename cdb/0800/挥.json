@@ -1,0 +1,36 @@
+{
+  "character": "挥",
+  "ranking": 886,
+  "pinyin": [
+    "hui1"
+  ],
+  "meaning": [
+    "махать; размахивать"
+  ],
+  "components": [
+    {
+      "key": "рука",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "скамейка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "телега",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "扌",
+      "军"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

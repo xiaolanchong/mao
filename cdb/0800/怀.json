@@ -1,0 +1,32 @@
+{
+  "character": "怀",
+  "ranking": 824,
+  "pinyin": [
+    "huai2"
+  ],
+  "meaning": [
+    "пазуха; грудь"
+  ],
+  "components": [
+    {
+      "key": "сердце",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "нет",
+      "ad_hoc": false,
+      "position": null,
+      "character": "不"
+    }
+  ],
+  "structure": {
+    "once": [
+      "忄",
+      "不"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

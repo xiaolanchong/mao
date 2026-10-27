@@ -1,0 +1,41 @@
+{
+  "character": "烟",
+  "ranking": 853,
+  "pinyin": [
+    "yan1"
+  ],
+  "meaning": [
+    "дым, сигаретный дым"
+  ],
+  "components": [
+    {
+      "key": "костер",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "ограда",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "великан",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "火",
+      "因"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Великана посадили за ограду и подпалили огнем. Он бегает внутри, весь в ядовитом зеленом (1 тон) ДЫМУ и орет.",
+      2
+    ]
+  ],
+  "video": null
+}

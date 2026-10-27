@@ -1,0 +1,41 @@
+{
+  "character": "敢",
+  "ranking": 888,
+  "pinyin": [
+    "gan3"
+  ],
+  "meaning": [
+    "сметь; осмелиться; мочь"
+  ],
+  "components": [
+    {
+      "key": "ухо",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "серьга",
+      "ad_hoc": true,
+      "position": null
+    },
+    {
+      "key": "хвостатая цапля",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "□",
+      "⺙"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Цапля, воткнув себе в правое ухо серьгу(штангу), единственный из своего стада, кто ОСМЕЛИЛСЯ в отрытую заявить, что он голубой(3 тон)",
+      2
+    ]
+  ],
+  "video": null
+}

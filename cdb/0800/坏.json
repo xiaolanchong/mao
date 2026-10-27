@@ -1,0 +1,37 @@
+{
+  "character": "坏",
+  "ranking": 894,
+  "pinyin": [
+    "huai4"
+  ],
+  "meaning": [
+    "плохой (негодный; дурной; порочный; испорченный)"
+  ],
+  "components": [
+    {
+      "key": "росток",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "нет",
+      "ad_hoc": false,
+      "position": null,
+      "character": "不"
+    }
+  ],
+  "structure": {
+    "once": [
+      "土",
+      "不"
+    ],
+    "radical": []
+  },
+  "mnemonic": [
+    [
+      "Земля в здешних местах ДУРНАЯ, НЕГОДНАЯ, росток весь зачах.",
+      2
+    ]
+  ],
+  "video": null
+}

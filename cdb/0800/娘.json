@@ -1,0 +1,36 @@
+{
+  "character": "娘",
+  "ranking": 855,
+  "pinyin": [
+    "niang2"
+  ],
+  "meaning": [
+    "1) мать; мама; 2) молодая женщина"
+  ],
+  "components": [
+    {
+      "key": "девушка",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "знаменосец",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "пчела",
+      "ad_hoc": false,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "女",
+      "良"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}

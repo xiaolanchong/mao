@@ -1,0 +1,31 @@
+{
+  "character": "兰",
+  "ranking": 836,
+  "pinyin": [
+    "lan2"
+  ],
+  "meaning": [
+    "1) орхидея; 2) элегантный, изящный"
+  ],
+  "components": [
+    {
+      "key": "аист",
+      "ad_hoc": false,
+      "position": null
+    },
+    {
+      "key": "2",
+      "ad_hoc": true,
+      "position": null
+    }
+  ],
+  "structure": {
+    "once": [
+      "丷",
+      "三"
+    ],
+    "radical": []
+  },
+  "mnemonic": [],
+  "video": null
+}
