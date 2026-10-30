@@ -263,7 +263,7 @@
           rad: ⼐
     name: КАСТРЮЛЯ
     images: metal_pot.png
-    text: в зависимости от мнемосцены это может быть любая емкость кружка, стакан
+    text: в зависимости от мнемосцены это может быть любая емкость: кружка, стакан
       и т.д.
     examples: 凼 函
 - key:
@@ -351,7 +351,7 @@
     name: РОТ
     images: mouth.png
     text: отличается от предыдущего размером. В мнемосценках можно заменять любыми
-      квадратными предметами, коробки, кубы и т.д.
+      квадратными предметами: коробками, кубами и т.д.
     examples: 咍 呜 咒
 - key:
     id: monkey
@@ -593,7 +593,7 @@
           rad: 文
     name: СТРОИТЕЛЬ
     images: builder.png
-    text: так уж сложилось - таджик
+    text: ''
     examples: 济 这
 - key:
     id: ostrich_emu
@@ -685,6 +685,15 @@
     images: jeans.png
     text: Полная форма 爫
     examples: 爬 抓
+- key:
+    id: paw
+    sym:
+      - char:
+          rad: 爫
+    name: ЛАПКА
+    images: paw.png
+    text: тигра, кошки или медведя, краткая форма радикала 爪
+    examples: 爱 摇
 - key:
     id: devil_tail
     sym:
@@ -891,7 +900,6 @@
     name: ДВЕРЬ В САЛУН
     images: saloon_door.png
     text: Салун - это ковбойский бар. Предыдущий радикал в традиционном написании.
-      В составе других иероглифов встречаются оба, поэтому пришлось их разделить
     examples: 閟 閵
 - key:
     id: tennis_net
@@ -903,7 +911,7 @@
     name: СЕТКА ТЕННИСНАЯ
     images: tennis_net.png
     text: справа другое написание радикала, кодируется, например, 
-      как сетка для настольного тенниса.
+      как "сетка для настольного тенниса".
     examples: 罗 罷
 - key:
     id: old_monk
@@ -914,7 +922,7 @@
           rad: 无
     name: СТАРЫЙ МОНАХ
     images: old_monk.png
-    text: у него ножка волочется, поэтому и старый:) Второй вариант - это "старый
+    text: у него ножка волочется, поэтому и старый. Второй вариант - это "старый
       монах с копьем"
     examples: 尪 抚
 - key:
@@ -926,6 +934,15 @@
     images: nefertiti.png
     text: была такая луноликая египетская царица, в короне
     examples: 期 望
+- key:
+    id: nefertiti_grandmother
+    sym:
+      - char:
+          rad: 用
+    name: БАБУШКА НЕФЕРТИТИ
+    images: nefertiti_grandmother.png
+    text: ''
+    examples: 甬 甮
 - key:
     id: woman_with_shoulderyoke
     sym:
@@ -989,7 +1006,7 @@
           rad: 开
     name: ЯПОНСКИЕ ВОРОТА
     images: torii.png
-    text: тории, стоят перед синто святилищем
+    text: тории, стоят перед синтоистким святилищем
     examples: 形
 - key:
     id: grind
@@ -1070,7 +1087,7 @@
           rad: 京
     name: МУДРЫЙ КИТАЙСКИЙ СТАРИЧОК
     images: wiseman.png
-    text: с усами Фу Манчу и козлиной бородкой
+    text: с усами в стиле Фу Манчу и козлиной бородкой
     examples: 影 惊
 - key:
     id: horse
@@ -1298,7 +1315,7 @@
           rad: 艮
     name: ЗНАМЕНОСЕЦ
     images: standard_bearer.png
-    text: ''
+    text: 'флаг может быть трех- или двухполосным'
     examples: 艰 银 良
 - key:
     id: electric_train
@@ -1328,7 +1345,7 @@
     name: КУРАНТЫ
     images: chimes.png
     text: '3-этажная башня с часами. Внимание: в зависимости от шрифта и локали, могут
-      показывать 5:45 или 6:15'
+      показывать 5:45 или 6:15 (минутная стрелка налево или направо).'
     examples: 髅 骻
 - key:
     id: hindu
@@ -1346,7 +1363,7 @@
           rad: 黑
     name: ЙОГ
     images: hindu_nails.png
-    text: йог, факир на углях или гвоздях
+    text: йог, факир, сидащий на углях или гвоздях
     examples: 黠 黨 黴
 - key:
     id: mountains
@@ -1605,7 +1622,7 @@
           rad: 亼
     name: КРЫША
     images: roof.png
-    text: 'крыша доме'
+    text: 'крыша дома'
     examples: 偷
 - key:
     id: fascist
@@ -1821,15 +1838,6 @@
     text: ''
     examples: 魆 鬿
 - key:
-    id: nefertiti_grandmother
-    sym:
-      - char:
-          rad: 用
-    name: БАБУШКА НЕФЕРТИТИ
-    images: nefertiti_grandmother.png
-    text: ''
-    examples: 甬 甮
-- key:
     id: suitecase
     sym:
       - char:
@@ -1941,15 +1949,6 @@
     images: taekwondist.png
     text: типа каратиста, только лупит в основном ногами
     examples: 我 饿
-- key:
-    id: paw
-    sym:
-      - char:
-          rad: 爫
-    name: ЛАПКА
-    images: paw.png
-    text: тигра, кошки или медведя
-    examples: 爱 摇
 - key:
     id: knee
     sym:
